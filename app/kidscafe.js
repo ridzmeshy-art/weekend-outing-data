@@ -1,5 +1,5 @@
-// 자동 생성 파일: scripts/kidscafe.mjs 가 우리동네키움포털 목록(2026.10.10 기준)으로 만듦.
-window.KIDSCAFE_AT = "2026.10.10";
+// 자동 생성 파일: scripts/kidscafe.mjs 가 우리동네키움포털 목록(2026.10.16 기준)으로 만듦.
+window.KIDSCAFE_AT = "2026.10.16";
 window.PLACES = (window.PLACES || []).concat([
  {
   "name": "서울형 키즈카페 시립 1호점",

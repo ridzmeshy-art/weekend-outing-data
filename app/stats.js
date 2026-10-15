@@ -1,16 +1,18 @@
 // 자동 생성 파일: scripts/collect.mjs 가 만듦. 직접 고치지 마세요.
-window.DATA_VERSION = 1791622102650;   // 앱이 더 새 데이터인지 비교할 때 씀
+window.DATA_VERSION = 1792091025092;   // 앱이 더 새 데이터인지 비교할 때 씀
 window.STATS = {
- "collectedAt": "2026.10.10",
+ "collectedAt": "2026.10.16",
  "source": "kakao-blog",
  "places": {
   "국립중앙박물관 어린이박물관": {
-   "real": 7857,
-   "ad": 207,
-   "recent": 491,
-   "honestMarks": 1,
-   "sample": 39,
-   "sampleAd": 1,
+   "real": 6454,
+   "ad": 0,
+   "recent": 380,
+   "blogs": 31,
+   "topBlog": 0.03225806451612903,
+   "honestMarks": 0,
+   "sample": 31,
+   "sampleAd": 0,
    "pick": {
     "title": "국립중앙박물관 어린이박물관 예약방법 주차장 유모차 대여 후기",
     "url": "https://blog.naver.com/neeneeflowers/224436597730",
@@ -20,234 +22,236 @@ window.STATS = {
    "parking": {
     "fees": [
      {
-      "text": "기본 60분 1,000원",
-      "posts": 6,
-      "url": "https://blog.naver.com/lifelabstory/224436206933",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "10분당 300원",
-      "posts": 6,
-      "url": "https://blog.naver.com/dbtjs2683/224434859781",
-      "date": "2026-10-08"
-     },
-     {
       "text": "10분당 500원",
-      "posts": 4,
-      "url": "https://blog.naver.com/lifelabstory/224436206933",
-      "date": "2026-10-09"
+      "posts": 9,
+      "url": "https://blog.naver.com/manami1004/224439911433",
+      "date": "2026-10-13"
      },
      {
-      "text": "기본 2시간 2,000원",
-      "posts": 4,
-      "url": "https://blog.naver.com/tpdlwl3000/224436069198",
-      "date": "2026-10-09"
+      "text": "기본 60분 1,000원",
+      "posts": 7,
+      "url": "https://blog.naver.com/manami1004/224439911433",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "30분당 500원",
+      "posts": 3,
+      "url": "https://blog.naver.com/98dream/224441307557",
+      "date": "2026-10-14"
+     },
+     {
+      "text": "1일 최대 30,000원",
+      "posts": 3,
+      "url": "https://blog.naver.com/ndpsn/224417171528",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "국립중앙박물관 어린이박물관 예약방법 주차장 유모차 대여 후기",
-     "url": "https://blog.naver.com/neeneeflowers/224436597730",
-     "blog": "알투투 가족여행기",
-     "date": "2026-10-09"
+     "title": "국립중앙박물관 주차·요금·추천 동선",
+     "url": "https://silk1105.tistory.com/422",
+     "blog": "Happy John",
+     "date": "2026-10-15"
     }
    }
   },
   "서울상상나라": {
-   "real": 36362,
+   "real": 28820,
    "ad": 0,
-   "recent": 676,
-   "honestMarks": 1,
-   "sample": 48,
+   "recent": 507,
+   "blogs": 38,
+   "topBlog": 0.02631578947368421,
+   "honestMarks": 0,
+   "sample": 38,
    "sampleAd": 0,
    "pick": {
-    "title": "서울상상나라 예약 방법 총정리｜관람료·준비물·아이와 나들이 팁 🌈",
-    "url": "https://tommy0922.tistory.com/68",
-    "blog": "일상생활에 도움되는 유용한 정보",
-    "date": "2026-10-06"
+    "title": "4,000원으로 하루 종일! 서울상상나라 예약 방법과 방문 꿀팁",
+    "url": "https://blog.naver.com/jjong_parenting_note/224439922153",
+    "blog": "슈랑 똬 육아노트",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 150원",
-      "posts": 10,
-      "url": "https://lafortune.tistory.com/129",
-      "date": "2026-10-09"
+      "posts": 8,
+      "url": "https://blog.naver.com/ping746/224439680287",
+      "date": "2026-10-13"
      },
      {
       "text": "10분당 300원",
       "posts": 4,
-      "url": "https://blog.naver.com/raamgi/224428745924",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/blessing_star/224441019845",
+      "date": "2026-10-14"
      },
      {
-      "text": "30분 1,500원",
+      "text": "1시간당 1,800원",
       "posts": 2,
-      "url": "https://blog.naver.com/zzang_9999-/224433388028",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/tkdhwjd759/224439239798",
+      "date": "2026-10-12"
      },
      {
-      "text": "10분당 500원",
-      "posts": 2,
-      "url": "https://blog.naver.com/zzang_9999-/224433388028",
-      "date": "2026-10-06"
+      "text": "1시간 1,800원",
+      "posts": 1,
+      "url": "https://blog.naver.com/blessing_star/224441019845",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "서울 나들이 아이와 가볼만한 곳 추천 서울 어린이대공원 동물원 놀이동산 놀이터 주차정보",
-     "url": "https://blog.naver.com/erica0422/224436137496",
-     "blog": "소소한 여행",
-     "date": "2026-10-09"
+     "title": "첫경험 서울 도심 내 놀이공원 \"서울어린이대공원 놀이동산\" 무료입장 주차 키제한 나이제한 탑승가능...",
+     "url": "https://blog.naver.com/aroma0101/224440861726",
+     "blog": "OK님의 끼리낄낄 시트콤 인생",
+     "date": "2026-10-14"
     }
    }
   },
   "국립어린이과학관": {
-   "real": 4700,
+   "real": 3610,
    "ad": 0,
-   "recent": 239,
+   "recent": 177,
+   "blogs": 13,
+   "topBlog": 0.07692307692307693,
    "honestMarks": 1,
-   "sample": 17,
+   "sample": 13,
    "sampleAd": 0,
    "pick": {
-    "title": "국립어린이과학관 예약·입장료·주차 총정리 🔬 서울 아이와 실내 나들이",
-    "url": "https://tommy0922.tistory.com/70",
-    "blog": "일상생활에 도움되는 유용한 정보",
-    "date": "2026-10-06"
+    "title": "국립어린이과학관 주차 총정리! 무료 갓길 주차 팁부터 근처 공영·민영주차장 요금 비교",
+    "url": "https://blog.naver.com/ninyani/224438786587",
+    "blog": "쫑쫑로그",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [],
-    "post": {
-     "title": "[서울/혜화] 째깍원정대 국립어린이과학관 내돈내산 5세 체험 솔직후기 (분리수업, 예약, 주차)",
-     "url": "https://blog.naver.com/soyjournal/224436872000",
-     "blog": "My Daily Soy ˚ෆ*₊",
-     "date": "2026-10-10"
-    }
+    "post": null
    }
   },
   "서울어린이대공원": {
-   "real": 33363,
-   "ad": 379,
-   "recent": 1250,
+   "real": 33868,
+   "ad": 0,
+   "recent": 1208,
+   "blogs": 89,
+   "topBlog": 0.011235955056179775,
    "honestMarks": 1,
    "sample": 89,
-   "sampleAd": 1,
+   "sampleAd": 0,
    "pick": {
-    "title": "서울 어린이대공원 주차 팁 동물원 놀이공원 주말 주차장 후기",
-    "url": "https://blog.naver.com/h_ana_24/224432350230",
-    "blog": "Hyunlog",
-    "date": "2026-10-05"
+    "title": "서울 어린이대공원 단풍 명소 어디? 무료 동물원·주차장 요금·지하철·산책 코스",
+    "url": "https://blog.naver.com/yozumpicklab/224438269818",
+    "blog": "지금 뜨는 이슈, 요즘픽",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 150원",
-      "posts": 7,
-      "url": "https://blog.naver.com/h_ana_24/224432350230",
-      "date": "2026-10-05"
+      "posts": 4,
+      "url": "https://blog.naver.com/vocalnb/224437509192",
+      "date": "2026-10-10"
+     },
+     {
+      "text": "5분 150원",
+      "posts": 1,
+      "url": "https://blog.naver.com/rhtnwjd1312/224435714817",
+      "date": "2026-10-09"
+     },
+     {
+      "text": "시간당 1,800원",
+      "posts": 1,
+      "url": "https://blog.naver.com/irreplaceable_0519/224434527387",
+      "date": "2026-10-08"
      },
      {
       "text": "1시간 3,000원",
       "posts": 1,
       "url": "https://blog.naver.com/w__waz/224432875416",
       "date": "2026-10-06"
-     },
-     {
-      "text": "10분당 300원",
-      "posts": 1,
-      "url": "https://blog.naver.com/raamgi/224428745924",
-      "date": "2026-10-06"
-     },
-     {
-      "text": "5분당 300원",
-      "posts": 1,
-      "url": "https://blog.naver.com/h_ana_24/224432350230",
-      "date": "2026-10-05"
      }
     ],
     "post": {
-     "title": "서울 나들이 아이와 가볼만한 곳 추천 서울 어린이대공원 동물원 놀이동산 놀이터 주차정보",
-     "url": "https://blog.naver.com/erica0422/224436137496",
-     "blog": "소소한 여행",
-     "date": "2026-10-09"
+     "title": "놀이기구 첫경험 서울 도심 내 놀이공원 \"서울어린이대공원 놀이동산\" 무료입장 주차 키제한 나이제한...",
+     "url": "https://blog.naver.com/aroma0101/224440861726",
+     "blog": "OK님의 끼리낄낄 시트콤 인생",
+     "date": "2026-10-14"
     }
    }
   },
   "서울식물원": {
-   "real": 46396,
-   "ad": 580,
-   "recent": 1793,
-   "honestMarks": 0,
+   "real": 46031,
+   "ad": 1165,
+   "recent": 1752,
+   "blogs": 81,
+   "topBlog": 0.012345679012345678,
+   "honestMarks": 2,
    "sample": 81,
-   "sampleAd": 1,
+   "sampleAd": 2,
    "pick": {
-    "title": "아기랑 서울식물원 후기 주차장 꿀팁부터 수유실 위치·입장료·운영시간까지",
-    "url": "https://blog.naver.com/30600park/224436335774",
-    "blog": "나음이의 여행스토리",
-    "date": "2026-10-09"
+    "title": "2026 허준축제 총정리: 서울식물원 공연부터 체험·주차 팁까지 하루 코스 완벽 가이드",
+    "url": "https://blog.naver.com/shjiny1004/224438857473",
+    "blog": "오늘 뜬 이야기",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 150원",
       "posts": 3,
-      "url": "https://blog.naver.com/thisweek_mohae/224436665245",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/matsuhide/224438600944",
+      "date": "2026-10-12"
      },
      {
-      "text": "5분당 450원",
-      "posts": 2,
-      "url": "https://blog.naver.com/thisweek_mohae/224436665245",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "10분당 200원",
-      "posts": 2,
-      "url": "https://blog.naver.com/run_bella/224434889931",
-      "date": "2026-10-08"
-     },
-     {
-      "text": "5분당 300원",
+      "text": "기본 5분 100원",
       "posts": 1,
-      "url": "https://blog.naver.com/thisweek_mohae/224436665245",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/creator2341/224439570758",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "5분 100원",
+      "posts": 1,
+      "url": "https://blog.naver.com/creator2341/224439570758",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "기본 5분 250원",
+      "posts": 1,
+      "url": "https://blog.naver.com/creator2341/224439570758",
+      "date": "2026-10-12"
      }
     ],
     "post": {
-     "title": "'귀호강 라인업' 2026 허준축제 서울식물원 멜로망스 일정 주차 시간 꿀팁",
-     "url": "https://blog.naver.com/and_you2/224436221926",
-     "blog": "율백여행",
-     "date": "2026-10-09"
+     "title": "강서구 서울식물원 주차 5분당 150원 꿀팁과 5세 무료입장 총정리",
+     "url": "https://blog.naver.com/matsuhide/224438600944",
+     "blog": "아빠와 딸의 성장 여행",
+     "date": "2026-10-12"
     }
    }
   },
   "서울시립과학관": {
-   "real": 5181,
+   "real": 5193,
    "ad": 0,
-   "recent": 342,
+   "recent": 322,
+   "blogs": 114,
+   "topBlog": 0.017391304347826087,
    "honestMarks": 2,
    "sample": 115,
    "sampleAd": 0,
    "pick": {
-    "title": "상설전시 무료, 노원 서울시립과학관 어린이 전시실과 주차 꿀팁",
-    "url": "https://blog.naver.com/spica07/224435916780",
-    "blog": "spica07님의 블로그",
-    "date": "2026-10-08"
+    "title": "서울시립과학관 가기 전 정리｜무료 관람·어린이 체험관·주차 안내",
+    "url": "https://ilsang-note.tistory.com/49",
+    "blog": "Rec.ilsang",
+    "date": "2026-10-05"
    },
    "parking": {
     "fees": [],
-    "post": {
-     "title": "상설전시 무료, 노원 서울시립과학관 어린이 전시실과 주차 꿀팁",
-     "url": "https://blog.naver.com/spica07/224435916780",
-     "blog": "spica07님의 블로그",
-     "date": "2026-10-09"
-    }
+    "post": null
    }
   },
   "전쟁기념관 어린이박물관": {
-   "real": 3675,
+   "real": 3578,
    "ad": 0,
-   "recent": 128,
+   "recent": 125,
+   "blogs": 69,
+   "topBlog": 0.014492753623188406,
    "honestMarks": 2,
-   "sample": 71,
+   "sample": 69,
    "sampleAd": 0,
    "pick": {
     "title": "서울 아이랑 갈만한곳 용산 전쟁기념관 어린이박물관 후기, 예약 맛집 추천",
@@ -259,21 +263,21 @@ window.STATS = {
     "fees": [
      {
       "text": "30분당 1,500원",
-      "posts": 16,
+      "posts": 13,
       "url": "https://blog.naver.com/always087/224433010926",
       "date": "2026-10-06"
      },
      {
-      "text": "기본 2시간 4,000원",
-      "posts": 3,
-      "url": "https://blog.naver.com/love77279/224426158599",
-      "date": "2026-10-01"
-     },
-     {
       "text": "2시간 4,000원",
       "posts": 3,
-      "url": "https://blog.naver.com/namiworld_/224408655555",
-      "date": "2026-09-11"
+      "url": "https://blog.naver.com/journalleest/224436484561",
+      "date": "2026-10-09"
+     },
+     {
+      "text": "기본 2시간 4,000원",
+      "posts": 2,
+      "url": "https://blog.naver.com/love77279/224426158599",
+      "date": "2026-10-01"
      },
      {
       "text": "30분당 1500원",
@@ -283,116 +287,122 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "용산 놀거리 용산 전쟁기념관 주차 용산핫플",
-     "url": "https://blog.naver.com/baram1178/224434283818",
-     "blog": "맛과 여행이 있는 곳",
-     "date": "2026-10-08"
+     "title": "서울 아이랑 용산 나들이 코스 | 전쟁기념관 주차부터 용산어린이정원까지 하루 순삭",
+     "url": "https://blog.naver.com/01692338140/224440388792",
+     "blog": "꿈과 현실 그 사이에 나",
+     "date": "2026-10-13"
     }
    }
   },
   "국립민속박물관 어린이박물관": {
-   "real": 4597,
+   "real": 4618,
    "ad": 0,
-   "recent": 204,
+   "recent": 127,
+   "blogs": 4,
+   "topBlog": 0.25,
    "honestMarks": 0,
    "sample": 4,
    "sampleAd": 0,
    "pick": {
-    "title": "국립민속박물관 어린이박물관 아기랑 방문 후기｜주차 요금과 유모차 꿀팁",
-    "url": "https://auramuse.tistory.com/16",
-    "blog": "gleamingmode",
-    "date": "2026-10-09"
+    "title": "\"서울 종로구 체험학습 장소\" 무료 박물관 3곳과 어린이박물관 예약 정리",
+    "url": "https://blog.naver.com/tidlsajtmzptvheh/224439805293",
+    "blog": "포도송이",
+    "date": "2026-10-14"
    },
    "parking": {
     "fees": [
      {
-      "text": "기본 1시간 3,000원",
-      "posts": 4,
-      "url": "https://blog.naver.com/seodam42/224430408363",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "10분당 800원",
-      "posts": 4,
-      "url": "https://blog.naver.com/seodam42/224430408363",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "기본 1시간 5,000원",
+      "text": "1시간 1,000원",
       "posts": 2,
-      "url": "https://auramuse.tistory.com/16",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/pjihye4728/224433951823",
+      "date": "2026-10-12"
      },
      {
-      "text": "기본 2시간 3,000원",
+      "text": "1시간 3,000원",
       "posts": 2,
-      "url": "https://aromajini1.tistory.com/153",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/soristarsound/224439281787",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "10분마다 800원",
+      "posts": 2,
+      "url": "https://blog.naver.com/soristarsound/224439281787",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "5분당 400원",
+      "posts": 2,
+      "url": "https://blog.naver.com/onnoff191/224438978636",
+      "date": "2026-10-12"
      }
     ],
     "post": {
-     "title": "경복궁 주차·입장료 및 관람시간! 경회루·향원정·아미산 코스 팁 (서울 가볼만한곳)",
-     "url": "https://blog.naver.com/seodam42/224430408363",
-     "blog": "서담의 국내여행 코스·실용 팁",
-     "date": "2026-10-10"
+     "title": "2026 경복궁 입장료·무료입장·주차요금 총정리｜한복 무료관람부터 관람시간까지",
+     "url": "https://minhe2.tistory.com/11",
+     "blog": "밍니_blog💙",
+     "date": "2026-10-16"
     }
    }
   },
   "서울숲": {
-   "real": 127926,
+   "real": 127564,
    "ad": 0,
-   "recent": 3533,
-   "honestMarks": 3,
-   "sample": 162,
+   "recent": 3991,
+   "blogs": 160,
+   "topBlog": 0.012422360248447204,
+   "honestMarks": 1,
+   "sample": 161,
    "sampleAd": 0,
    "pick": {
-    "title": "서울숲 주차장 저렴한 곳 총정리｜주말 4시간 주차요금·공영주차장·카페거리 주차 비교",
-    "url": "https://blog.naver.com/x9520/224435060001",
-    "blog": "JLOVE",
-    "date": "2026-10-08"
+    "title": "[서울숲 어린이 뮤지컬] AI세계에서 살아남기 관람 후기! 주차요금 5만 원대 0원 만든 꿀팁 (주차 팁...",
+    "url": "https://blog.naver.com/s012350/224440164802",
+    "blog": "놀아보자 즐거운인생❤️",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 200원",
-      "posts": 6,
-      "url": "https://blog.naver.com/onemov/224436196782",
-      "date": "2026-10-09"
+      "posts": 10,
+      "url": "https://blog.naver.com/dklogblog/224441132160",
+      "date": "2026-10-14"
      },
      {
       "text": "5분당 150원",
-      "posts": 6,
-      "url": "https://blog.naver.com/travelmapjourney/224432409201",
-      "date": "2026-10-06"
+      "posts": 5,
+      "url": "https://blog.naver.com/pjihye4728/224438772489",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "1시간 3,000원",
+      "posts": 3,
+      "url": "https://blog.naver.com/simple_lyn/224440252245",
+      "date": "2026-10-13"
      },
      {
       "text": "1시간 2,400원",
-      "posts": 3,
-      "url": "https://blog.naver.com/manami1004/224433943924",
-      "date": "2026-10-07"
-     },
-     {
-      "text": "1시간 1,800원",
-      "posts": 3,
-      "url": "https://blog.naver.com/anything0897/224431202823",
-      "date": "2026-10-04"
+      "posts": 2,
+      "url": "https://blog.naver.com/daramjoohee/224440797494",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "2026 서울도시농업박람회｜10월 16·17일 서울숲 체험·계란꾸러미 예약·주차",
-     "url": "https://blog.naver.com/onnoff191/224436788485",
-     "blog": "오프앤온 | 일상과 기술 사이",
-     "date": "2026-10-10"
+     "title": "서울숲 은행나무 단풍 시기 산책코스 주차장 요금 총정리",
+     "url": "https://blog.naver.com/dklogblog/224441132160",
+     "blog": "동경로그",
+     "date": "2026-10-14"
     }
    }
   },
   "롯데월드 아쿠아리움": {
-   "real": 13788,
-   "ad": 0,
-   "recent": 450,
+   "real": 14885,
+   "ad": 179,
+   "recent": 460,
+   "blogs": 84,
+   "topBlog": 0.011904761904761904,
    "honestMarks": 4,
-   "sample": 77,
-   "sampleAd": 0,
+   "sample": 84,
+   "sampleAd": 1,
    "pick": {
     "title": "9개월 아기랑 잠실 롯데월드 아쿠아리움 내돈내산 솔직후기 (벨루가, 펭귄 관람, 주차 할인, 유아휴게실...",
     "url": "https://blog.naver.com/whdrudwk/224430633491",
@@ -404,56 +414,58 @@ window.STATS = {
      {
       "text": "10분당 200원",
       "posts": 3,
-      "url": "https://blog.naver.com/blog_supporter/224430320484",
-      "date": "2026-10-03"
+      "url": "https://blog.naver.com/jiny-15/224438712801",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "10분당 800원",
+      "posts": 2,
+      "url": "https://blog.naver.com/joo_runi/224436614153",
+      "date": "2026-10-09"
+     },
+     {
+      "text": "10분당 500원",
+      "posts": 1,
+      "url": "https://blog.naver.com/rouxdiary/224437384516",
+      "date": "2026-10-10"
      },
      {
       "text": "4시간 4800원",
       "posts": 1,
       "url": "https://blog.naver.com/jwlsrkd/224433817651",
       "date": "2026-10-07"
-     },
-     {
-      "text": "10분당 600원",
-      "posts": 1,
-      "url": "https://blog.naver.com/blog_supporter/224430320484",
-      "date": "2026-10-03"
-     },
-     {
-      "text": "10분당 800원",
-      "posts": 1,
-      "url": "https://blog.naver.com/blog_supporter/224430320484",
-      "date": "2026-10-03"
      }
     ],
     "post": {
-     "title": "코엑스·롯데월드 아쿠아리움 비교｜2026 요금·시간·주차",
-     "url": "https://memoriers.tistory.com/348",
-     "blog": "나무늘보의 리뷰세상",
-     "date": "2026-10-09"
+     "title": "잠실 롯데월드 아쿠아리움 후기｜입장권·주차·관람 포인트 총정리",
+     "url": "https://blog.naver.com/byeolha_day/224438349826",
+     "blog": "별거있는 하루",
+     "date": "2026-10-12"
     }
    }
   },
   "코엑스 아쿠아리움": {
-   "real": 24671,
-   "ad": 0,
-   "recent": 571,
+   "real": 22913,
+   "ad": 178,
+   "recent": 514,
+   "blogs": 130,
+   "topBlog": 0.007692307692307693,
    "honestMarks": 4,
-   "sample": 139,
-   "sampleAd": 0,
+   "sample": 130,
+   "sampleAd": 1,
    "pick": {
-    "title": "10월 서울 실내 가볼만한 곳 도라에몽 코엑스 아쿠아리움｜인어쇼 시간표·주차 꿀팁",
-    "url": "https://blog.naver.com/sjchoi0914/224429145639",
-    "blog": "잘먹고 잘사는 쏘쏘",
-    "date": "2026-10-04"
+    "title": "씨라이프 코엑스 아쿠아리움 10월 할인 가격 비교 최저가(+주차팁,인어쇼정보)",
+    "url": "https://blog.naver.com/chachagoes/224428270051",
+    "blog": "ANON THE ROAD",
+    "date": "2026-10-01"
    },
    "parking": {
     "fees": [
      {
       "text": "4시간 4,800원",
-      "posts": 10,
-      "url": "https://blog.naver.com/baby911/224436237609",
-      "date": "2026-10-09"
+      "posts": 8,
+      "url": "https://blog.naver.com/serendipity105/224439679970",
+      "date": "2026-10-13"
      },
      {
       "text": "4시간 4800원",
@@ -462,38 +474,40 @@ window.STATS = {
       "date": "2026-09-30"
      },
      {
+      "text": "15분에 1,500원",
+      "posts": 1,
+      "url": "https://blog.naver.com/pyozip/224438973804",
+      "date": "2026-10-12"
+     },
+     {
       "text": "2시간 4,000원",
       "posts": 1,
       "url": "https://blog.naver.com/manmulsang369/224428078619",
       "date": "2026-10-01"
-     },
-     {
-      "text": "주차 무료",
-      "posts": 1,
-      "url": "https://blog.naver.com/jj870220/224418082464",
-      "date": "2026-09-20"
      }
     ],
     "post": {
-     "title": "코엑스 아쿠아리움 아이와 갈만한곳 입장권 할인 주차 관람 꿀팁",
-     "url": "https://libetab.com/92",
-     "blog": "라이프탭",
-     "date": "2026-10-10"
+     "title": "서울 아이와 가볼만한곳 코엑스 아쿠아리움 공연·VR·주차까지 3인 가족 후기",
+     "url": "https://blog.naver.com/serendipity105/224439679970",
+     "blog": "머무는 일상",
+     "date": "2026-10-13"
     }
    }
   },
   "국립어린이청소년도서관": {
-   "real": 7402,
+   "real": 4641,
    "ad": 0,
-   "recent": 299,
+   "recent": 119,
+   "blogs": 5,
+   "topBlog": 0.2,
    "honestMarks": 0,
-   "sample": 8,
+   "sample": 5,
    "sampleAd": 0,
    "pick": {
-    "title": "[강남 아이랑 카페] 트리오드 케이크를 그램으로 아인슈페너도 맛있잖아! 그리고 국립어린이청소년도서관",
-    "url": "https://blog.naver.com/boony0222/224436096214",
-    "blog": "노는사람",
-    "date": "2026-10-09"
+    "title": "독서록 작성 요령 몰랐다가 과제 때마다 낭패봤습니다·추천도서·문장정리",
+    "url": "https://blog.naver.com/sharejoa/224441299226",
+    "blog": "쉐어조아 - 유튜브프리미엄 박사",
+    "date": "2026-10-14"
    },
    "parking": {
     "fees": [],
@@ -501,164 +515,181 @@ window.STATS = {
    }
   },
   "서울도서관": {
-   "real": 4953,
+   "real": 7447,
    "ad": 0,
-   "recent": 103,
+   "recent": 105,
+   "blogs": 3,
+   "topBlog": 0.3333333333333333,
    "honestMarks": 0,
-   "sample": 2,
+   "sample": 3,
    "sampleAd": 0,
    "pick": {
-    "title": "[서울 시청역 가볼만한 곳] 서울도서관 추천 아이와 실내 나들이. 하늘뜰 야외도서관 정보",
-    "url": "https://blog.naver.com/freedom123_/224437032224",
-    "blog": "여행 그리고 자유",
-    "date": "2026-10-10"
+    "title": "서울시청 도서관 어린이자료코너 위치, 아기 책 대여 방법과 서울도서관 후기",
+    "url": "https://blog.naver.com/wonew11/224441029984",
+    "blog": "귀차니즘 션맘의 육아·일상 기록",
+    "date": "2026-10-14"
    },
    "parking": {
     "fees": [
      {
-      "text": "10분당1,000원",
+      "text": "10분당 1,000원",
       "posts": 1,
-      "url": "https://blog.naver.com/tjslxps0708/224436857683",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/wonew11/224441029984",
+      "date": "2026-10-14"
      }
     ],
     "post": null
    }
   },
   "서울역사박물관": {
-   "real": 5667,
+   "real": 11394,
    "ad": 0,
-   "recent": 435,
+   "recent": 636,
+   "blogs": 48,
+   "topBlog": 0.020833333333333332,
    "honestMarks": 0,
-   "sample": 24,
+   "sample": 48,
    "sampleAd": 0,
    "pick": {
-    "title": "학생 주말 체험학습부터 무료 원데이 클래스까지! 10월 서울 가을 축제 서울역사박물관 야간개장 예약 꿀팁",
-    "url": "https://blog.naver.com/producer77/224436996286",
-    "blog": "부동산 정보&홍보관",
-    "date": "2026-10-10"
+    "title": "서울역사박물관 어린이박물관 7세 아이와 방문 후기 : 예약 방법·패롱이 체험·경희궁 나들이 코스",
+    "url": "https://blog.naver.com/kindly2day/224441317487",
+    "blog": "아이랑 반짝이는 오늘 ◡̈✨",
+    "date": "2026-10-14"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 400원",
-      "posts": 3,
-      "url": "https://blog.naver.com/baickyuna1/224431497525",
-      "date": "2026-10-05"
+      "posts": 4,
+      "url": "https://blog.naver.com/mihee826/224437825389",
+      "date": "2026-10-11"
      },
      {
       "text": "1시간 1,000원",
       "posts": 2,
-      "url": "https://blog.naver.com/localguidek/224429488691",
-      "date": "2026-10-03"
+      "url": "https://blog.naver.com/oh_sis/224437506032",
+      "date": "2026-10-10"
      },
      {
-      "text": "60분 2,000원",
+      "text": "60분 1,000원",
       "posts": 1,
-      "url": "https://little-cat.tistory.com/7012",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/mihee826/224437825389",
+      "date": "2026-10-11"
      },
      {
-      "text": "30분당 2,000원",
+      "text": "5분 400원",
       "posts": 1,
-      "url": "https://little-cat.tistory.com/7012",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/lkpick/224434319423",
+      "date": "2026-10-09"
      }
     ],
     "post": {
      "title": "서울역사박물관 야간 관람, 목요일은 18시까지…주차 2시간은 얼마?",
-     "url": "https://blog.naver.com/jaydreams11/224427354999",
+     "url": "https://blog.naver.com/jaydreams11/224435443746",
      "blog": "토리의 주말지도",
-     "date": "2026-09-30"
+     "date": "2026-10-08"
     }
    }
   },
   "한성백제박물관": {
-   "real": 7970,
-   "ad": 55,
-   "recent": 793,
+   "real": 7010,
+   "ad": 56,
+   "recent": 539,
+   "blogs": 127,
+   "topBlog": 0.007874015748031496,
    "honestMarks": 1,
-   "sample": 145,
+   "sample": 127,
    "sampleAd": 1,
    "pick": {
-    "title": "한성백제박물관 주차 및 주차요금 할인팁, 운영시간 정보",
-    "url": "https://www.a4b4.co.kr/78750",
-    "blog": "★ 솔직리뷰 ~ 여행 맛집 전시 공연",
-    "date": "2026-09-26"
+    "title": "올림픽공원 주차장 요금 총정리｜공연·피크닉·산책·한성백제박물관 주차 꿀팁",
+    "url": "https://blog.naver.com/yzyz9096/224436224643",
+    "blog": "everyday",
+    "date": "2026-10-09"
    },
    "parking": {
     "fees": [
      {
       "text": "10분당 600원",
-      "posts": 29,
-      "url": "https://blog.naver.com/ygscsa/224437079174",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "10분당 1,200원",
-      "posts": 9,
-      "url": "https://blog.naver.com/maggieeblog/224436017789",
-      "date": "2026-10-09"
+      "posts": 28,
+      "url": "https://bboks.tistory.com/14",
+      "date": "2026-10-14"
      },
      {
       "text": "최대 20,000원",
-      "posts": 7,
-      "url": "https://blog.naver.com/triple_tttalk/224435018711",
-      "date": "2026-10-09"
+      "posts": 6,
+      "url": "https://blog.naver.com/teatree92/224440009193",
+      "date": "2026-10-13"
      },
      {
-      "text": "1일 최대 20,000원",
-      "posts": 6,
-      "url": "https://blog.naver.com/hhhong-shi/224433750278",
-      "date": "2026-10-09"
+      "text": "하루 최대 20,000원",
+      "posts": 5,
+      "url": "https://bboks.tistory.com/14",
+      "date": "2026-10-14"
+     },
+     {
+      "text": "10분당 1,200원",
+      "posts": 5,
+      "url": "https://blog.naver.com/djeon0011/224441421793",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "서울 가볼만한곳 | 10월 올림픽공원 들꽃마루 코스모스 실시간 현황 & 주차 꿀팁 (인생샷 스팟)",
-     "url": "https://blog.naver.com/amable6/224436386641",
-     "blog": "✨️하모몬의 웨딩일기✨️",
-     "date": "2026-10-09"
+     "title": "2026 서울 단풍 시기 명소 추천 20곳 남산 창덕궁 후원 서울숲 올림픽공원 주차 코스",
+     "url": "https://blog.naver.com/thatsmine_/224439668346",
+     "blog": "핫도그 붕어빵",
+     "date": "2026-10-13"
     }
    }
   },
   "국립항공박물관": {
-   "real": 8123,
+   "real": 8409,
    "ad": 127,
-   "recent": 381,
-   "honestMarks": 1,
-   "sample": 65,
+   "recent": 438,
+   "blogs": 67,
+   "topBlog": 0.014925373134328358,
+   "honestMarks": 2,
+   "sample": 67,
    "sampleAd": 1,
    "pick": {
-    "title": "\"아이와 주말 나들이 추천! 국립항공박물관 예약부터 주차·입장료 꿀팁 총정리\"",
-    "url": "https://blog.naver.com/issue_m_/224426742291",
-    "blog": "코곰의 블로그",
-    "date": "2026-09-30"
-   },
-   "parking": {
-    "fees": [],
-    "post": null
-   }
-  },
-  "북서울꿈의숲": {
-   "real": 23808,
-   "ad": 0,
-   "recent": 772,
-   "honestMarks": 3,
-   "sample": 162,
-   "sampleAd": 0,
-   "pick": {
-    "title": "북서울꿈의숲 주차 총정리｜주차요금·동문 서문·상상톡톡미술관 주차할인",
-    "url": "https://blog.naver.com/kimks618/224427688668",
-    "blog": "카후의 둥이랑 오늘",
-    "date": "2026-09-30"
+    "title": "서울 아이와 가볼만한곳 국립항공박물관, 무료입장·체험예약·주차 총정리",
+    "url": "https://blog.naver.com/pjihye4728/224433975097",
+    "blog": "아유니랑 지혜롭게❤",
+    "date": "2026-10-09"
    },
    "parking": {
     "fees": [
      {
-      "text": "10분당 300원",
-      "posts": 23,
-      "url": "https://blog.naver.com/red_hyacinth/224434759287",
-      "date": "2026-10-08"
+      "text": "15분마다 500원",
+      "posts": 1,
+      "url": "https://blog.naver.com/chaes_mom/224441025961",
+      "date": "2026-10-14"
+     }
+    ],
+    "post": null
+   }
+  },
+  "북서울꿈의숲": {
+   "real": 23433,
+   "ad": 0,
+   "recent": 807,
+   "blogs": 159,
+   "topBlog": 0.006289308176100629,
+   "honestMarks": 2,
+   "sample": 159,
+   "sampleAd": 0,
+   "pick": {
+    "title": "[북서울꿈의숲] 주차 꿀팁 및 아이랑 가볼만한곳 총정리(수유실, 유모차대여,키즈카페,미술관 등)",
+    "url": "https://blog.naver.com/kjs019/224431652635",
+    "blog": "주부남자의 유쾌한 일상",
+    "date": "2026-10-10"
+   },
+   "parking": {
+    "fees": [
+     {
+      "text": "10분 당 300원",
+      "posts": 18,
+      "url": "https://blog.naver.com/lovely_oov/224438823760",
+      "date": "2026-10-13"
      },
      {
       "text": "1시간 1,800원",
@@ -680,67 +711,71 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "북서울꿈의숲 올망졸망 놀이숲, 30개월 아이와 다녀온 후기｜동문 주차장·놀이터",
-     "url": "https://blog.naver.com/red_hyacinth/224434759287",
-     "blog": "미미네 소소한 날들",
-     "date": "2026-10-08"
+     "title": "북서울꿈의숲 주차장 요금 정보 알려드려요!",
+     "url": "https://blog.naver.com/lovely_oov/224438823760",
+     "blog": "태유미의 끄적임",
+     "date": "2026-10-13"
     }
    }
   },
   "월드컵공원 (하늘공원·난지)": {
-   "real": 14501,
+   "real": 14678,
    "ad": 0,
-   "recent": 2035,
+   "recent": 2683,
+   "blogs": 128,
+   "topBlog": 0.015503875968992248,
    "honestMarks": 0,
-   "sample": 130,
+   "sample": 129,
    "sampleAd": 0,
    "pick": {
-    "title": "마포나루 새우젓축제 월드컵공원 평화의광장 일정 주차 정보",
-    "url": "https://blog.naver.com/cuteyun0/224436348078",
-    "blog": "맛보고다녀보고♥︎",
-    "date": "2026-10-09"
+    "title": "서울 아이와가볼만한곳 / 월드컵공원 평화의공원 ( 주차 , 모험놀이터 꿀팁 )",
+    "url": "https://blog.naver.com/rlaalswl7591/224438657569",
+    "blog": "MJ세계에 오셨군요•_•",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 150원",
-      "posts": 4,
-      "url": "https://blog.naver.com/qmffkd1000/224437202988",
-      "date": "2026-10-10"
+      "posts": 3,
+      "url": "https://blog.naver.com/lamb811/224440086501",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "30분 1,000원",
+      "posts": 1,
+      "url": "https://0xjb-eth.tistory.com/200",
+      "date": "2026-10-15"
+     },
+     {
+      "text": "5분에 150원",
+      "posts": 1,
+      "url": "https://nowhere-a.tistory.com/82",
+      "date": "2026-10-14"
      },
      {
       "text": "10분당 300원",
-      "posts": 2,
-      "url": "https://blog.naver.com/homina25/224435077654",
-      "date": "2026-10-08"
-     },
-     {
-      "text": "4시간 5,000원",
       "posts": 1,
-      "url": "https://blog.naver.com/drunken_all_day/224436914716",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "10분에 300원",
-      "posts": 1,
-      "url": "https://blog.naver.com/hobbyon_/224436188907",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/slowhikecouple/224440507210",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "마포나루 새우젓축제 월드컵공원 평화의광장 일정 주차 정보",
-     "url": "https://blog.naver.com/cuteyun0/224436348078",
-     "blog": "맛보고다녀보고♥︎",
-     "date": "2026-10-09"
+     "title": "주말 방문 전 필독! 월드컵공원 주차장 꿀팁 및 근처 저렴한 민영 주차장 리스트",
+     "url": "https://blog.naver.com/gemsgo/224440801773",
+     "blog": "리뷰를 하는 Gemsgo의 스마트생활",
+     "date": "2026-10-14"
     }
    }
   },
   "서울함공원": {
-   "real": 2994,
+   "real": 3094,
    "ad": 18,
-   "recent": 219,
+   "recent": 212,
+   "blogs": 168,
+   "topBlog": 0.011834319526627219,
    "honestMarks": 4,
-   "sample": 164,
+   "sample": 169,
    "sampleAd": 1,
    "pick": {
     "title": "아이랑 가볼만한곳 서울함공원 관람 후기! 주차·도슨트·입장료 꿀팁 총정리 (망원한강공원)",
@@ -752,15 +787,15 @@ window.STATS = {
     "fees": [
      {
       "text": "10분당 200원",
-      "posts": 13,
-      "url": "https://blog.naver.com/skaho/224436017408",
-      "date": "2026-10-09"
+      "posts": 15,
+      "url": "https://blog.naver.com/fvg0224/224439382842",
+      "date": "2026-10-12"
      },
      {
       "text": "30분 1,000원",
-      "posts": 12,
-      "url": "https://blog.naver.com/teado7009/224432748077",
-      "date": "2026-10-06"
+      "posts": 13,
+      "url": "https://blog.naver.com/kyhdragon1212/224438682572",
+      "date": "2026-10-12"
      },
      {
       "text": "기본 30분 1,000원",
@@ -776,45 +811,47 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "서울함공원 가기 전 정리｜함정 3척 관람료·관람시간·주차 안내",
-     "url": "https://ilsang-note.tistory.com/56",
-     "blog": "Rec.ilsang",
-     "date": "2026-10-05"
+     "title": "[서울 아이와 가볼만한곳]서울함공원 입장료 주차 도슨트 후기(feat. 망원한강공원 피크닉)",
+     "url": "https://blog.naver.com/kyhdragon1212/224438682572",
+     "blog": "용지곤지 결혼기록",
+     "date": "2026-10-12"
     }
    }
   },
   "노들섬": {
-   "real": 21142,
-   "ad": 140,
-   "recent": 2666,
+   "real": 20941,
+   "ad": 0,
+   "recent": 1948,
+   "blogs": 148,
+   "topBlog": 0.006756756756756757,
    "honestMarks": 1,
-   "sample": 152,
-   "sampleAd": 1,
+   "sample": 148,
+   "sampleAd": 0,
    "pick": {
-    "title": "2026 한강 빛섬축제 노들섬 총정리｜기간·시간·교통·야간 데이트 코스",
-    "url": "https://woosin0912.tistory.com/49",
-    "blog": "오늘의 생활연구소",
-    "date": "2026-10-07"
+    "title": "서울라이트 한강 빛섬축제 일정과 프로그램 주차 팁은? 노들섬 방문 후기",
+    "url": "https://blog.naver.com/kingdom7-/224437713913",
+    "blog": "도우미 왕국",
+    "date": "2026-10-10"
    },
    "parking": {
     "fees": [
      {
       "text": "30분 1,000원",
-      "posts": 16,
-      "url": "https://blog.naver.com/workauto/224437006357",
-      "date": "2026-10-10"
+      "posts": 11,
+      "url": "https://blog.naver.com/h_yoom010/224439760004",
+      "date": "2026-10-14"
      },
      {
       "text": "10분당 300원",
-      "posts": 12,
-      "url": "https://blog.naver.com/money0468/224435993322",
-      "date": "2026-10-09"
+      "posts": 9,
+      "url": "https://blog.naver.com/h_yoom010/224439760004",
+      "date": "2026-10-14"
      },
      {
       "text": "1일 최대 15,000원",
       "posts": 3,
-      "url": "https://blog.naver.com/abcct/224431970115",
-      "date": "2026-10-05"
+      "url": "https://blog.naver.com/h_yoom010/224439760004",
+      "date": "2026-10-14"
      },
      {
       "text": "10분마다 300원",
@@ -824,355 +861,371 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "2026 한강 빛섬축제 노들섬｜10월 11일까지 시간·주차·관람 팁",
-     "url": "https://blog.naver.com/enrong912/224437062358",
-     "blog": "은롱2 다이어리",
-     "date": "2026-10-10"
+     "title": "[서울 가볼만한 곳] 공사 후 재개방한 노들섬 방문 후기(+주차, 물품보관함, 배달픽업존 등 총정리)",
+     "url": "https://blog.naver.com/bboyomii_/224438520768",
+     "blog": "미식과 공간의 모음",
+     "date": "2026-10-12"
     }
    }
   },
   "선유도공원": {
-   "real": 11141,
+   "real": 11233,
    "ad": 0,
-   "recent": 410,
-   "honestMarks": 1,
-   "sample": 151,
+   "recent": 439,
+   "blogs": 151,
+   "topBlog": 0.013157894736842105,
+   "honestMarks": 2,
+   "sample": 152,
    "sampleAd": 0,
    "pick": {
-    "title": "선유도공원 양화한강공원 하루종일 데이트코스 주차정보 입장료 이용시간 선상바베큐 한강라면 먹고...",
-    "url": "https://blog.naver.com/sejinshouse/224403586079",
-    "blog": "sejins_house",
-    "date": "2026-09-07"
+    "title": "10월 서울 가을 데이트 코스, 선유도공원 산책부터 선유도역 맛집까지",
+    "url": "https://blog.naver.com/square2121/224440676873",
+    "blog": "스퀘어21 파스타&스테이크 공식블로그",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
       "text": "10분당 200원",
-      "posts": 8,
-      "url": "https://blog.naver.com/teado7009/224432748077",
-      "date": "2026-10-06"
+      "posts": 9,
+      "url": "https://blog.naver.com/docukang/224440757547",
+      "date": "2026-10-13"
      },
      {
       "text": "30분 1,000원",
-      "posts": 6,
-      "url": "https://blog.naver.com/teado7009/224432748077",
-      "date": "2026-10-06"
+      "posts": 7,
+      "url": "https://blog.naver.com/docukang/224440757547",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "1일 최대 10,000원",
+      "posts": 3,
+      "url": "https://blog.naver.com/totoro432/224437845325",
+      "date": "2026-10-11"
      },
      {
       "text": "하루 최대 10,000원",
       "posts": 2,
       "url": "https://blog.naver.com/design__test/224430546234",
       "date": "2026-10-03"
-     },
-     {
-      "text": "1일 최대 10,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/heesuniyo/224430084768",
-      "date": "2026-10-03"
      }
     ],
     "post": {
-     "title": "선유도공원 주차 어디에 해야 할까? 주차요금·추천 주차장 총정리",
-     "url": "https://blog.naver.com/applemint2202/224434022340",
-     "blog": "APPLEMINT-BEAUTY",
-     "date": "2026-10-07"
+     "title": "선유도공원 주차장·가는법·돗자리, 비 그친 오후에 걸어보니",
+     "url": "https://blog.naver.com/docukang/224440757547",
+     "blog": "다큐강's 『나를 찾아 떠나는 여행』",
+     "date": "2026-10-13"
     }
    }
   },
   "여의도한강공원": {
-   "real": 33182,
-   "ad": 313,
-   "recent": 2377,
+   "real": 23000,
+   "ad": 0,
+   "recent": 1272,
+   "blogs": 72,
+   "topBlog": 0.0273972602739726,
    "honestMarks": 1,
-   "sample": 107,
-   "sampleAd": 1,
+   "sample": 73,
+   "sampleAd": 0,
    "pick": {
-    "title": "여의도 피크닉 나들이 코스｜여의나루역에서 여의도한강공원 산책하고 더현대서울 아이쇼핑까지",
-    "url": "https://blog.naver.com/lightest1004/224435866519",
-    "blog": "잇츄의 일상 여행 뷰맛집 기록",
-    "date": "2026-10-08"
+    "title": "여의도 한강공원 주차 한강라면 명당 추천! 편의점 위치·가격부터 기계 조리법까지 꿀팁 방출",
+    "url": "https://blog.naver.com/nam4444444/224437596934",
+    "blog": "부의 추월차선 추월중",
+    "date": "2026-10-10"
    },
    "parking": {
     "fees": [
      {
-      "text": "10분당 300원",
-      "posts": 6,
-      "url": "https://trend.smile-infoshare.com/11",
-      "date": "2026-10-10"
-     },
-     {
       "text": "30분 2,000원",
-      "posts": 5,
-      "url": "https://blog.naver.com/triple_hee333/224435741693",
-      "date": "2026-10-10"
+      "posts": 10,
+      "url": "https://blog.naver.com/gymny/224440863215",
+      "date": "2026-10-14"
      },
      {
-      "text": "30분 1,000원",
+      "text": "10분당 300원",
+      "posts": 8,
+      "url": "https://blog.naver.com/heartqq3393/224438426624",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "주차요금 무료",
       "posts": 2,
-      "url": "https://blog.naver.com/workauto/224437006357",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/aniworldkorea/224438208343",
+      "date": "2026-10-14"
      },
      {
-      "text": "70분에 600원",
-      "posts": 1,
-      "url": "https://blog.naver.com/vv232/224436833363",
-      "date": "2026-10-10"
+      "text": "10분 300원",
+      "posts": 2,
+      "url": "https://blog.naver.com/smile11410/224439333966",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "여의도 한강공원 주차장 배달존 물빛광장 서울 아이랑 갈만한곳",
-     "url": "https://blog.naver.com/triple_hee333/224435741693",
-     "blog": "Triple Hee's Daily life",
-     "date": "2026-10-10"
+     "title": "맛보며 무제한 즐기는 뷔페 '애슐리퀸즈 여의도 한강공원점' 주차장, 위치, 창가 자리 뷰, 이용안내...",
+     "url": "https://blog.naver.com/signal0505/224441331797",
+     "blog": "롤롤터",
+     "date": "2026-10-14"
     }
    }
   },
   "반포한강공원": {
-   "real": 15223,
+   "real": 12595,
    "ad": 0,
-   "recent": 1840,
+   "recent": 1164,
+   "blogs": 86,
+   "topBlog": 0.011627906976744186,
    "honestMarks": 0,
-   "sample": 105,
+   "sample": 86,
    "sampleAd": 0,
    "pick": {
-    "title": "뚜벅뚜벅 축제 일정 총정리｜10월 프로그램·시간·교통통제｜반포한강공원에서 즐기는 차 없는 일요일",
-    "url": "https://blog.naver.com/tifmd1427/224432050523",
-    "blog": "리베테의 깔쌈한 인생",
-    "date": "2026-10-08"
+    "title": "[서울 반포한강공원] 2026년 차 없는 잠수교 뚜벅뚜벅 축제 하반기 방문후기🚶🏻‍♀️🚶🏻 (운영기간/시간...",
+    "url": "https://blog.naver.com/goto_seoul/224438851228",
+    "blog": "유하다",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
      {
       "text": "30분 1,000원",
-      "posts": 17,
-      "url": "https://blog.naver.com/hoya-bro/224436357764",
-      "date": "2026-10-09"
+      "posts": 8,
+      "url": "https://blog.naver.com/make_easy_life/224431897880",
+      "date": "2026-10-14"
      },
      {
       "text": "10분당 200원",
-      "posts": 17,
-      "url": "https://blog.naver.com/hoya-bro/224436357764",
-      "date": "2026-10-09"
+      "posts": 6,
+      "url": "https://blog.naver.com/make_easy_life/224431897880",
+      "date": "2026-10-14"
      },
      {
-      "text": "1일 최대 10,000원",
-      "posts": 5,
-      "url": "https://blog.naver.com/enritpower/224432431717",
-      "date": "2026-10-06"
+      "text": "10분마다 200원",
+      "posts": 2,
+      "url": "https://blog.naver.com/raon-102/224437769982",
+      "date": "2026-10-11"
      },
      {
-      "text": "기본 30분 1,000원",
+      "text": "1시간 1,600원",
       "posts": 1,
-      "url": "https://blog.naver.com/happyrain012/224430325237",
-      "date": "2026-10-03"
+      "url": "https://blog.naver.com/dennis0525/224437982900",
+      "date": "2026-10-11"
      }
     ],
     "post": {
-     "title": "한강반포지구 반포 한강공원 달빛무지개분수 시간표, 주차장, 10월31일까지 운영",
-     "url": "https://blog.naver.com/24-08-30/224435563375",
-     "blog": "다음은 어디 ˚✧₊⁎",
-     "date": "2026-10-08"
+     "title": "반포 한강 공원 주차장 주차비 요금 주말 운영시간 총정리",
+     "url": "https://blog.naver.com/dennis0525/224437982900",
+     "blog": "칩칩이의 여행일기",
+     "date": "2026-10-11"
     }
    }
   },
   "뚝섬한강공원": {
-   "real": 21511,
-   "ad": 162,
-   "recent": 2754,
+   "real": 15024,
+   "ad": 163,
+   "recent": 1332,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 0,
-   "sample": 134,
+   "sample": 93,
    "sampleAd": 1,
    "pick": {
-    "title": "2026 한강 드론라이트쇼 10월 9일 일정｜뚝섬한강공원 명당 위치와 관람 꿀팁",
-    "url": "https://blog.naver.com/garcarrot/224435649452",
-    "blog": "오늘도 성수 블로그",
-    "date": "2026-10-08"
+    "title": "2026 뚝섬한강공원 자벌레 한강플플 1층·3층 무료 입장 방법, 야간 연장 운영시간, 지하철 자양역 동선...",
+    "url": "https://ohra-nee.tistory.com/541",
+    "blog": "ohra-nee 님의 블로그",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "30분 1,000원",
       "posts": 6,
-      "url": "https://blog.naver.com/yummyyummyminy/224436624833",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/kkamsun8573/224438205713",
+      "date": "2026-10-11"
      },
      {
       "text": "10분당 200원",
       "posts": 5,
-      "url": "https://blog.naver.com/yummyyummyminy/224436624833",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/kkamsun8573/224438205713",
+      "date": "2026-10-11"
      },
      {
       "text": "5분당 200원",
-      "posts": 1,
-      "url": "https://blog.naver.com/nasol091/224435752188",
-      "date": "2026-10-09"
+      "posts": 3,
+      "url": "https://blog.naver.com/prajna_me/224439998757",
+      "date": "2026-10-13"
      },
      {
-      "text": "1시간에 2,400원",
-      "posts": 1,
-      "url": "https://blog.naver.com/nasol091/224435752188",
-      "date": "2026-10-09"
+      "text": "1일 최대 10,000원",
+      "posts": 2,
+      "url": "https://blog.naver.com/jungguy39/224435584116",
+      "date": "2026-10-11"
      }
     ],
     "post": {
-     "title": "뚝섬 한강공원 주차장 만차 시 꿀팁, 자양유수지 공영주차장 이용 후기",
-     "url": "https://blog.naver.com/nasol091/224435752188",
-     "blog": "OctoberLog",
-     "date": "2026-10-09"
+     "title": "[서울형키즈카페 시립 뚝섬 자벌레점] 한강플플과 뚝섬한강공원공원 놀이터(주차팁 포함)",
+     "url": "https://blog.naver.com/kidsnavi/224437770961",
+     "blog": "[키즈네비]서울 예스키즈존 아기친화 식당지도",
+     "date": "2026-10-11"
     }
    }
   },
   "이촌한강공원": {
-   "real": 5754,
-   "ad": 125,
-   "recent": 489,
-   "honestMarks": 0,
-   "sample": 94,
+   "real": 6546,
+   "ad": 126,
+   "recent": 585,
+   "blogs": 106,
+   "topBlog": 0.009433962264150943,
+   "honestMarks": 3,
+   "sample": 106,
    "sampleAd": 2,
    "pick": {
-    "title": "노들섬 개방 피크닉 서울라이트 한강빛섬축제 이촌한강공원 주차장 팁",
-    "url": "https://blog.naver.com/0505ej/224425349783",
-    "blog": "Jiny's Delicious Travel Story",
-    "date": "2026-09-28"
+    "title": "용산야장 10월 코스추천_ 오담 받터 이촌한강공원 소품샵",
+    "url": "https://blog.naver.com/mal_e222/224427300496",
+    "blog": "Studio Archive_여기꽃이다",
+    "date": "2026-09-30"
    },
    "parking": {
     "fees": [
      {
       "text": "30분 1,000원",
       "posts": 20,
-      "url": "https://blog.naver.com/workauto/224437006357",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/applemint2202/224437727362",
+      "date": "2026-10-11"
      },
      {
       "text": "10분당 200원",
-      "posts": 10,
-      "url": "https://blog.naver.com/abctoxyz123/224436092706",
-      "date": "2026-10-09"
+      "posts": 11,
+      "url": "https://blog.naver.com/chaenee82/224441215373",
+      "date": "2026-10-14"
      },
      {
       "text": "10분당 300원",
-      "posts": 10,
-      "url": "https://blog.naver.com/hosu_zip/224432213780",
-      "date": "2026-10-05"
+      "posts": 7,
+      "url": "https://blog.naver.com/eventradar365/224437311600",
+      "date": "2026-10-10"
      },
      {
       "text": "1일 최대 15,000원",
-      "posts": 7,
+      "posts": 4,
       "url": "https://iamhappyy.tistory.com/90",
       "date": "2026-10-05"
      }
     ],
     "post": {
-     "title": "서울 노들섬 개방 주차 이촌한강공원 피크닉 2026 서울라이트 한강 빛섬축제",
-     "url": "https://blog.naver.com/anjjang35/224424673222",
-     "blog": "행복을 꿈꾸는 쑤~기",
-     "date": "2026-09-28"
+     "title": "이촌한강공원 피크닉 준비물 주차장 솔직 후기 추천",
+     "url": "https://blog.naver.com/chaenee82/224441215373",
+     "blog": "일상으로 채움ෆ",
+     "date": "2026-10-14"
     }
    }
   },
   "올림픽공원": {
-   "real": 89675,
+   "real": 94119,
    "ad": 0,
-   "recent": 2637,
-   "honestMarks": 1,
-   "sample": 153,
+   "recent": 3269,
+   "blogs": 160,
+   "topBlog": 0.00625,
+   "honestMarks": 6,
+   "sample": 160,
    "sampleAd": 0,
    "pick": {
-    "title": "올림픽공원 주차요금 할인 정리 산책코스까지 한 번에 정리",
-    "url": "https://blog.naver.com/chaeunstory/224433504036",
-    "blog": "Lulu moment",
-    "date": "2026-10-06"
+    "title": "🐞 서울 올림픽공원 주차장 완벽 가이드｜주차요금·출입문 꿀팁·만차 대처·편의시설·교통 총정리",
+    "url": "https://blog.naver.com/bugtvkr/224437700350",
+    "blog": "무돌이·무순이 여행 중!BUGTVKR",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "10분당 600원",
-      "posts": 29,
-      "url": "https://blog.naver.com/ygscsa/224437079174",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "10분당 1,200원",
-      "posts": 9,
-      "url": "https://blog.naver.com/maggieeblog/224436017789",
-      "date": "2026-10-09"
+      "posts": 28,
+      "url": "https://bboks.tistory.com/14",
+      "date": "2026-10-14"
      },
      {
       "text": "최대 20,000원",
-      "posts": 7,
-      "url": "https://blog.naver.com/triple_tttalk/224435018711",
-      "date": "2026-10-09"
+      "posts": 6,
+      "url": "https://blog.naver.com/teatree92/224440009193",
+      "date": "2026-10-13"
      },
      {
-      "text": "1일 최대 20,000원",
-      "posts": 6,
-      "url": "https://blog.naver.com/hhhong-shi/224433750278",
-      "date": "2026-10-09"
+      "text": "하루 최대 20,000원",
+      "posts": 5,
+      "url": "https://bboks.tistory.com/14",
+      "date": "2026-10-14"
+     },
+     {
+      "text": "10분당 1,200원",
+      "posts": 5,
+      "url": "https://blog.naver.com/djeon0011/224441421793",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "서울 가볼만한곳 | 10월 올림픽공원 들꽃마루 코스모스 실시간 현황 & 주차 꿀팁 (인생샷 스팟)",
-     "url": "https://blog.naver.com/amable6/224436386641",
-     "blog": "✨️하모몬의 웨딩일기✨️",
-     "date": "2026-10-09"
+     "title": "2026 서울 단풍 시기 명소 추천 20곳 남산 창덕궁 후원 서울숲 올림픽공원 주차 코스",
+     "url": "https://blog.naver.com/thatsmine_/224439668346",
+     "blog": "핫도그 붕어빵",
+     "date": "2026-10-13"
     }
    }
   },
   "보라매공원": {
-   "real": 25148,
+   "real": 24556,
    "ad": 0,
-   "recent": 1061,
-   "honestMarks": 1,
-   "sample": 151,
+   "recent": 1248,
+   "blogs": 147,
+   "topBlog": 0.006802721088435374,
+   "honestMarks": 2,
+   "sample": 147,
    "sampleAd": 0,
    "pick": {
-    "title": "“보라매공원 갈 때 어디 세울까?” 롯데백화점 관악점 주차요금·무료주차 꿀팁",
-    "url": "https://pkmprpd.tistory.com/493",
-    "blog": "유익한 블로그",
-    "date": "2026-10-05"
+    "title": "신대방맛집 청가맛 보라매공원 솥밥 한상",
+    "url": "https://blog.naver.com/dkfhd655/224437469062",
+    "blog": "해니야 여행가자",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 360원",
       "posts": 7,
-      "url": "https://blog.naver.com/mollang124/224430260153",
-      "date": "2026-10-04"
+      "url": "https://blog.naver.com/consuella/224437301747",
+      "date": "2026-10-10"
      },
      {
-      "text": "5분당 130원",
-      "posts": 1,
-      "url": "https://blog.naver.com/s600105/224425400649",
-      "date": "2026-09-29"
+      "text": "5분당 150원",
+      "posts": 2,
+      "url": "https://blog.naver.com/grapefruit014/224440752701",
+      "date": "2026-10-13"
      },
      {
-      "text": "주차 무료",
+      "text": "1시간 1,800원",
       "posts": 1,
-      "url": "https://ccckeeping.tistory.com/125",
-      "date": "2026-09-29"
+      "url": "https://blog.naver.com/grapefruit014/224440752701",
+      "date": "2026-10-13"
      },
      {
-      "text": "10분당 720원",
+      "text": "5분당 1,080원",
       "posts": 1,
-      "url": "https://blog.naver.com/grapefruit014/224419300284",
-      "date": "2026-09-22"
+      "url": "https://blog.naver.com/consuella/224437301747",
+      "date": "2026-10-10"
      }
     ],
     "post": {
-     "title": "“보라매공원 갈 때 어디 세울까?” 롯데백화점 관악점 주차요금·무료주차 꿀팁",
-     "url": "https://pkmprpd.tistory.com/493",
-     "blog": "유익한 블로그",
-     "date": "2026-10-05"
+     "title": "맞으며 땀 뻘뻘! 보라매공원 배드민턴장 내돈내산...삼성쉐르빌 3시간 무료주차 꿀팁·코트 자리 잡기...",
+     "url": "https://blog.naver.com/diary_minzi/224440189555",
+     "blog": "MZ의 다이어리",
+     "date": "2026-10-13"
     }
    }
   },
   "서울창포원": {
-   "real": 1886,
+   "real": 1932,
    "ad": 0,
-   "recent": 47,
+   "recent": 51,
+   "blogs": 156,
+   "topBlog": 0.00641025641025641,
    "honestMarks": 0,
-   "sample": 153,
+   "sample": 156,
    "sampleAd": 0,
    "pick": {
     "title": "서울 창포원 완벽 가이드 | 주차·대중교통·도보 코스까지",
@@ -1216,59 +1269,63 @@ window.STATS = {
    }
   },
   "양재시민의숲": {
-   "real": 11607,
-   "ad": 90,
-   "recent": 446,
-   "honestMarks": 4,
-   "sample": 130,
-   "sampleAd": 1,
+   "real": 12584,
+   "ad": 0,
+   "recent": 851,
+   "blogs": 139,
+   "topBlog": 0.007194244604316547,
+   "honestMarks": 2,
+   "sample": 139,
+   "sampleAd": 0,
    "pick": {
-    "title": "양재시민의숲 단풍 실시간 CCTV, 절정시기, 인기코스, 주차장, 혼잡도 확인: 2026년 주차 대란 피하기",
-    "url": "https://blog.naver.com/creator2341/224418968339",
-    "blog": "쪼꼬노트",
-    "date": "2026-09-21"
+    "title": "양재시민의숲 나들이 가이드 주차 맛집 정원박람회 완벽 정리",
+    "url": "https://blog.naver.com/jkcho0207/224439338735",
+    "blog": "제이크의 세상만사",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
      {
       "text": "10분당 500원",
-      "posts": 15,
-      "url": "https://blog.naver.com/enrong912/224437172211",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "10분 500원",
-      "posts": 6,
-      "url": "https://blog.naver.com/skaho/224436887400",
-      "date": "2026-10-10"
+      "posts": 9,
+      "url": "https://blog.naver.com/nlife___23/224438404159",
+      "date": "2026-10-11"
      },
      {
       "text": "1시간 3,000원",
       "posts": 6,
-      "url": "https://blog.naver.com/lastroco/224435339446",
-      "date": "2026-10-08"
+      "url": "https://blog.naver.com/simple_lyn/224440252245",
+      "date": "2026-10-13"
      },
      {
-      "text": "10분당 700원",
+      "text": "10분 500원",
+      "posts": 6,
+      "url": "https://blog.naver.com/shasha211/224438650580",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "5분당 250원",
       "posts": 5,
-      "url": "https://blog.naver.com/estateagent3/224436080506",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/blackcatgo/224440805694",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "양재시민의숲 단풍 실시간 CCTV, 절정시기, 인기코스, 주차장, 혼잡도 확인: 2026년 주차 대란 피하기",
-     "url": "https://blog.naver.com/creator2341/224418968339",
-     "blog": "쪼꼬노트",
-     "date": "2026-09-21"
+     "title": "양재시민의 숲, 이름이 바뀐 이유는? 단풍 명소·산책코스·주차·가는 길 총정리",
+     "url": "https://blog.naver.com/youyou_0601_/224438857644",
+     "blog": "정보大창고",
+     "date": "2026-10-12"
     }
    }
   },
   "길동생태공원": {
-   "real": 4012,
+   "real": 4073,
    "ad": 0,
-   "recent": 72,
+   "recent": 69,
+   "blogs": 141,
+   "topBlog": 0.0070921985815602835,
    "honestMarks": 0,
-   "sample": 139,
+   "sample": 141,
    "sampleAd": 0,
    "pick": {
     "title": "길동생태공원 단풍 실시간 CCTV, 절정시기, 인기코스, 주차장, 혼잡도 확인: 2026년 사전예약 및 주차...",
@@ -1282,69 +1339,81 @@ window.STATS = {
    }
   },
   "강서습지생태공원": {
-   "real": 0,
+   "real": 1136,
    "ad": 0,
-   "recent": 0,
+   "recent": 58,
+   "blogs": 3,
+   "topBlog": 0.3333333333333333,
    "honestMarks": 0,
-   "sample": 0,
-   "sampleAd": 0,
-   "pick": null,
-   "parking": {
-    "fees": [
-     {
-      "text": "30분 1,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/summerthecat/224432858254",
-      "date": "2026-10-06"
-     },
-     {
-      "text": "10분당 200원",
-      "posts": 1,
-      "url": "https://blog.naver.com/summerthecat/224432858254",
-      "date": "2026-10-06"
-     }
-    ],
-    "post": {
-     "title": "서울 피크닉 명소 | 강서한강공원 | 가는법•주차•배달•편의점•한강라면•자전거 | 강서습지생태공원",
-     "url": "https://blog.naver.com/summerthecat/224432858254",
-     "blog": "글쓴이의 기록일지",
-     "date": "2026-10-06"
-    }
-   }
-  },
-  "남산공원·N서울타워": {
-   "real": 7904,
-   "ad": 0,
-   "recent": 223,
-   "honestMarks": 1,
-   "sample": 18,
+   "sample": 3,
    "sampleAd": 0,
    "pick": {
-    "title": "서울 아이랑 갈만한곳 남산서울타워 케이블카 주말 대기시간, 티켓가격 남산타워가는법",
-    "url": "https://blog.naver.com/moand_j/224435688003",
-    "blog": "오늘 모모핸니",
-    "date": "2026-10-08"
+    "title": "2026 서울 한강페스티벌 가을｜아이와 무료체험·공연·예약·주차 총정리",
+    "url": "https://blog.naver.com/dudamlog/224441393686",
+    "blog": "두 아이의 이야기를 담다",
+    "date": "2026-10-14"
    },
    "parking": {
     "fees": [],
     "post": null
    }
   },
-  "문화비축기지": {
-   "real": 3864,
+  "남산공원·N서울타워": {
+   "real": 5724,
    "ad": 0,
-   "recent": 421,
+   "recent": 180,
+   "blogs": 13,
+   "topBlog": 0.07692307692307693,
    "honestMarks": 0,
-   "sample": 128,
+   "sample": 13,
    "sampleAd": 0,
    "pick": {
-    "title": "문화비축기지 아이랑 마포 가볼만한곳, 주차 한 번에 도는 무료 코스 정리",
-    "url": "https://blog.naver.com/pumpanda/224436706985",
-    "blog": "일상의 로그 — 느슨하게, 그러나 계속 기록합니다.",
-    "date": "2026-10-09"
+    "title": "서울 가볼만한 곳 남산서울타워 전망대, 두 딸과 걸어서 오른 남산",
+    "url": "https://blog.naver.com/rb545/224435392777",
+    "blog": "인생의 다음 페이지",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
+     {
+      "text": "주차는 무료",
+      "posts": 1,
+      "url": "https://foodlist.tistory.com/31",
+      "date": "2026-10-14"
+     }
+    ],
+    "post": null
+   }
+  },
+  "문화비축기지": {
+   "real": 4011,
+   "ad": 0,
+   "recent": 381,
+   "blogs": 132,
+   "topBlog": 0.007575757575757576,
+   "honestMarks": 0,
+   "sample": 132,
+   "sampleAd": 0,
+   "pick": {
+    "title": "[주말 나들이] 문화비축기지 5개월 아기랑 '포르쉐 바이브 서울' 다녀온 솔직 후기 (유모차/주차팁)",
+    "url": "https://blog.naver.com/chobani9/224432447112",
+    "blog": "요리 일상 그리고 여행",
+    "date": "2026-10-05"
+   },
+   "parking": {
+    "fees": [
+     {
+      "text": "5분당 150원",
+      "posts": 4,
+      "url": "https://blog.naver.com/gemsgo/224440806034",
+      "date": "2026-10-14"
+     },
+     {
+      "text": "1시간 1,800원",
+      "posts": 2,
+      "url": "https://blog.naver.com/happy_man0602/224437622702",
+      "date": "2026-10-11"
+     },
      {
       "text": "10분당 300원",
       "posts": 2,
@@ -1352,38 +1421,28 @@ window.STATS = {
       "date": "2026-10-10"
      },
      {
-      "text": "5분당 150원",
-      "posts": 2,
-      "url": "https://blog.naver.com/bk0221/224433011060",
-      "date": "2026-10-06"
-     },
-     {
-      "text": "4시간 5,000원",
+      "text": "30분 900원",
       "posts": 1,
-      "url": "https://blog.naver.com/pumpanda/224436706985",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "30분 1,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/teado7009/224432748077",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/happy_man0602/224437622702",
+      "date": "2026-10-11"
      }
     ],
     "post": {
-     "title": "문화비축기지 아이랑 마포 가볼만한곳, 주차 한 번에 도는 무료 코스 정리",
-     "url": "https://blog.naver.com/pumpanda/224436706985",
-     "blog": "일상의 로그 — 느슨하게, 그러나 계속 기록합니다.",
-     "date": "2026-10-10"
+     "title": "문화비축기지 서울 이색 건축물ㅣ마포 가볼만한곳 주차 도슨트 총정리",
+     "url": "https://blog.naver.com/rhtnwjd1312/224436644662",
+     "blog": "핏짜의 하루",
+     "date": "2026-10-11"
     }
    }
   },
   "서대문자연사박물관": {
-   "real": 12472,
+   "real": 12198,
    "ad": 0,
-   "recent": 380,
+   "recent": 343,
+   "blogs": 169,
+   "topBlog": 0.005917159763313609,
    "honestMarks": 1,
-   "sample": 173,
+   "sample": 169,
    "sampleAd": 0,
    "pick": {
     "title": "20개월 아기랑 서대문 자연사박물관 후기! 주차·관람 팁부터 근처 맛집 우동카덴까지",
@@ -1395,21 +1454,21 @@ window.STATS = {
     "fees": [
      {
       "text": "10분당 500원",
-      "posts": 8,
+      "posts": 7,
       "url": "https://blog.naver.com/pinkyul_zzingg/224426470389",
       "date": "2026-09-30"
      },
      {
-      "text": "기본 2시간 3,000원",
+      "text": "2시간 3,000원",
       "posts": 6,
-      "url": "https://blog.naver.com/hydn28/224435782195",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/nadrilab/224440058895",
+      "date": "2026-10-13"
      },
      {
-      "text": "2시간 3,000원",
+      "text": "기본 2시간 3,000원",
       "posts": 5,
-      "url": "https://blog.naver.com/jaydreams11/224433074885",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/hydn28/224435782195",
+      "date": "2026-10-09"
      },
      {
       "text": "5분당 500원",
@@ -1419,85 +1478,67 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "서울 아이와 가볼 만한 곳 서대문 자연사 박물관｜37개월 아기 입장료/주차/이용후기",
-     "url": "https://blog.naver.com/hydn28/224435782195",
-     "blog": "엄마로 다시 시작하는 현실 기록",
-     "date": "2026-10-09"
+     "title": "서대문자연사박물관 4세 이하 무료, 주차는 2시간 3,000원이에요",
+     "url": "https://blog.naver.com/nadrilab/224440058895",
+     "blog": "나들이랩",
+     "date": "2026-10-13"
     }
    }
   },
   "국립한글박물관": {
-   "real": 15897,
-   "ad": 129,
-   "recent": 5245,
+   "real": 12706,
+   "ad": 0,
+   "recent": 1292,
+   "blogs": 97,
+   "topBlog": 0.010309278350515464,
    "honestMarks": 0,
-   "sample": 124,
-   "sampleAd": 1,
+   "sample": 97,
+   "sampleAd": 0,
    "pick": {
-    "title": "국립한글박물관 훈민정음 해례본 관람 꿀팁: 무료 관람 예약 및 주차 할인 총정리",
-    "url": "https://blog.naver.com/announce2735/224435949429",
-    "blog": "joys_rchive",
-    "date": "2026-10-08"
+    "title": "2026 한글날 아이와 가볼 만한 곳 총정리 | 용산 국립한글박물관·용산공원 체험 명소 🌸",
+    "url": "https://blog.naver.com/tpdlwl3000/224436069198",
+    "blog": "김유경의 선견지명",
+    "date": "2026-10-09"
    },
    "parking": {
-    "fees": [
-     {
-      "text": "기본 2시간 2,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/tpdlwl3000/224436069198",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "30분당 500원",
-      "posts": 1,
-      "url": "https://blog.naver.com/tpdlwl3000/224436069198",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "1일 최대 10,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/tpdlwl3000/224436069198",
-      "date": "2026-10-09"
-     }
-    ],
+    "fees": [],
     "post": null
    }
   },
   "서울공예박물관": {
-   "real": 7636,
+   "real": 7142,
    "ad": 0,
-   "recent": 463,
+   "recent": 461,
+   "blogs": 54,
+   "topBlog": 0.018518518518518517,
    "honestMarks": 0,
-   "sample": 58,
+   "sample": 54,
    "sampleAd": 0,
    "pick": {
-    "title": "안국역 경복궁 북촌 서울공예박물관 어린이박물관 예약하는법. 홈페이지 예약링크. 현장예약 꿀팁...",
-    "url": "https://blog.naver.com/lifesaver999/224428365954",
-    "blog": "일상, 건강한 여행",
-    "date": "2026-10-01"
+    "title": "아이랑 북촌 나들이 코스｜국립현대미술관 전시·서울공예박물관 예약 및 취소표 꿀팁",
+    "url": "https://blog.naver.com/ggoniroom/224438879678",
+    "blog": "나의 육아일기",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [],
-    "post": {
-     "title": "[서울 무료전시] 서울공예박물관 2026 야간개관 21시, 예약·주차·전시일정 총정리",
-     "url": "https://blog.naver.com/cicelly/224436884055",
-     "blog": "씨셀리(로이맘) 블로그",
-     "date": "2026-10-10"
-    }
+    "post": null
    }
   },
   "국립고궁박물관": {
-   "real": 8182,
+   "real": 9297,
    "ad": 0,
-   "recent": 643,
+   "recent": 646,
+   "blogs": 120,
+   "topBlog": 0.008333333333333333,
    "honestMarks": 0,
-   "sample": 106,
+   "sample": 120,
    "sampleAd": 0,
    "pick": {
-    "title": "대만 3일 노팁 노옵션 패키지 코스ㅣ국립고궁박물관, 101빌딩, 지우펀",
-    "url": "https://blog.naver.com/welldying0691/224427913719",
-    "blog": "어제 보다 나은 오늘",
-    "date": "2026-10-01"
+    "title": "경복궁 국립고궁박물관 주차 입장료 짐보관 도슨트투어 시간 예약 총정리",
+    "url": "https://blog.naver.com/jngs10000/224437165421",
+    "blog": "쩌눙갬성",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
@@ -1508,109 +1549,115 @@ window.STATS = {
       "date": "2026-10-06"
      },
      {
+      "text": "1시간 3,000원",
+      "posts": 3,
+      "url": "https://blog.naver.com/soristarsound/224439281787",
+      "date": "2026-10-12"
+     },
+     {
       "text": "기본 2시간 3,000원",
       "posts": 2,
       "url": "https://aromajini1.tistory.com/153",
       "date": "2026-10-06"
      },
      {
-      "text": "1시간 3,000원",
+      "text": "10분마다 800원",
       "posts": 1,
-      "url": "https://blog.naver.com/1_21am/224431662813",
-      "date": "2026-10-05"
-     },
-     {
-      "text": "60분 4200원",
-      "posts": 1,
-      "url": "https://blog.naver.com/momsmap/224426302673",
-      "date": "2026-09-30"
+      "url": "https://blog.naver.com/soristarsound/224439281787",
+      "date": "2026-10-12"
      }
     ],
     "post": {
-     "title": "서울나들이 추천! 외국인도 많이 찾는 국립고궁박물관 주차정보",
-     "url": "https://blog.naver.com/oufz432xeud/224413870378",
-     "blog": "깜상",
-     "date": "2026-09-16"
+     "title": "경복궁 국립고궁박물관 주차 입장료 짐보관 도슨트투어 시간 예약 총정리",
+     "url": "https://blog.naver.com/jngs10000/224437165421",
+     "blog": "쩌눙갬성",
+     "date": "2026-10-11"
     }
    }
   },
   "화폐박물관": {
-   "real": 4731,
+   "real": 4774,
    "ad": 66,
-   "recent": 219,
+   "recent": 218,
+   "blogs": 146,
+   "topBlog": 0.00684931506849315,
    "honestMarks": 2,
-   "sample": 145,
+   "sample": 146,
    "sampleAd": 2,
    "pick": {
-    "title": "한국은행 화폐박물관 가기 전 정리｜무료 관람·체험학습실·주차 안내",
-    "url": "https://ilsang-note.tistory.com/52",
-    "blog": "Rec.ilsang",
-    "date": "2026-10-05"
+    "title": "아이와 함께 다녀온 서울 '한국은행 화폐박물관' 방문 후기 & 관람 팁! (입장료 무료)",
+    "url": "https://blog.naver.com/gksk0806/224439493906",
+    "blog": "육아마스터",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [],
     "post": {
-     "title": "한국은행 화폐박물관, 진짜 돈 가짜 돈 구별해볼까? 무료관람·주차",
-     "url": "https://blog.naver.com/jfamilynote/224433480454",
-     "blog": "제이패밀리 여행노트",
-     "date": "2026-10-07"
+     "title": "추천 🚗 남대문시장 우리은행 본점 3시간 무료주차부터 명동 한국은행 화폐박물관 무료입장, 미미라인...",
+     "url": "https://blog.naver.com/captinzzang918/224438777510",
+     "blog": "정비사 애둘 아빠의 육아 및 일상 기록",
+     "date": "2026-10-12"
     }
    }
   },
   "국립현대미술관 서울": {
-   "real": 12008,
+   "real": 9223,
    "ad": 0,
-   "recent": 555,
+   "recent": 429,
+   "blogs": 39,
+   "topBlog": 0.02564102564102564,
    "honestMarks": 1,
-   "sample": 51,
+   "sample": 39,
    "sampleAd": 0,
    "pick": {
-    "title": "2026 서도호 전시｜국립현대미술관 서울 예약·관람시간·티켓·주차 총정리",
-    "url": "https://blog.naver.com/younground_/224432712697",
-    "blog": "장기적 투자의 나비효과",
-    "date": "2026-10-06"
+    "title": "국립현대미술관 서울 , 서도호 회고전 mmca 예약하기, 주차정보",
+    "url": "https://blog.naver.com/teenie_miffy/224439330615",
+    "blog": "Hello Miffy ♥",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
      {
-      "text": "10분당 700원",
-      "posts": 14,
-      "url": "https://blog.naver.com/funnyzooo/224436456983",
-      "date": "2026-10-09"
-     },
-     {
       "text": "1시간 4,200원",
-      "posts": 10,
-      "url": "https://blog.naver.com/sos5826/224435459945",
-      "date": "2026-10-08"
+      "posts": 6,
+      "url": "https://blog.naver.com/bitna3434/224438805901",
+      "date": "2026-10-13"
      },
      {
-      "text": "3시간당 4,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/namaksin14/224436837301",
-      "date": "2026-10-10"
+      "text": "10분당 700원",
+      "posts": 6,
+      "url": "https://blog.naver.com/coffeeor/224438273177",
+      "date": "2026-10-12"
      },
      {
-      "text": "60분 4,200원",
-      "posts": 1,
-      "url": "https://blog.naver.com/funnyzooo/224436456983",
-      "date": "2026-10-09"
+      "text": "1일 최대 30,000원",
+      "posts": 3,
+      "url": "https://blog.naver.com/coffeeor/224438273177",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "1시간 3,000원",
+      "posts": 2,
+      "url": "https://blog.naver.com/coffeeor/224438273177",
+      "date": "2026-10-12"
      }
     ],
     "post": {
-     "title": "서도호 전시 국립현대미술관 서울｜예매·관람료·시간·주차 정리",
-     "url": "https://blog.naver.com/godmiracle7/224431584203",
-     "blog": "머니웨이",
-     "date": "2026-10-05"
+     "title": "국립현대미술관 서울 서도호전 관람 후기, 예매와 주차장 이용 팁",
+     "url": "https://blog.naver.com/sabrina9798/224441364761",
+     "blog": "기록의 여왕 송이의 분당생활",
+     "date": "2026-10-14"
     }
    }
   },
   "북서울미술관": {
-   "real": 6462,
+   "real": 5397,
    "ad": 0,
-   "recent": 182,
+   "recent": 146,
+   "blogs": 10,
+   "topBlog": 0.1,
    "honestMarks": 0,
-   "sample": 12,
+   "sample": 10,
    "sampleAd": 0,
    "pick": {
     "title": "서울시립 북서울미술관 전시 | 〈권병준: 내 마음속에 너는〉 어린이 무료 전시회·3가지 관람포인트",
@@ -1621,80 +1668,67 @@ window.STATS = {
    "parking": {
     "fees": [
      {
-      "text": "5분당 250원",
+      "text": "10분당 1,100원",
       "posts": 1,
-      "url": "https://blog.naver.com/nadrilab/224431758117",
-      "date": "2026-10-05"
-     },
-     {
-      "text": "5분 250원",
-      "posts": 1,
-      "url": "https://blog.naver.com/bujaguni/224431202763",
-      "date": "2026-10-04"
+      "url": "https://blog.naver.com/park-yeji/224436162710",
+      "date": "2026-10-12"
      }
     ],
-    "post": {
-     "title": "서울시립 북서울미술관 가기 전 정리｜무료 관람·어린이 전시·주차 안내",
-     "url": "https://ilsang-note.tistory.com/39",
-     "blog": "Rec.ilsang",
-     "date": "2026-10-04"
-    }
+    "post": null
    }
   },
   "서울로봇인공지능과학관": {
-   "real": 2733,
+   "real": 2513,
    "ad": 0,
-   "recent": 116,
+   "recent": 105,
+   "blogs": 11,
+   "topBlog": 0.09090909090909091,
    "honestMarks": 0,
-   "sample": 12,
+   "sample": 11,
    "sampleAd": 0,
    "pick": {
-    "title": "서울로봇인공지능과학관 10월 예약｜주말 현장발권·공휴일 운영 총정리",
-    "url": "https://kkangu.tistory.com/220",
-    "blog": "kkangU의 기록 저장소",
-    "date": "2026-10-04"
+    "title": "서울로봇인공지능과학관(서울 RAIM) 후기｜아이와 가볼 만한 곳, 로봇·AI 체험 (주차 및 식당 정보)",
+    "url": "https://blog.naver.com/christfriend/224437900788",
+    "blog": "10살 축복이와 함께 자란다",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 400원",
-      "posts": 4,
+      "posts": 3,
       "url": "https://blog.naver.com/elisa06217/224430422622",
       "date": "2026-10-03"
      },
      {
-      "text": "5분당 150원",
+      "text": "10분당 300원",
       "posts": 1,
-      "url": "https://blog.naver.com/jioni21/224416412773",
-      "date": "2026-09-18"
-     },
-     {
-      "text": "1일 최대 14,400원",
-      "posts": 1,
-      "url": "https://blog.naver.com/jioni21/224416412773",
-      "date": "2026-09-18"
+      "url": "https://blog.naver.com/jieun7418/224436793847",
+      "date": "2026-10-10"
      }
     ],
     "post": {
-     "title": "서울로봇인공지능과학관 예약 및 워크인 관람 꿀팁 총정리 (주차, 동선) 서울 아이와 가볼만한곳추천!!!",
-     "url": "https://blog.naver.com/jerry960_/224418375554",
-     "blog": "주부구단 황메리",
-     "date": "2026-09-21"
+     "title": "서울로봇인공지능과학관(서울 RAIM) 후기｜아이와 가볼 만한 곳, 로봇·AI 체험 (주차 및 식당 정보)",
+     "url": "https://blog.naver.com/christfriend/224437900788",
+     "blog": "10살 축복이와 함께 자란다",
+     "date": "2026-10-11"
     }
    }
   },
   "키자니아 서울": {
-   "real": 7324,
+   "real": 6344,
    "ad": 0,
-   "recent": 262,
+   "recent": 247,
+   "blogs": 70,
+   "topBlog": 0.014285714285714285,
    "honestMarks": 1,
-   "sample": 81,
+   "sample": 70,
    "sampleAd": 0,
    "pick": {
-    "title": "2026 키자니아 서울 키즈아니야 후기 예약 위치 할인 꿀팁 주차 지도 식당 주말 평일 가격",
-    "url": "https://blog.naver.com/kky600/224417683112",
-    "blog": "해피바구니",
-    "date": "2026-09-20"
+    "title": "<키자니아 서울> 직업체험 총정리 - 찾아가기, 주차 꿀팁, 입장권부터 예약, 키조 사용법까지 AtoZ",
+    "url": "https://blog.naver.com/hanseul73/224435183549",
+    "blog": "하얀나무 극장에 가다",
+    "date": "2026-10-08"
    },
    "parking": {
     "fees": [
@@ -1724,20 +1758,22 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "7살 딸과 키자니아 서울 다녀온 후기, 주차·타임티켓·키조 꿀팁 총정리",
-     "url": "https://blog.naver.com/kindly2day/224428826722",
-     "blog": "아이랑 반짝이는 오늘 ◡̈✨",
-     "date": "2026-10-02"
+     "title": "키자니아 서울 오픈런 후기｜초등 아이 둘과 다녀온 날, 가격·할인·주차·앱 꿀팁 총정리",
+     "url": "https://blog.naver.com/shinehwang1228/224436179313",
+     "blog": "셩셩이네육아일기",
+     "date": "2026-10-09"
     }
    }
   },
   "롯데월드 어드벤처": {
-   "real": 24447,
-   "ad": 0,
-   "recent": 1359,
+   "real": 25320,
+   "ad": 387,
+   "recent": 1347,
+   "blogs": 133,
+   "topBlog": 0.007518796992481203,
    "honestMarks": 3,
-   "sample": 127,
-   "sampleAd": 0,
+   "sample": 133,
+   "sampleAd": 2,
    "pick": {
     "title": "아이와 부산 여행, 롯데월드 어드벤처 좀비월드 After3 티켓 이용 후기",
     "url": "https://blog.naver.com/darang_j/224434300335",
@@ -1748,27 +1784,27 @@ window.STATS = {
     "fees": [
      {
       "text": "10분당 1,000원",
-      "posts": 9,
-      "url": "https://blog.naver.com/soft_archive/224431525730",
-      "date": "2026-10-05"
+      "posts": 6,
+      "url": "https://blog.naver.com/mawang7211/224437422316",
+      "date": "2026-10-10"
      },
      {
       "text": "최대 5,000원",
       "posts": 3,
-      "url": "https://blog.naver.com/leejun_7/224431306764",
-      "date": "2026-10-04"
+      "url": "https://blog.naver.com/mawang7211/224437422316",
+      "date": "2026-10-10"
      },
      {
-      "text": "최대 4,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/otter0518/224432610935",
-      "date": "2026-10-06"
+      "text": "3시간에 14,400원",
+      "posts": 1,
+      "url": "https://blog.naver.com/midlife_reading_room/224439272770",
+      "date": "2026-10-12"
      },
      {
-      "text": "최대 3,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/rain_0415/224420862095",
-      "date": "2026-09-26"
+      "text": "1일 2,000원",
+      "posts": 1,
+      "url": "https://blog.naver.com/ting2141/224437245095",
+      "date": "2026-10-10"
      }
     ],
     "post": {
@@ -1780,11 +1816,13 @@ window.STATS = {
    }
   },
   "남산골한옥마을": {
-   "real": 9768,
+   "real": 9138,
    "ad": 0,
-   "recent": 1024,
-   "honestMarks": 1,
-   "sample": 173,
+   "recent": 731,
+   "blogs": 160,
+   "topBlog": 0.012422360248447204,
+   "honestMarks": 2,
+   "sample": 161,
    "sampleAd": 0,
    "pick": {
     "title": "서울 아이와 가볼만한곳 :: 남산골한옥마을 지하철 이용 팁과 주차장, 무료 공연 솔직후기",
@@ -1794,107 +1832,106 @@ window.STATS = {
    },
    "parking": {
     "fees": [],
-    "post": {
-     "title": "한옥마을 체험+해치버스 타고 남산 타워가기(아이랑 가볼만 한 곳, 남산골 한옥마을 주차,체험 정보)",
-     "url": "https://blog.naver.com/qkffkffkf27/224436657467",
-     "blog": "우리의 책육아, 여행육아 일기:)",
-     "date": "2026-10-10"
-    }
+    "post": null
    }
   },
   "경복궁": {
-   "real": 154690,
+   "real": 141584,
    "ad": 0,
-   "recent": 6782,
-   "honestMarks": 2,
-   "sample": 148,
+   "recent": 3206,
+   "blogs": 135,
+   "topBlog": 0.007407407407407408,
+   "honestMarks": 4,
+   "sample": 135,
    "sampleAd": 0,
    "pick": {
-    "title": "​아이와 서울 나들이｜경복궁 & 국립민속어린이박물관 솔직후기! 주차 꿀팁 및 예약 총정리",
-    "url": "https://blog.naver.com/rebit8/224436295098",
-    "blog": "가족의 행복과 나의 커리어 사이의 최적의 숫자",
-    "date": "2026-10-09"
+    "title": "[경복궁 아이와 맛집] 삼청동 쿼드 서울 내돈내산 후기! 웨이팅 지옥 피한 북악산 뷰 오아시스 (점심...",
+    "url": "https://blog.naver.com/dmsi87/224440054537",
+    "blog": "선물같은 하루",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
-      "text": "기본 1시간 3,000원",
-      "posts": 4,
-      "url": "https://blog.naver.com/seodam42/224430408363",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "10분당 800원",
-      "posts": 4,
-      "url": "https://blog.naver.com/seodam42/224430408363",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "기본 1시간 5,000원",
+      "text": "1시간 1,000원",
       "posts": 2,
-      "url": "https://auramuse.tistory.com/16",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/pjihye4728/224433951823",
+      "date": "2026-10-12"
      },
      {
-      "text": "기본 2시간 3,000원",
+      "text": "1시간 3,000원",
       "posts": 2,
-      "url": "https://aromajini1.tistory.com/153",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/soristarsound/224439281787",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "10분마다 800원",
+      "posts": 2,
+      "url": "https://blog.naver.com/soristarsound/224439281787",
+      "date": "2026-10-12"
+     },
+     {
+      "text": "5분당 400원",
+      "posts": 2,
+      "url": "https://blog.naver.com/onnoff191/224438978636",
+      "date": "2026-10-12"
      }
     ],
     "post": {
-     "title": "경복궁 주차·입장료 및 관람시간! 경회루·향원정·아미산 코스 팁 (서울 가볼만한곳)",
-     "url": "https://blog.naver.com/seodam42/224430408363",
-     "blog": "서담의 국내여행 코스·실용 팁",
-     "date": "2026-10-10"
+     "title": "2026 경복궁 입장료·무료입장·주차요금 총정리｜한복 무료관람부터 관람시간까지",
+     "url": "https://minhe2.tistory.com/11",
+     "blog": "밍니_blog💙",
+     "date": "2026-10-16"
     }
    }
   },
   "창경궁": {
-   "real": 36698,
+   "real": 35090,
    "ad": 0,
-   "recent": 3380,
+   "recent": 1847,
+   "blogs": 155,
+   "topBlog": 0.0064516129032258064,
    "honestMarks": 2,
-   "sample": 163,
+   "sample": 155,
    "sampleAd": 0,
    "pick": {
-    "title": "서울 궁궐 야간 개장 데이트 4곳, 경복궁·창덕궁·덕수궁·창경궁 예약, 입장료, 주차정보 꿀팁",
-    "url": "https://blog.naver.com/isak1004/224433587601",
-    "blog": "핑크노을의 요즘, 여행",
-    "date": "2026-10-06"
+    "title": "창경궁야간개장 물빛연화 일정 예매 1열뷰 관람후기 명당 방문꿀팁 주차",
+    "url": "https://blog.naver.com/jujumom83/224437573411",
+    "blog": "또또트립의 수도권여행",
+    "date": "2026-10-10"
    },
    "parking": {
     "fees": [
      {
-      "text": "기본 1시간 3,000원",
+      "text": "10분당 500원",
       "posts": 2,
-      "url": "https://blog.naver.com/seodam42/224430408363",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/chadang1/224439240512",
+      "date": "2026-10-13"
      },
      {
       "text": "1시간 3,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/hyunzinbak/224435533078",
-      "date": "2026-10-08"
+      "posts": 2,
+      "url": "https://blog.naver.com/hihaena_moments/224436595885",
+      "date": "2026-10-09"
      },
      {
-      "text": "30분 8,000원",
+      "text": "기본 30분 1,500원",
       "posts": 1,
-      "url": "https://blog.naver.com/vivid1997/224431936941",
-      "date": "2026-10-05"
+      "url": "https://blog.naver.com/chadang1/224439240512",
+      "date": "2026-10-13"
      },
      {
-      "text": "10분당 2,000원",
+      "text": "5분당 400원",
       "posts": 1,
-      "url": "https://blog.naver.com/vivid1997/224431936941",
-      "date": "2026-10-05"
+      "url": "https://blog.naver.com/sjsn6313/224438874923",
+      "date": "2026-10-12"
      }
     ],
     "post": {
-     "title": "빅토리아풍 온실의 정체?!\" 11월 가볼만한곳 서울 창경궁 늦단풍 팁·춘당지 대온실 코스 주차 총정리",
-     "url": "https://blog.naver.com/chadang1/224434590516",
+     "title": "서양식 온실의 정체?!\" 11월 가볼만한곳 서울 창경궁 춘당지 늦가을 팁·대온실 야간개장 코스 주차 총정리",
+     "url": "https://blog.naver.com/chadang1/224439240512",
      "blog": "알쓸정보(알아두면 쓸데있는 정보)",
-     "date": "2026-10-09"
+     "date": "2026-10-13"
     }
    }
   },
@@ -1902,6 +1939,8 @@ window.STATS = {
    "real": 0,
    "ad": 0,
    "recent": 0,
+   "blogs": 0,
+   "topBlog": 0,
    "honestMarks": 0,
    "sample": 0,
    "sampleAd": 0,
@@ -1912,25 +1951,27 @@ window.STATS = {
    }
   },
   "정독도서관": {
-   "real": 11172,
+   "real": 13054,
    "ad": 0,
-   "recent": 252,
+   "recent": 321,
+   "blogs": 63,
+   "topBlog": 0.015873015873015872,
    "honestMarks": 3,
-   "sample": 54,
+   "sample": 63,
    "sampleAd": 0,
    "pick": {
-    "title": "북촌 가볼만한곳 한옥마을부터 정독도서관 주차장 서울 나들이 데이트 코스 추천",
-    "url": "https://blog.naver.com/starly-/224418885978",
-    "blog": "별의별 여행기",
-    "date": "2026-09-21"
+    "title": "안국맛집 닭궁뎅이 본점 안국역 맛집 정독도서관 종로 북촌 아이와 가볼만한곳",
+    "url": "https://blog.naver.com/pink0223/224440425735",
+    "blog": "투썬의 여행일기",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 250원",
-      "posts": 8,
-      "url": "https://blog.naver.com/luckybumsil/224435226881",
-      "date": "2026-10-08"
+      "posts": 10,
+      "url": "https://blog.naver.com/chaes_mom/224438009473",
+      "date": "2026-10-11"
      },
      {
       "text": "1시간 4,200원",
@@ -1945,136 +1986,142 @@ window.STATS = {
       "date": "2026-09-28"
      },
      {
-      "text": "5분 250원",
+      "text": "1시간 3,000원",
       "posts": 3,
-      "url": "https://blog.naver.com/pjj1219/224426910332",
-      "date": "2026-09-30"
+      "url": "https://blog.naver.com/chaes_mom/224438009473",
+      "date": "2026-10-11"
      }
     ],
     "post": {
-     "title": "북촌 나들이 주차장 정독도서관 주차요금 구내식당 메뉴 가격 이용후기",
-     "url": "https://blog.naver.com/yo2ng22/224436654939",
-     "blog": "여행다니는 여름",
-     "date": "2026-10-10"
+     "title": "북촌 한옥마을 삼청동 주차장 정독도서관과 국립현대미술관 요금 비교",
+     "url": "https://blog.naver.com/dblove_suwon/224437949623",
+     "blog": "유나노트 | 여행과 요즘 좋은 것들",
+     "date": "2026-10-11"
     }
    }
   },
   "서울대공원": {
-   "real": 73153,
+   "real": 73905,
    "ad": 0,
-   "recent": 2759,
+   "recent": 3080,
+   "blogs": 179,
+   "topBlog": 0.00558659217877095,
    "honestMarks": 2,
-   "sample": 178,
+   "sample": 179,
    "sampleAd": 0,
    "pick": {
-    "title": "서울단풍구경명소 | 서울대공원 주차요금·주차장 위치부터 리프트 가격까지 총정리",
-    "url": "https://blog.naver.com/purum0430/224433014352",
-    "blog": "푸푸, 개인취향",
-    "date": "2026-10-06"
+    "title": "서울대공원동물원 아기랑 발렛예약정보 리프트1호선 2호선 유모차동선 베스트코스추천 아기랑주말가볼만...",
+    "url": "https://blog.naver.com/stellabread/224439054150",
+    "blog": "스텔라의 달콤한 하루",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
      {
-      "text": "기본 2시간 3,000원",
+      "text": "기본 2시간 4,000원",
       "posts": 6,
-      "url": "https://blog.naver.com/archiveyejin/224435680109",
-      "date": "2026-10-08"
+      "url": "https://blog.naver.com/always___2/224440074608",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "1일 최대 6,000원",
+      "posts": 4,
+      "url": "https://blog.naver.com/shw7235/224440723476",
+      "date": "2026-10-14"
+     },
+     {
+      "text": "기본 2시간 3,000원",
+      "posts": 3,
+      "url": "https://blog.naver.com/iyazawa3/224440268645",
+      "date": "2026-10-13"
      },
      {
       "text": "1일 최대 5,000원",
-      "posts": 4,
-      "url": "https://blog.naver.com/archiveyejin/224435680109",
-      "date": "2026-10-08"
-     },
-     {
-      "text": "1일 5,000원",
       "posts": 3,
-      "url": "https://blog.naver.com/melongze/224436621166",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "30분당 2,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/lallala612/224436125940",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/always___2/224440074608",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "서울대공원 동물원 레서판다 관람시간 주차 위치 꿀팁 마루 마롱이 과천 가볼만한곳",
-     "url": "https://blog.naver.com/softmoody/224437074668",
-     "blog": "Daily Archive.",
-     "date": "2026-10-10"
+     "title": "﻿2026 서울대공원 가을축제 일정·단풍 숲속 미술관·동물원 입장료·대공원역 주차 꿀팁 총정리",
+     "url": "https://daejuju.tistory.com/261",
+     "blog": "축제로그",
+     "date": "2026-10-14"
     }
    }
   },
   "서울랜드": {
-   "real": 67890,
-   "ad": 780,
-   "recent": 2690,
+   "real": 68154,
+   "ad": 392,
+   "recent": 2518,
+   "blogs": 175,
+   "topBlog": 0.005714285714285714,
    "honestMarks": 2,
-   "sample": 176,
-   "sampleAd": 2,
+   "sample": 175,
+   "sampleAd": 1,
    "pick": {
-    "title": "서울랜드 주차장 비교｜동문·후문·정문 위치와 주차요금 총정리",
-    "url": "https://blog.naver.com/mybin121/224436873170",
-    "blog": "맘로그 MOM LOG",
-    "date": "2026-10-10"
+    "title": "서울랜드 주차장 추천 TOP4｜무료주차 방법·주차요금·코끼리열차 가격 총정리",
+    "url": "https://blog.naver.com/laryn/224440132612",
+    "blog": "진달래와 함께하는 육아생활",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
       "text": "30분당 2,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/lallala612/224436125940",
-      "date": "2026-10-09"
+      "posts": 6,
+      "url": "https://blog.naver.com/laryn/224440132612",
+      "date": "2026-10-13"
      },
      {
-      "text": "주차무료",
-      "posts": 2,
-      "url": "https://blog.naver.com/cinnamon0412/224435098041",
-      "date": "2026-10-08"
+      "text": "30분당 4,000원",
+      "posts": 4,
+      "url": "https://blog.naver.com/wangmal90/224438098199",
+      "date": "2026-10-11"
      },
      {
-      "text": "1일 5,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/mmingcwon/224434351621",
-      "date": "2026-10-07"
+      "text": "1일 최대 6,000원",
+      "posts": 3,
+      "url": "https://blog.naver.com/hrninfo/224438288234",
+      "date": "2026-10-11"
      },
      {
-      "text": "기본 2시간 3,000원",
+      "text": "주차요금 무료",
       "posts": 2,
-      "url": "https://blog.naver.com/malhaebwa_jp/224430909535",
-      "date": "2026-10-04"
+      "url": "https://blog.naver.com/jenna4531/224441222002",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "서울랜드 주차장 비교｜동문·후문·정문 위치와 주차요금 총정리",
-     "url": "https://blog.naver.com/mybin121/224436873170",
-     "blog": "맘로그 MOM LOG",
-     "date": "2026-10-10"
+     "title": "2026 서울랜드 가을축제, 11월 1일까지! 공연·불꽃쇼·입장료와 주차 정리",
+     "url": "https://nikkyoo7.com/855",
+     "blog": "WILDINFO",
+     "date": "2026-10-15"
     }
    }
   },
   "국립과천과학관": {
-   "real": 24817,
-   "ad": 0,
-   "recent": 1088,
-   "honestMarks": 1,
-   "sample": 179,
-   "sampleAd": 0,
+   "real": 24219,
+   "ad": 139,
+   "recent": 1202,
+   "blogs": 175,
+   "topBlog": 0.005714285714285714,
+   "honestMarks": 2,
+   "sample": 175,
+   "sampleAd": 1,
    "pick": {
-    "title": "국립과천과학관 관람료·예약·주차 총정리｜10월 연휴 휴관일과 가족 방문 체크리스트",
-    "url": "https://blog.naver.com/mirichajadum/224423737094",
-    "blog": "미리 찾아둠",
-    "date": "2026-09-27"
+    "title": "국립과천과학관 아이랑 가을피크닉 꿀팁 주말 주차 할인",
+    "url": "https://blog.naver.com/hyejung729/224437760623",
+    "blog": "레이첼 연년생 육아 Story",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "30분당 500원",
-      "posts": 5,
-      "url": "https://blog.naver.com/fuckary/224430887836",
-      "date": "2026-10-04"
+      "posts": 7,
+      "url": "https://blog.naver.com/wjddbdud123/224438393407",
+      "date": "2026-10-11"
      },
      {
       "text": "기본 2시간 3,000원",
@@ -2096,19 +2143,21 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "경기도 아이와 가볼만한 곳 국립과천과학관｜입장료, 주차요금 평일예약 체험 후기",
-     "url": "https://blog.naver.com/ddunddi_log/224432945165",
-     "blog": "daily_DDun:Di 먹고, 쉬고, 즐기는 일상",
-     "date": "2026-10-10"
+     "title": "국립과천과학관 아이랑 가을피크닉 꿀팁 주말 주차 할인",
+     "url": "https://blog.naver.com/hyejung729/224437760623",
+     "blog": "레이첼 연년생 육아 Story",
+     "date": "2026-10-11"
     }
    }
   },
   "국립현대미술관 과천": {
-   "real": 4506,
+   "real": 4672,
    "ad": 0,
-   "recent": 325,
+   "recent": 273,
+   "blogs": 63,
+   "topBlog": 0.03125,
    "honestMarks": 1,
-   "sample": 62,
+   "sample": 64,
    "sampleAd": 0,
    "pick": {
     "title": "국립현대미술관 과천 어린이미술관·요금·주차 가기 전 정리",
@@ -2119,201 +2168,198 @@ window.STATS = {
    "parking": {
     "fees": [
      {
-      "text": "30분당 1,000원",
-      "posts": 7,
-      "url": "https://blog.naver.com/bu509/224434860340",
-      "date": "2026-10-08"
-     },
-     {
       "text": "기본 2시간 3,000원",
-      "posts": 6,
+      "posts": 5,
       "url": "https://blog.naver.com/bu509/224434860340",
       "date": "2026-10-08"
      },
      {
-      "text": "기본 2시간 4,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/nolding/224430475873",
-      "date": "2026-10-05"
+      "text": "30분당 1,000원",
+      "posts": 5,
+      "url": "https://blog.naver.com/bu509/224434860340",
+      "date": "2026-10-08"
      },
      {
-      "text": "1일 최대 13,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/aron_j_/224423040715",
-      "date": "2026-09-26"
+      "text": "기본 2시간 2,000원",
+      "posts": 1,
+      "url": "https://blog.naver.com/jfamilynote/224437838139",
+      "date": "2026-10-14"
+     },
+     {
+      "text": "30분마다 1,000원",
+      "posts": 1,
+      "url": "https://blog.naver.com/jfamilynote/224437838139",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "경기도 [과천] 국립현대미술관 과천: 개관일, 주차,주차장, 주차비, 셔틀 버스 시간, 전시, 카페, 식당...",
-     "url": "https://blog.naver.com/jayooni/224436457501",
-     "blog": "Picky Ma'am 까다로운 아줌마의 블로그",
-     "date": "2026-10-09"
+     "title": "국립현대미술관 과천관, 다다익선부터 야외조각공원까지｜입장료·무료셔틀·주차",
+     "url": "https://blog.naver.com/jfamilynote/224437838139",
+     "blog": "제이패밀리 여행노트",
+     "date": "2026-10-14"
     }
    }
   },
   "에버랜드": {
-   "real": 273114,
+   "real": 281626,
    "ad": 0,
-   "recent": 4673,
-   "honestMarks": 2,
-   "sample": 173,
+   "recent": 4873,
+   "blogs": 178,
+   "topBlog": 0.0056179775280898875,
+   "honestMarks": 3,
+   "sample": 178,
    "sampleAd": 0,
    "pick": {
-    "title": "에버랜드 주차 완벽 정리 정문유료주차장할인 무료주차장 발레파킹까지!!!",
-    "url": "https://blog.naver.com/freely_17/224431990719",
-    "blog": "맹몽맹몽의 일상",
-    "date": "2026-10-08"
+    "title": "[에버랜드 맛집] 사파리월드옆 식당 '스낵버스터' 에버랜드맛집 에버랜드식당 내돈내산 솔직후기",
+    "url": "https://blog.naver.com/freshbloom_/224439473336",
+    "blog": "freshbloom_여행",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
      {
       "text": "30분당 1,500원",
       "posts": 5,
-      "url": "https://blog.naver.com/saycool_17/224436551457",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/deunzzangu/224429823326",
+      "date": "2026-10-10"
      },
      {
       "text": "최대 15,000원",
-      "posts": 3,
+      "posts": 2,
       "url": "https://blog.naver.com/k_yuzzi/224436403241",
       "date": "2026-10-09"
      },
      {
-      "text": "하루 최대 15,000원",
+      "text": "1일 최대 12,000원",
       "posts": 1,
-      "url": "https://blog.naver.com/saycool_17/224436551457",
-      "date": "2026-10-09"
+      "url": "https://trippick-note.tistory.com/15",
+      "date": "2026-10-13"
      },
      {
-      "text": "30분 당 1,200원",
+      "text": "최대 10,000원",
       "posts": 1,
-      "url": "https://blog.naver.com/k_yuzzi/224436403241",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/vincebaik/224440111692",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "2026 에버랜드 주차장 완벽 정리｜무료·유료 주차요금, 셔틀버스 타는 곳과 운영시간",
-     "url": "https://blog.naver.com/hajungx/224436987638",
-     "blog": "5세 여름이와 함께하는 여행, 재테크, 육아정보",
-     "date": "2026-10-10"
+     "title": "에버랜드할로윈 블러드시티 호러메이즈 예약방법 시간 퍼레이드 주차꿀팁",
+     "url": "https://blog.naver.com/jujumom83/224440786846",
+     "blog": "또또트립의 수도권여행",
+     "date": "2026-10-13"
     }
    }
   },
   "한국민속촌": {
-   "real": 34213,
-   "ad": 188,
-   "recent": 1987,
-   "honestMarks": 3,
-   "sample": 183,
+   "real": 34619,
+   "ad": 189,
+   "recent": 2237,
+   "blogs": 183,
+   "topBlog": 0.010869565217391304,
+   "honestMarks": 4,
+   "sample": 184,
    "sampleAd": 1,
    "pick": {
-    "title": "어둠의 오은영이 돌아왔다 👻 용인 가볼만한곳 한국민속촌 10월 행사｜입장료 운영시간 주차정보 총정리",
-    "url": "https://blog.naver.com/yehji0707/224435631131",
-    "blog": "황길동서남북",
-    "date": "2026-10-08"
+    "title": "용인 한국민속촌 주차 꿀팁｜주차장 위치·요금·주말 혼잡 피하는 방법 총정리",
+    "url": "https://blog.naver.com/heuivv/224438035341",
+    "blog": "송송 프로일상러",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
-      "text": "시간당 1,000원",
+      "text": "주차는 무료",
       "posts": 1,
-      "url": "https://blog.naver.com/ato-academy/224425359332",
-      "date": "2026-09-29"
+      "url": "https://blog.naver.com/chachagoes/224430643206",
+      "date": "2026-10-04"
      }
     ],
     "post": {
-     "title": "용인 가볼만한곳 BEST 8｜에버랜드부터 한국민속촌까지 주차·근처 맛집 총정리",
-     "url": "https://blog.naver.com/saycool_17/224436551457",
-     "blog": "소소Pick, 생활을 고르다",
-     "date": "2026-10-09"
+     "title": "한국민속촌 아이랑 한복대여 후기, 오후 4시 입장과 주차 팁",
+     "url": "https://blog.naver.com/hoirainlv/224440337699",
+     "blog": "판교하예 | 5세 쌍둥이 교육·책·놀이",
+     "date": "2026-10-13"
     }
    }
   },
   "경기도어린이박물관": {
-   "real": 12822,
+   "real": 9004,
    "ad": 0,
-   "recent": 436,
+   "recent": 324,
+   "blogs": 21,
+   "topBlog": 0.047619047619047616,
    "honestMarks": 0,
-   "sample": 30,
+   "sample": 21,
    "sampleAd": 0,
    "pick": {
-    "title": "경기도어린이박물관부터 만골근린공원까지, 아이와 하루 코스로 다녀보니 예약과 주차는 꼭 알고 가세요",
-    "url": "https://blog.naver.com/dusthfk0427/224431937834",
-    "blog": "오늘도 또라픽",
-    "date": "2026-10-05"
+    "title": "경기도어린이박물관 20개월·4개월 아기 후기｜예약 주차 유모차 정보",
+    "url": "https://blog.naver.com/machimarch_/224437981836",
+    "blog": "Hammong | 연년생 육아 라이프 · 뷰티 · 패션",
+    "date": "2026-10-11"
    },
    "parking": {
-    "fees": [
-     {
-      "text": "1시간 1,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/twinna168/224437121648",
-      "date": "2026-10-10"
-     },
-     {
-      "text": "최대 8,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/twinna168/224437121648",
-      "date": "2026-10-10"
-     }
-    ],
+    "fees": [],
     "post": null
    }
   },
   "일산호수공원": {
-   "real": 38791,
-   "ad": 479,
-   "recent": 2395,
-   "honestMarks": 0,
-   "sample": 164,
-   "sampleAd": 2,
+   "real": 37973,
+   "ad": 0,
+   "recent": 1733,
+   "blogs": 158,
+   "topBlog": 0.006329113924050633,
+   "honestMarks": 2,
+   "sample": 158,
+   "sampleAd": 0,
    "pick": {
-    "title": "고양가을꽃축제 진행 중!｜10월 1일(목)~11일(일)｜일산호수공원 주차장·주차비·무료입장·예약·수상...",
-    "url": "https://blog.naver.com/dday34/224436011126",
-    "blog": "만나서 반가워",
-    "date": "2026-10-09"
+    "title": "[맛집] 일산 \"스시온더레일\" ||일산 호수공원 맛집, 일산 회전초밥 맛집, 원마운트 초밥 맛집, 킨텍스...",
+    "url": "https://blog.naver.com/doodoo120/224437818119",
+    "blog": "-",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
       "text": "5분당 90원",
-      "posts": 11,
-      "url": "https://lafortune.tistory.com/129",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "5분당 80원",
-      "posts": 3,
-      "url": "https://blog.naver.com/pinkharu_s/224434869708",
-      "date": "2026-10-08"
+      "posts": 9,
+      "url": "https://blog.naver.com/blu2sky7/224440668059",
+      "date": "2026-10-13"
      },
      {
       "text": "5분당 100원",
-      "posts": 3,
-      "url": "https://blog.naver.com/jokjcj/224434601411",
-      "date": "2026-10-08"
+      "posts": 2,
+      "url": "https://blog.naver.com/siruluna/224436627870",
+      "date": "2026-10-10"
      },
      {
-      "text": "5분당 180원",
-      "posts": 2,
-      "url": "https://blog.naver.com/cherrycokes2/224431147364",
-      "date": "2026-10-05"
+      "text": "10분당 80원",
+      "posts": 1,
+      "url": "https://blog.naver.com/nrjfamily/224440688535",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "1시간 480원",
+      "posts": 1,
+      "url": "https://blog.naver.com/nrjfamily/224440688535",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "'2026 고양가을꽃축제' 둘러보기! 일산호수공원 주차 9곳이나 있다고?",
-     "url": "https://blog.naver.com/letsgoyang/224437128155",
-     "blog": "고양특례시청 블로그",
-     "date": "2026-10-10"
+     "title": "일산 호수공원 가을꽃축제 몇 번 주차장에 대야 덜 걸을까",
+     "url": "https://blog.naver.com/nrjfamily/224440688535",
+     "blog": "NRJ패미리",
+     "date": "2026-10-13"
     }
    }
   },
   "고양어린이박물관": {
-   "real": 5126,
+   "real": 4884,
    "ad": 0,
-   "recent": 207,
+   "recent": 187,
+   "blogs": 57,
+   "topBlog": 0.017543859649122806,
    "honestMarks": 1,
-   "sample": 60,
+   "sample": 57,
    "sampleAd": 0,
    "pick": {
     "title": "고양어린이박물관 예약·요금·주차 정리｜화정 아이와 가볼만한곳 가기 전 확인",
@@ -2322,22 +2368,26 @@ window.STATS = {
     "date": "2026-10-02"
    },
    "parking": {
-    "fees": [],
-    "post": {
-     "title": "고양어린이박물관 주차 예매 꿀팁 오후 방문 후기 아이랑 놀거리 총정리",
-     "url": "https://blog.naver.com/shyu522/224437177513",
-     "blog": "하하네",
-     "date": "2026-10-10"
-    }
+    "fees": [
+     {
+      "text": "1시간 1,000원",
+      "posts": 1,
+      "url": "https://blog.naver.com/letsgoyang/224441140839",
+      "date": "2026-10-14"
+     }
+    ],
+    "post": null
    }
   },
   "아쿠아플라넷 일산": {
-   "real": 10117,
-   "ad": 95,
-   "recent": 241,
+   "real": 10321,
+   "ad": 0,
+   "recent": 245,
+   "blogs": 108,
+   "topBlog": 0.009259259259259259,
    "honestMarks": 7,
-   "sample": 107,
-   "sampleAd": 1,
+   "sample": 108,
+   "sampleAd": 0,
    "pick": {
     "title": "아쿠아플라넷 일산 5개월 아기랑 다녀온 후기｜수유실·식당·포토존 추천",
     "url": "https://blog.naver.com/sweet_vanila/224423378248",
@@ -2347,44 +2397,23 @@ window.STATS = {
    "parking": {
     "fees": [
      {
-      "text": "5분당 90원",
+      "text": "하루 최대 50,000원",
       "posts": 1,
-      "url": "https://blog.naver.com/cute_ari/224432398143",
-      "date": "2026-10-06"
-     },
-     {
-      "text": "10분당 500원",
-      "posts": 1,
-      "url": "https://blog.naver.com/mqkrthwjd/224432103881",
-      "date": "2026-10-05"
-     },
-     {
-      "text": "30분 550원",
-      "posts": 1,
-      "url": "https://blog.naver.com/riddle111/224431347694",
-      "date": "2026-10-04"
-     },
-     {
-      "text": "5분당 110원",
-      "posts": 1,
-      "url": "https://blog.naver.com/riddle111/224431347694",
-      "date": "2026-10-04"
+      "url": "https://blog.naver.com/zzanggu256/224438378410",
+      "date": "2026-10-11"
      }
     ],
-    "post": {
-     "title": "아쿠아플라넷 일산 데이트 후기｜가격·주차·관람시간, 커플끼리 가도 재밌을까?",
-     "url": "https://blog.naver.com/mqkrthwjd/224432103881",
-     "blog": "해바언니의 아카이브",
-     "date": "2026-10-05"
-    }
+    "post": null
    }
   },
   "현대모터스튜디오 고양": {
-   "real": 6310,
+   "real": 6877,
    "ad": 0,
-   "recent": 188,
+   "recent": 268,
+   "blogs": 38,
+   "topBlog": 0.02631578947368421,
    "honestMarks": 0,
-   "sample": 35,
+   "sample": 38,
    "sampleAd": 0,
    "pick": {
     "title": "2026.10 아이랑 현대 모터스튜디오 고양 상설전시 방문 후기 (30% 할인 및 킨텍스 주차 팁)",
@@ -2396,7 +2425,7 @@ window.STATS = {
     "fees": [
      {
       "text": "10분당 1,000원",
-      "posts": 6,
+      "posts": 4,
       "url": "https://blog.naver.com/gpals01234/224430157779",
       "date": "2026-10-03"
      },
@@ -2405,34 +2434,30 @@ window.STATS = {
       "posts": 1,
       "url": "https://blog.naver.com/chaes_mom/224436139544",
       "date": "2026-10-09"
-     },
-     {
-      "text": "5분당 80원",
-      "posts": 1,
-      "url": "https://blog.naver.com/daily_chichi_/224415367722",
-      "date": "2026-09-19"
      }
     ],
     "post": {
-     "title": "2026.10 아이랑 현대 모터스튜디오 고양 상설전시 방문 후기 (30% 할인 및 킨텍스 주차 팁)",
-     "url": "https://blog.naver.com/kwonhs225/224432670011",
-     "blog": "맛있는 여행 이야기",
-     "date": "2026-10-06"
+     "title": "현대 모터스튜디오 고양 방문 후기, 투싼 가격 유출...투싼 및 아반떼 풀체인지 전시 차량 구경, 주차 정보",
+     "url": "https://blog.naver.com/dubong23/224437452218",
+     "blog": "노는 게 제일 좋아",
+     "date": "2026-10-10"
     }
    }
   },
   "헤이리예술마을": {
-   "real": 14250,
+   "real": 14106,
    "ad": 0,
-   "recent": 785,
+   "recent": 719,
+   "blogs": 155,
+   "topBlog": 0.012738853503184714,
    "honestMarks": 5,
-   "sample": 159,
+   "sample": 157,
    "sampleAd": 0,
    "pick": {
-    "title": "🍂 서울 근교 감성여행, 파주 헤이리 예술마을｜카페·전시·산책까지 하루 코스",
-    "url": "https://blog.naver.com/ctlpre/224431743905",
-    "blog": "오늘도 부릉~",
-    "date": "2026-10-05"
+    "title": "파주 헤이리 예술마을 카페 츄로바｜츄러스 아이스크림 세트 주말 방문 후기",
+    "url": "https://blog.naver.com/lovepnpn/224436070125",
+    "blog": "삐약이의 인포아카이브v",
+    "date": "2026-10-10"
    },
    "parking": {
     "fees": [
@@ -2447,29 +2472,30 @@ window.STATS = {
       "posts": 1,
       "url": "https://blog.naver.com/aprilwww/224412498173",
       "date": "2026-09-15"
-     },
-     {
-      "text": "주차 무료",
-      "posts": 1,
-      "url": "https://holmez.tistory.com/764",
-      "date": "2026-09-11"
      }
     ],
-    "post": null
+    "post": {
+     "title": "경기 파주 헤이리예술마을 & 프로방스마을: 4·5번 게이트 무료 주차 명당 vs 감성 갤러리 산책...",
+     "url": "https://blog.naver.com/hjson1232/224430618461",
+     "blog": "hjson1232님의 블로그",
+     "date": "2026-10-04"
+    }
    }
   },
   "벽초지수목원": {
-   "real": 8243,
+   "real": 7971,
    "ad": 51,
-   "recent": 430,
+   "recent": 446,
+   "blogs": 157,
+   "topBlog": 0.012658227848101266,
    "honestMarks": 2,
-   "sample": 164,
+   "sample": 158,
    "sampleAd": 1,
    "pick": {
-    "title": "2026 파주 벽초지수목원 단풍 실시간 CCTV, 절정시기, 주차장, 혼잡도 확인: 광탄면 우회 주차 꿀팁",
-    "url": "https://blog.naver.com/creator2341/224419198642",
-    "blog": "쪼꼬노트",
-    "date": "2026-09-21"
+    "title": "[서울근교]🌸아이랑 파주 벽초지 수목원 이용요금·주차·유모차 방문 꿀팁 총정리 🌼",
+    "url": "https://blog.naver.com/youni3378/224433160059",
+    "blog": "일하며 육아하는 채니맘의 소소한 행복",
+    "date": "2026-10-06"
    },
    "parking": {
     "fees": [
@@ -2487,19 +2513,21 @@ window.STATS = {
      }
     ],
     "post": {
-     "title": "파주 가볼만한곳 벽초지수목원 | 주차 입장료 관람시간 총정리",
-     "url": "https://blog.naver.com/hug1me/224428097860",
-     "blog": "Seize the day",
-     "date": "2026-10-01"
+     "title": "벽초지 수목원 방문 전 확인할 것(입장료, 관람시간, 주차)",
+     "url": "https://travel.easysummary.co.kr/186",
+     "blog": "쉬운정리 여행",
+     "date": "2026-10-15"
     }
    }
   },
   "마장호수": {
-   "real": 15942,
+   "real": 15287,
    "ad": 0,
-   "recent": 831,
+   "recent": 750,
+   "blogs": 152,
+   "topBlog": 0.013071895424836602,
    "honestMarks": 4,
-   "sample": 160,
+   "sample": 153,
    "sampleAd": 0,
    "pick": {
     "title": "맛있는 파주 정육식당 맛집 | 군인 할인 식당 파주 한우 맛집 마장호수맛집 | 짜계치 솥밥 찌개 맛집",
@@ -2511,250 +2539,229 @@ window.STATS = {
     "fees": [
      {
       "text": "1일 2,000원",
-      "posts": 3,
-      "url": "https://blog.naver.com/airletter_official/224428702086",
-      "date": "2026-10-01"
+      "posts": 2,
+      "url": "https://blog.naver.com/ottogimap/224435375568",
+      "date": "2026-10-08"
      },
      {
       "text": "하루 2,000원",
-      "posts": 3,
+      "posts": 2,
       "url": "https://blog.naver.com/kpj232/224419826893",
       "date": "2026-09-30"
-     },
-     {
-      "text": "주차 무료",
-      "posts": 2,
-      "url": "https://blog.naver.com/ojoo1004/224422432895",
-      "date": "2026-09-25"
      },
      {
       "text": "30분 15,000원",
       "posts": 1,
       "url": "https://blog.naver.com/0129109/224434903819",
       "date": "2026-10-08"
+     },
+     {
+      "text": "기본 30분 600원",
+      "posts": 1,
+      "url": "https://blog.naver.com/dailycare_master/224432501553",
+      "date": "2026-10-06"
      }
     ],
     "post": {
-     "title": "[파주 마장호수] 출렁다리 후기, 제1주차장 요금부터 아이와 둘레길 산책까지",
-     "url": "https://blog.naver.com/crystal8029/224436548493",
-     "blog": "네네스는 행복동행중",
-     "date": "2026-10-09"
+     "title": "파주 가볼만한곳 마장호수 출렁다리 둘레길 산책 코스 주차장 꿀팁 후기",
+     "url": "https://blog.naver.com/sosodamdam7/224440131543",
+     "blog": "HAB:IT 소소담담 일상탐색",
+     "date": "2026-10-13"
     }
    }
   },
   "아침고요수목원": {
-   "real": 37588,
+   "real": 36716,
    "ad": 0,
-   "recent": 1342,
-   "honestMarks": 1,
-   "sample": 153,
+   "recent": 1361,
+   "blogs": 147,
+   "topBlog": 0.013422818791946308,
+   "honestMarks": 4,
+   "sample": 149,
    "sampleAd": 0,
    "pick": {
-    "title": "아침고요수목원 입장료 2026, 주차 무료·운영시간·군민 할인 정리, 가기 전 체크 5가지",
-    "url": "https://nadeulnote.tistory.com/8",
-    "blog": "나들노트",
-    "date": "2026-10-08"
+    "title": "\"유모차 끌고 가기 어땠을까?\" 가평 아침고요수목원 주차 & 관람 코스 꿀팁",
+    "url": "https://blog.naver.com/daliy_haha_log/224439472463",
+    "blog": "하하남매네 소소한 기록",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
      {
       "text": "주차 무료",
-      "posts": 4,
-      "url": "https://nadeulnote.tistory.com/9",
-      "date": "2026-10-09"
+      "posts": 5,
+      "url": "https://nadeulnote.tistory.com/17",
+      "date": "2026-10-15"
+     },
+     {
+      "text": "주차는 무료",
+      "posts": 2,
+      "url": "https://travelsok.tistory.com/9",
+      "date": "2026-10-15"
      },
      {
       "text": "주차 요금 무료",
-      "posts": 1,
-      "url": "https://blog.naver.com/doyoudesign/224435411134",
-      "date": "2026-10-09"
+      "posts": 2,
+      "url": "https://blog.naver.com/rila6412_/224437395450",
+      "date": "2026-10-10"
      },
      {
       "text": "30분 300원",
       "posts": 1,
       "url": "https://blog.naver.com/kjals/224426072803",
       "date": "2026-10-03"
-     },
-     {
-      "text": "15분당 150원",
-      "posts": 1,
-      "url": "https://blog.naver.com/kjals/224426072803",
-      "date": "2026-10-03"
      }
     ],
     "post": {
-     "title": "가평 아침고요수목원 단풍 절정 10월 말? 30주년 주말 체험·무료 주차·하루 동선 (2026)",
-     "url": "https://blog.naver.com/slowhikecouple/224436028682",
-     "blog": "느릿느릿 떠나기",
-     "date": "2026-10-09"
+     "title": "아침고요수목원 단풍철 입장료와 주차, 주말엔 몇 시까지 가야 안 막힐까요",
+     "url": "https://buenabo.tistory.com/127",
+     "blog": "미라보 알쓸정보소",
+     "date": "2026-10-15"
     }
    }
   },
   "두물머리·세미원": {
-   "real": 37540,
-   "ad": 259,
-   "recent": 1681,
-   "honestMarks": 2,
-   "sample": 146,
-   "sampleAd": 1,
+   "real": 36937,
+   "ad": 0,
+   "recent": 1917,
+   "blogs": 142,
+   "topBlog": 0.007042253521126761,
+   "honestMarks": 1,
+   "sample": 142,
+   "sampleAd": 0,
    "pick": {
-    "title": "팔당 자전거 대여 바이크토탈 가격 주차 두물머리 코스 후기",
-    "url": "https://blog.naver.com/dudwn8140/224436343474",
-    "blog": "직장인 빵듀의 자취 라이프",
-    "date": "2026-10-09"
+    "title": "양평 두물머리·세미원 아이랑 후기, 주차·입장료·배다리 코스까지 한 번에",
+    "url": "https://blog.naver.com/kkomji_day/224439962873",
+    "blog": "꼼지락 꼼지락",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
       "text": "10분당 500원",
       "posts": 3,
-      "url": "https://blog.naver.com/youthis127/224434922840",
-      "date": "2026-10-08"
+      "url": "https://blog.naver.com/secondtour/224438050805",
+      "date": "2026-10-11"
      },
      {
       "text": "주차는 무료",
       "posts": 2,
-      "url": "https://whitelance.tistory.com/517",
-      "date": "2026-10-04"
+      "url": "https://syun8430.tistory.com/330",
+      "date": "2026-10-15"
      },
      {
-      "text": "1시간 10,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/sjssjdi04/224436276817",
-      "date": "2026-10-09"
+      "text": "주차요금 무료",
+      "posts": 2,
+      "url": "https://blog.naver.com/jonsewose/224439142207",
+      "date": "2026-10-12"
      },
      {
-      "text": "하루 3,000원",
+      "text": "기본 30분 600원",
       "posts": 1,
-      "url": "https://blog.naver.com/sjssjdi04/224436276817",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/karlsty/224439879770",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "양평 두물머리연핫도그 원조 주말 웨이팅 후기 (주차 포장 가격)",
-     "url": "https://blog.naver.com/youthis127/224434922840",
-     "blog": "youthis",
-     "date": "2026-10-08"
+     "title": "양평 세미원 두물머리 2026 가을 총정리, 입장료 주차장 박람회 일정까지",
+     "url": "https://syun8430.tistory.com/330",
+     "blog": "행복홈",
+     "date": "2026-10-15"
     }
    }
   },
   "국립수목원": {
-   "real": 11570,
+   "real": 14235,
    "ad": 0,
-   "recent": 850,
+   "recent": 1008,
+   "blogs": 50,
+   "topBlog": 0.02,
    "honestMarks": 0,
-   "sample": 41,
+   "sample": 50,
    "sampleAd": 0,
    "pick": {
-    "title": "국립수목원 예약방법, 주차 예약과 아이 동반 준비물",
-    "url": "https://blog.naver.com/hellomongsil/224435834491",
-    "blog": "워킹맘알고리즘",
-    "date": "2026-10-09"
+    "title": "포천 국립수목원 예약 주차 당일예약 다둥이가족 무료입장",
+    "url": "https://blog.naver.com/miffyje486/224441318577",
+    "blog": "즐거운 지은이",
+    "date": "2026-10-14"
    },
    "parking": {
-    "fees": [
-     {
-      "text": "1시간 10,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/sjssjdi04/224436276817",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "하루 3,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/sjssjdi04/224436276817",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "기본 30분 3,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/myaongjji/224353131647",
-      "date": "2026-10-08"
-     },
-     {
-      "text": "1일 5,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/smilejin_78/224431563991",
-      "date": "2026-10-05"
-     }
-    ],
+    "fees": [],
     "post": {
-     "title": "국립수목원 전나무 숲길 포천 광릉 수목원 단풍은 얼마나? 주차까지 정리",
-     "url": "https://blog.naver.com/pjj1219/224432924405",
-     "blog": "직장인 구름의 기록",
-     "date": "2026-10-06"
+     "title": "국립수목원 포천 광릉숲 (예약, 관람시간, 입장료, 주차)",
+     "url": "https://travel.easysummary.co.kr/185",
+     "blog": "쉬운정리 여행",
+     "date": "2026-10-15"
     }
    }
   },
   "산정호수": {
-   "real": 28206,
-   "ad": 0,
-   "recent": 1320,
-   "honestMarks": 4,
+   "real": 28150,
+   "ad": 189,
+   "recent": 1498,
+   "blogs": 150,
+   "topBlog": 0.006666666666666667,
+   "honestMarks": 2,
    "sample": 150,
-   "sampleAd": 0,
+   "sampleAd": 1,
    "pick": {
-    "title": "포천 명성산 억새군락지 2026｜산정호수 주차장·등산코스·소요시간·가을 억새 절정 시기",
-    "url": "https://blog.naver.com/minchang0905/224436192888",
-    "blog": "오늘도, 좋은 곳으로",
-    "date": "2026-10-09"
+    "title": "[포천 산정호수] 둘레길 산책 코스, 오리배 요금｜주차·소요시간·가볼만한곳",
+    "url": "https://blog.naver.com/mt-wanderer/224434188552",
+    "blog": "산나그네의 산사랑",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
       "text": "1일 2,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/minchang0905/224436192888",
-      "date": "2026-10-09"
+      "posts": 3,
+      "url": "https://ghdxo.tistory.com/128",
+      "date": "2026-10-15"
      },
      {
-      "text": "일일 2,000원",
+      "text": "10분마다 200원",
       "posts": 1,
-      "url": "https://blog.naver.com/jj0911s/224430667629",
-      "date": "2026-10-03"
+      "url": "https://blog.naver.com/im2005621/224439036829",
+      "date": "2026-10-14"
      },
      {
-      "text": "30분 300원",
+      "text": "1일 10,000원",
       "posts": 1,
-      "url": "https://blog.naver.com/kjals/224426072803",
-      "date": "2026-10-03"
+      "url": "https://blog.naver.com/im2005621/224439036829",
+      "date": "2026-10-14"
      },
      {
-      "text": "15분당 150원",
+      "text": "주차요금 무료",
       "posts": 1,
-      "url": "https://blog.naver.com/kjals/224426072803",
-      "date": "2026-10-03"
+      "url": "https://blog.naver.com/3bogo/224439909470",
+      "date": "2026-10-13"
      }
     ],
     "post": {
-     "title": "포천 명성산 억새군락지 2026｜산정호수 주차장·등산코스·소요시간·가을 억새 절정 시기",
-     "url": "https://blog.naver.com/minchang0905/224436192888",
-     "blog": "오늘도, 좋은 곳으로",
-     "date": "2026-10-09"
+     "title": "[경기도 아이와 가볼만한곳]포천 산정호수 명성산 억새꽃축제 2026 일정·주차·수상불꽃극 총정리",
+     "url": "https://blog.naver.com/hambox-/224441341216",
+     "blog": "hambox-님의 블로그",
+     "date": "2026-10-14"
     }
    }
   },
   "포천아트밸리": {
-   "real": 11787,
-   "ad": 0,
-   "recent": 653,
-   "honestMarks": 1,
-   "sample": 124,
-   "sampleAd": 0,
+   "real": 11178,
+   "ad": 191,
+   "recent": 693,
+   "blogs": 119,
+   "topBlog": 0.008403361344537815,
+   "honestMarks": 4,
+   "sample": 119,
+   "sampleAd": 2,
    "pick": {
-    "title": "포천 아트밸리 완벽 가이드: 모노레일 꿀팁·입장료 & 천주호 포토존 코스",
-    "url": "https://blog.naver.com/hongbaksa77/224424488895",
-    "blog": "주식박사홍박사블로그",
-    "date": "2026-09-28"
+    "title": "[자금성]-포천맛집 | 포천중국집 | 내돈내산 | 포천짜장면맛집 | 포천아이랑외식| 포천 아트밸리 맛집",
+    "url": "https://blog.naver.com/0_0uuu-/224439530865",
+    "blog": "0_0uuu-님의 블로그",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [
-     {
-      "text": "주차요금 무료",
-      "posts": 3,
-      "url": "https://blog.naver.com/jinjo_official/224429500653",
-      "date": "2026-10-02"
-     },
      {
       "text": "주차는 무료",
       "posts": 2,
@@ -2762,114 +2769,112 @@ window.STATS = {
       "date": "2026-10-05"
      },
      {
-      "text": "주차 무료",
+      "text": "주차요금 무료",
       "posts": 2,
-      "url": "https://blog.naver.com/alicestory0520/224411571912",
-      "date": "2026-09-14"
+      "url": "https://blog.naver.com/jinjo_official/224429500653",
+      "date": "2026-10-02"
      }
     ],
     "post": {
-     "title": "포천 여행) 포천 아트밸리 천주호 후기 입장료·주차·모노레일까지 포천 가볼만한곳",
-     "url": "https://blog.naver.com/dldlrjsanjdi/224433932667",
-     "blog": "여니가 다니는길(Yeoni Way)",
-     "date": "2026-10-07"
+     "title": "폐채석장에 있다고요?\" 30년 돌산이 변한 포천아트밸리, 가을 가볼만한곳·입장료·주차·반려견 동반...",
+     "url": "https://blog.naver.com/ygy_114/224438021170",
+     "blog": "여행대장 | 국내여행 가볼만한곳",
+     "date": "2026-10-12"
     }
    }
   },
   "현대어린이책미술관": {
-   "real": 4161,
+   "real": 5560,
    "ad": 0,
-   "recent": 83,
+   "recent": 103,
+   "blogs": 4,
+   "topBlog": 0.25,
    "honestMarks": 0,
-   "sample": 3,
+   "sample": 4,
    "sampleAd": 0,
    "pick": {
-    "title": "판교 현대백화점 주차요금 아끼는 꿀팁(쿠폰정보·평일VS주말 총정리)",
-    "url": "https://blog.naver.com/ajrumm/224435828870",
-    "blog": "맛냥의 기록 /ᐠ - ˕ -マ₊˚⊹",
-    "date": "2026-10-08"
+    "title": "판교 현대어린이책미술관 MOKA 사진세계 전시, 입장료 주차 4살 아이랑 체험 후기",
+    "url": "https://blog.naver.com/kellystoryy/224440158016",
+    "blog": "캘리네 오늘은 어디가",
+    "date": "2026-10-13"
    },
    "parking": {
-    "fees": [
-     {
-      "text": "10분당 1,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/yhm529/224431857518",
-      "date": "2026-10-05"
-     }
-    ],
-    "post": null
+    "fees": [],
+    "post": {
+     "title": "판교 현대어린이책미술관 MOKA 사진세계 전시, 입장료 주차 4살 아이랑 체험 후기",
+     "url": "https://blog.naver.com/kellystoryy/224440158016",
+     "blog": "캘리네 오늘은 어디가",
+     "date": "2026-10-13"
+    }
    }
   },
   "수원화성": {
-   "real": 141745,
+   "real": 56911,
    "ad": 0,
-   "recent": 4161,
-   "honestMarks": 1,
-   "sample": 80,
+   "recent": 1016,
+   "blogs": 31,
+   "topBlog": 0.0625,
+   "honestMarks": 0,
+   "sample": 32,
    "sampleAd": 0,
    "pick": {
-    "title": "[수원화성 미니 관광버스 '수원행차'] 이용요금·운영시간·노선·예약방법 총정리 🚐🏰",
-    "url": "https://blog.naver.com/sosohappy0000/224436013268",
-    "blog": "알.쓸.별.TALK : 알아두면 쓸모있는 별별 이야기",
-    "date": "2026-10-09"
+    "title": "수원 화성행궁 나들이 후기｜아이와 전통놀이 체험하고 주차·입장료까지",
+    "url": "https://blog.naver.com/dadamom_0119/224438916784",
+    "blog": "돈을 공부하는 하루",
+    "date": "2026-10-13"
    },
    "parking": {
     "fees": [
      {
+      "text": "10분마다 400원",
+      "posts": 5,
+      "url": "https://blog.naver.com/skyjumpzion/224440681964",
+      "date": "2026-10-14"
+     },
+     {
       "text": "30분 900원",
       "posts": 4,
-      "url": "https://blog.naver.com/ssssu_0104/224436003651",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/skyjumpzion/224440681964",
+      "date": "2026-10-14"
      },
      {
-      "text": "10분마다 300원",
-      "posts": 2,
-      "url": "https://blog.naver.com/thehongbomi/224436435857",
-      "date": "2026-10-09"
+      "text": "주차 무료",
+      "posts": 1,
+      "url": "https://blog.naver.com/mycjddk16/224441166544",
+      "date": "2026-10-14"
      },
      {
-      "text": "10분당 400원",
-      "posts": 2,
-      "url": "https://blog.naver.com/ssssu_0104/224436003651",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "1일 최대 14,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/dday34/224435389084",
-      "date": "2026-10-08"
+      "text": "60분당 1500원",
+      "posts": 1,
+      "url": "https://blog.naver.com/zerooook/224441056826",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "수원 화성행궁 입장료·주차요금 총정리｜관람시간부터 2026 야간개장까지",
-     "url": "https://minhe2.tistory.com/8",
-     "blog": "밍니_blog💙",
-     "date": "2026-10-10"
+     "title": "수원 화성행궁 나들이 후기｜아이와 전통놀이 체험하고 주차·입장료까지",
+     "url": "https://blog.naver.com/dadamom_0119/224438916784",
+     "blog": "돈을 공부하는 하루",
+     "date": "2026-10-13"
     }
    }
   },
   "광교호수공원": {
-   "real": 31655,
+   "real": 33144,
    "ad": 0,
-   "recent": 993,
-   "honestMarks": 5,
-   "sample": 136,
+   "recent": 1098,
+   "blogs": 142,
+   "topBlog": 0.007042253521126761,
+   "honestMarks": 2,
+   "sample": 142,
    "sampleAd": 0,
    "pick": {
-    "title": "광교호수공원 주차장 꿀팁 총정리: 주말 만차 시 대체 주차장과 산책 코스 소요시간",
-    "url": "https://blog.naver.com/kongsun1/224424698569",
-    "blog": "10억 모으기 프로젝트",
-    "date": "2026-09-28"
+    "title": "경기/수원 도쿄등심 광교점 특별한날 다녀오기 좋은 1++ 한우 코스요리 오마카세 광교호수공원 맛집",
+    "url": "https://blog.naver.com/heen1015/224436532278",
+    "blog": "좋아하는 것을 기록하는 공간",
+    "date": "2026-10-09"
    },
    "parking": {
     "fees": [
-     {
-      "text": "10분당 100원",
-      "posts": 7,
-      "url": "https://blog.naver.com/travel3572/224426678083",
-      "date": "2026-09-30"
-     },
      {
       "text": "10분마다 100원",
       "posts": 4,
@@ -2877,92 +2882,111 @@ window.STATS = {
       "date": "2026-10-10"
      },
      {
-      "text": "1일 최대 4,000원",
-      "posts": 3,
-      "url": "https://blog.naver.com/daolad9948/224425237925",
-      "date": "2026-09-28"
+      "text": "10분 100원",
+      "posts": 2,
+      "url": "https://blog.naver.com/catch-y/224435828796",
+      "date": "2026-10-09"
      },
      {
-      "text": "최대 4,000원",
+      "text": "10분마다 300원",
       "posts": 2,
-      "url": "https://kafuri.tistory.com/1301",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/redann8926/224431729509",
+      "date": "2026-10-05"
+     },
+     {
+      "text": "10분당 500원",
+      "posts": 2,
+      "url": "https://blog.naver.com/ehbosomi1209/224430842368",
+      "date": "2026-10-04"
      }
     ],
     "post": {
-     "title": "수원 광교 호수공원 주차장 피크닉 텐트 놀거리 아이와 가볼만한곳 푸른숲도서관 수유실 카페",
-     "url": "https://blog.naver.com/catch-y/224435828796",
-     "blog": "은가비의 빛나는 매일",
-     "date": "2026-10-09"
+     "title": "[수원여행] 수원 광교 아이와 가볼만한 곳｜던전스텝 샌드박스 후기, 요금·주차·광교호수공원 코스까지!",
+     "url": "https://blog.naver.com/mycjddk16/224441166544",
+     "blog": "닥터키즈 청아의 처음하는 육아일기♡",
+     "date": "2026-10-14"
     }
    }
   },
   "국립농업박물관": {
-   "real": 5537,
+   "real": 5240,
    "ad": 0,
-   "recent": 319,
-   "honestMarks": 0,
-   "sample": 88,
+   "recent": 304,
+   "blogs": 83,
+   "topBlog": 0.012048192771084338,
+   "honestMarks": 1,
+   "sample": 83,
    "sampleAd": 0,
    "pick": {
-    "title": "수원 아이와 가볼만한곳 | 국립농업박물관 어린이박물관 관람 꿀팁! 주차, 예약, 연령별 추천 코스",
-    "url": "https://blog.naver.com/golden_s1/224430069399",
-    "blog": "김사원의 이모저모",
-    "date": "2026-10-02"
-   },
-   "parking": {
-    "fees": [],
-    "post": {
-     "title": "[수원 국립농업박물관] 어린이박물관 예약 꿀팁·노쇼 줍줍 성공 주차 편의시설 후기까지",
-     "url": "https://blog.naver.com/lim2021sk/224436868171",
-     "blog": "미소안, 행복한 이야기",
-     "date": "2026-10-10"
-    }
-   }
-  },
-  "화성 고정리 공룡알화석산지": {
-   "real": 1615,
-   "ad": 0,
-   "recent": 61,
-   "honestMarks": 0,
-   "sample": 9,
-   "sampleAd": 0,
-   "pick": {
-    "title": "경기도여행, 화성공룡알화석산지, 화성국가지질공원, 고정리공룡알화석산지, 화성아이와가볼만한곳,국내...",
-    "url": "https://blog.naver.com/j3837/224429382398",
-    "blog": "최고의 선택.",
-    "date": "2026-10-02"
+    "title": "수원 국립농업박물관, 아이랑 가볼만한곳 예약 주차 식당 총정리",
+    "url": "https://blog.naver.com/happy_ben/224437101109",
+    "blog": "태국 3년 살면, 아이랑 여행은 껌이지!",
+    "date": "2026-10-11"
    },
    "parking": {
     "fees": [
      {
-      "text": "일일 2000원",
+      "text": "주차요금 무료",
       "posts": 1,
-      "url": "https://blog.naver.com/vselka/224422921169",
-      "date": "2026-09-26"
-     },
-     {
-      "text": "3시간 2,000원",
-      "posts": 1,
-      "url": "https://blog.naver.com/misukzzong/224418661583",
-      "date": "2026-09-21"
-     },
-     {
-      "text": "주차는 무료",
-      "posts": 1,
-      "url": "https://blog.naver.com/ghdllove5153/224415839686",
-      "date": "2026-09-21"
+      "url": "https://blog.naver.com/pjihye4728/224438897643",
+      "date": "2026-10-14"
      }
     ],
     "post": null
    }
   },
-  "한국만화박물관": {
-   "real": 12055,
-   "ad": 305,
-   "recent": 336,
+  "화성 고정리 공룡알화석산지": {
+   "real": 2700,
+   "ad": 0,
+   "recent": 100,
+   "blogs": 15,
+   "topBlog": 0.06666666666666667,
    "honestMarks": 0,
-   "sample": 81,
+   "sample": 15,
+   "sampleAd": 0,
+   "pick": {
+    "title": "화성 공룡알 화석산지 화성 주말 드라이브 주차&걷기좋은 산책길코스",
+    "url": "https://blog.naver.com/penelope5555/224437398743",
+    "blog": "Penelope Diary",
+    "date": "2026-10-10"
+   },
+   "parking": {
+    "fees": [
+     {
+      "text": "주차 무료",
+      "posts": 1,
+      "url": "https://blog.naver.com/jk3520040/224437724194",
+      "date": "2026-10-11"
+     },
+     {
+      "text": "주차요금 무료",
+      "posts": 1,
+      "url": "https://blog.naver.com/jk3520040/224437724194",
+      "date": "2026-10-11"
+     },
+     {
+      "text": "일일 2000원",
+      "posts": 1,
+      "url": "https://blog.naver.com/vselka/224422921169",
+      "date": "2026-09-26"
+     }
+    ],
+    "post": {
+     "title": "화성 공룡알 화석산지 아기랑 나들이, 주차부터 데크길 산책까지",
+     "url": "https://blog.naver.com/sh_y0403/224441165233",
+     "blog": "쏭쏭이의하루",
+     "date": "2026-10-14"
+    }
+   }
+  },
+  "한국만화박물관": {
+   "real": 9929,
+   "ad": 305,
+   "recent": 245,
+   "blogs": 67,
+   "topBlog": 0.014925373134328358,
+   "honestMarks": 2,
+   "sample": 67,
    "sampleAd": 2,
    "pick": {
     "title": "한국만화박물관 가기 전 정리｜관람시간·요금·만화도서관·주차 안내",
@@ -2976,34 +3000,33 @@ window.STATS = {
    }
   },
   "의왕 철도박물관": {
-   "real": 12068,
+   "real": 14282,
    "ad": 0,
-   "recent": 478,
-   "honestMarks": 0,
-   "sample": 39,
+   "recent": 570,
+   "blogs": 46,
+   "topBlog": 0.021739130434782608,
+   "honestMarks": 1,
+   "sample": 46,
    "sampleAd": 0,
    "pick": {
-    "title": "경기 가볼만한곳 의왕 데이트코스추천 철도박물관 왕송호수 맛집 카페 뚜벅이 여행 동선후기",
-    "url": "https://blog.naver.com/boramxx/224430541554",
-    "blog": "Good day",
-    "date": "2026-10-03"
+    "title": "넘버블럭스 팝업 아이랑 의왕 당일치기 코스 철도박물관 타임빌라스 무민공원",
+    "url": "https://blog.naver.com/oshoia/224439527262",
+    "blog": "솜맘로그",
+    "date": "2026-10-12"
    },
    "parking": {
     "fees": [],
-    "post": {
-     "title": "철도박물관(의왕) 가기 전 정리｜관람료·디오라마 시간표·주차 안내",
-     "url": "https://ilsang-note.tistory.com/50",
-     "blog": "Rec.ilsang",
-     "date": "2026-10-05"
-    }
+    "post": null
    }
   },
   "의왕레일바이크": {
-   "real": 2351,
+   "real": 2641,
    "ad": 0,
-   "recent": 65,
+   "recent": 95,
+   "blogs": 66,
+   "topBlog": 0.015151515151515152,
    "honestMarks": 2,
-   "sample": 59,
+   "sample": 66,
    "sampleAd": 0,
    "pick": {
     "title": "[경기도 의왕]왕송호수 5살3살 아기랑 후기 “의왕레일바이크” 가격 주차 예약 이용꿀팁",
@@ -3013,6 +3036,12 @@ window.STATS = {
    },
    "parking": {
     "fees": [
+     {
+      "text": "3시간 2,000원",
+      "posts": 1,
+      "url": "https://blog.naver.com/caribbean_otter/224438473525",
+      "date": "2026-10-13"
+     },
      {
       "text": "주차 무료",
       "posts": 1,
@@ -3041,11 +3070,13 @@ window.STATS = {
    }
   },
   "광명동굴": {
-   "real": 25154,
+   "real": 26220,
    "ad": 0,
-   "recent": 822,
-   "honestMarks": 4,
-   "sample": 158,
+   "recent": 1116,
+   "blogs": 161,
+   "topBlog": 0.012195121951219513,
+   "honestMarks": 0,
+   "sample": 164,
    "sampleAd": 0,
    "pick": {
     "title": "광명 여행 필수 코스! 광명동굴 주소, 입장료, 주차요금, 운영시간 및 관람 가이드",
@@ -3056,218 +3087,218 @@ window.STATS = {
    "parking": {
     "fees": [
      {
+      "text": "30분 800원",
+      "posts": 3,
+      "url": "https://blog.naver.com/meejolee/224440037580",
+      "date": "2026-10-13"
+     },
+     {
       "text": "10분당 300원",
       "posts": 2,
-      "url": "https://blog.naver.com/gigigoboggo/224433354764",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/meejolee/224440037580",
+      "date": "2026-10-13"
      },
      {
-      "text": "30분 800원",
+      "text": "10분당 400원",
       "posts": 2,
-      "url": "https://blog.naver.com/kongal_mom/224427610610",
-      "date": "2026-09-30"
+      "url": "https://blog.naver.com/meejolee/224440037580",
+      "date": "2026-10-13"
      },
      {
-      "text": "30분에 800원",
-      "posts": 1,
-      "url": "https://blog.naver.com/gigigoboggo/224433354764",
+      "text": "10분마다 300원",
+      "posts": 2,
+      "url": "https://blog.naver.com/bella10007/224437450643",
       "date": "2026-10-10"
-     },
-     {
-      "text": "주차 무료",
-      "posts": 1,
-      "url": "https://blog.naver.com/ubue/224433418131",
-      "date": "2026-10-06"
      }
     ],
     "post": {
-     "title": "[경기도 아이랑 가볼만한 곳]광명동굴 주차/옷차림/입장료할인/미디어아트 솔직후기",
-     "url": "https://blog.naver.com/vhxmdmswl/224436564790",
-     "blog": "먹고 쉬고 기록하고",
-     "date": "2026-10-09"
+     "title": "[2026 광명동굴 빛 축제] 일정, 드론쇼 시간, 주차 및 관람 꿀팁 총정리",
+     "url": "https://forceum.tistory.com/96",
+     "blog": "forceum 님의 블로그",
+     "date": "2026-10-15"
     }
    }
   },
   "안성팜랜드": {
-   "real": 28352,
-   "ad": 0,
-   "recent": 3214,
-   "honestMarks": 4,
-   "sample": 184,
-   "sampleAd": 0,
+   "real": 28350,
+   "ad": 156,
+   "recent": 2845,
+   "blogs": 181,
+   "topBlog": 0.01639344262295082,
+   "honestMarks": 3,
+   "sample": 183,
+   "sampleAd": 1,
    "pick": {
-    "title": "안성팜랜드 국내 가볼만한 곳 코스모스 핑크뮬리 축제 주차 수유실 유모차",
-    "url": "https://blog.naver.com/yjnns_/224434651479",
-    "blog": "어서오새댁",
-    "date": "2026-10-07"
+    "title": "2026 안성팜랜드 가을축제, 코스목동축제 핑크뮬리·코스모스 입장료, 운영시간, 주차, 팁",
+    "url": "https://blog.naver.com/rich_freedom/224436661490",
+    "blog": "rich_freedom님의 블로그",
+    "date": "2026-10-10"
    },
    "parking": {
     "fees": [
      {
       "text": "주차 무료",
-      "posts": 3,
-      "url": "https://blog.naver.com/dldydgy456/224435592975",
-      "date": "2026-10-10"
+      "posts": 2,
+      "url": "https://blog.naver.com/dowhatiwant___/224437523806",
+      "date": "2026-10-12"
      },
      {
-      "text": "주차 요금 무료",
-      "posts": 1,
-      "url": "https://blog.naver.com/studioiroha/224435750001",
-      "date": "2026-10-08"
+      "text": "주차요금 무료",
+      "posts": 2,
+      "url": "https://blog.naver.com/keykey10/224436036451",
+      "date": "2026-10-09"
      },
      {
       "text": "주차는 무료",
       "posts": 1,
-      "url": "https://gonpigonpii.tistory.com/127",
-      "date": "2026-10-05"
+      "url": "https://blog.naver.com/homentrip/224436968659",
+      "date": "2026-10-10"
      }
     ],
     "post": {
-     "title": "알고 보니 가을 명소였네? 안성팜랜드 입장권 할인·주차·관람 코스",
-     "url": "https://blog.naver.com/eheqhrl-/224436857366",
-     "blog": "하루절약 생활노트",
-     "date": "2026-10-10"
+     "title": "\"핑크뮬리 꽃구경 가요!\" 안성 팜랜드 입장료 할인 주차 자전거 총정리",
+     "url": "https://blog.naver.com/banpodonggrandma/224440347148",
+     "blog": "경험을 리뷰하는 여자",
+     "date": "2026-10-13"
     }
    }
   },
   "화담숲": {
-   "real": 32397,
-   "ad": 217,
-   "recent": 2798,
+   "real": 34515,
+   "ad": 0,
+   "recent": 3035,
+   "blogs": 157,
+   "topBlog": 0.006369426751592357,
    "honestMarks": 2,
-   "sample": 150,
-   "sampleAd": 1,
+   "sample": 157,
+   "sampleAd": 0,
    "pick": {
-    "title": "🍁 10월 단풍 명소 끝판왕! 화담숲 예약·주차·입장료부터 실패 없는 주변 맛집 코스 총정리",
-    "url": "https://blog.naver.com/laso_/224433635739",
-    "blog": "laso",
+    "title": "2026 화담숲 예약방법 총정리, 단풍철 예약 놓쳤다면? 취소표 확인부터 모노레일 요금·입장료·주차...",
+    "url": "https://hyunkim090310.ganadara21.com/52",
+    "blog": "hyunkim090310 님의 블로그",
+    "date": "2026-10-13"
+   },
+   "parking": {
+    "fees": [],
+    "post": {
+     "title": "화담숲 단풍 예약 2026: 10~11월 운영시간·모노레일 요금·주차 총정리",
+     "url": "https://infospire.tistory.com/486",
+     "blog": "인포스파이어",
+     "date": "2026-10-15"
+    }
+   }
+  },
+  "시흥갯골생태공원": {
+   "real": 13581,
+   "ad": 0,
+   "recent": 1037,
+   "blogs": 158,
+   "topBlog": 0.012578616352201259,
+   "honestMarks": 0,
+   "sample": 159,
+   "sampleAd": 0,
+   "pick": {
+    "title": "시흥 갯골생태공원 코스모스 개화 현황, 5개월 아기와 가을 나들이(수유실·유모차 대여·주차)",
+    "url": "https://blog.naver.com/ddj0719/224433560948",
+    "blog": "동동주의 맛있는 일상",
     "date": "2026-10-06"
    },
    "parking": {
     "fees": [
      {
-      "text": "10분에 300원",
+      "text": "1시간 1,400원",
       "posts": 1,
-      "url": "https://blog.naver.com/hobbyon_/224436188907",
-      "date": "2026-10-09"
+      "url": "https://blog.naver.com/fvg0224/224441270556",
+      "date": "2026-10-14"
      },
      {
-      "text": "주차 요금 무료",
+      "text": "2시간 2,800원",
       "posts": 1,
-      "url": "https://blog.naver.com/up_man/224435288226",
-      "date": "2026-10-09"
-     },
-     {
-      "text": "주차는 무료",
-      "posts": 1,
-      "url": "https://suanjp2067.tistory.com/327",
-      "date": "2026-10-08"
-     },
-     {
-      "text": "10분당 600원",
-      "posts": 1,
-      "url": "https://distipone.com/149",
-      "date": "2026-10-06"
+      "url": "https://blog.naver.com/fvg0224/224441270556",
+      "date": "2026-10-14"
      }
     ],
     "post": {
-     "title": "화담숲 유모차 매표소 앞 하차 가능할까? 주차부터 입장까지 정리",
-     "url": "https://blog.naver.com/travelwook91/224437050342",
-     "blog": "이번생은 n잡",
-     "date": "2026-10-10"
-    }
-   }
-  },
-  "시흥갯골생태공원": {
-   "real": 12997,
-   "ad": 0,
-   "recent": 957,
-   "honestMarks": 0,
-   "sample": 153,
-   "sampleAd": 0,
-   "pick": {
-    "title": "시흥 가볼만한 곳 갯골생태공원 주차꿀팁 | 10월 핑크뮬리 코스모스 댑싸리 개화상태 서울 근교...",
-    "url": "https://blog.naver.com/wrapa3/224436662159",
-    "blog": "힏스토리",
-    "date": "2026-10-09"
-   },
-   "parking": {
-    "fees": [
-     {
-      "text": "주차 무료",
-      "posts": 1,
-      "url": "https://blog.naver.com/dldydgy456/224435592975",
-      "date": "2026-10-10"
-     }
-    ],
-    "post": {
-     "title": "시흥 가볼만한 곳 갯골생태공원 주차꿀팁 | 10월 핑크뮬리 코스모스 댑싸리 개화상태 서울 근교...",
-     "url": "https://blog.naver.com/wrapa3/224436662159",
-     "blog": "힏스토리",
-     "date": "2026-10-09"
+     "title": "경기 아이와 가볼만한 곳 | 시흥 갯골생태공원 아이와 가을 나들이 후기(주차, 수유실, 그늘막 정리)",
+     "url": "https://blog.naver.com/fvg0224/224441270556",
+     "blog": "트리유의 가볼만한곳 & 육아템",
+     "date": "2026-10-14"
     }
    }
   },
   "전곡선사박물관": {
-   "real": 5163,
+   "real": 5123,
    "ad": 0,
-   "recent": 330,
+   "recent": 346,
+   "blogs": 164,
+   "topBlog": 0.006097560975609756,
    "honestMarks": 3,
-   "sample": 166,
+   "sample": 164,
    "sampleAd": 0,
    "pick": {
-    "title": "전곡선사박물관 입장료 주차 관람 팁! 2026년 최신 방문 가이드",
-    "url": "https://blog.naver.com/sosonge/224398920097",
-    "blog": "툐밍의 블로그 입니다_*",
-    "date": "2026-09-02"
-   },
-   "parking": {
-    "fees": [],
-    "post": null
-   }
-  },
-  "양주 나리공원": {
-   "real": 8005,
-   "ad": 98,
-   "recent": 802,
-   "honestMarks": 1,
-   "sample": 83,
-   "sampleAd": 1,
-   "pick": {
-    "title": "[양주 가볼 만한 곳] 양주 나리공원 천일홍 개화현황 및 축제 , 입장료 환급, 주차 꿀팁 총정리",
-    "url": "https://blog.naver.com/lub7777/224428637830",
-    "blog": "피클이의 행복한 일상",
+    "title": "연천 가을나들이 당일치기 풀코스 ｜재인폭포 황화코스모스, 전곡선사박물관, 호로고루",
+    "url": "https://blog.naver.com/eoanna/224428215010",
+    "blog": "지니로그",
     "date": "2026-10-01"
    },
    "parking": {
     "fees": [
      {
-      "text": "주차 요금 무료",
+      "text": "주차비 무료",
       "posts": 1,
-      "url": "https://blog.naver.com/nstartkkh/224436903772",
-      "date": "2026-10-10"
+      "url": "https://blog.naver.com/sosohappy0000/224438673509",
+      "date": "2026-10-12"
+     }
+    ],
+    "post": null
+   }
+  },
+  "양주 나리공원": {
+   "real": 7281,
+   "ad": 0,
+   "recent": 674,
+   "blogs": 74,
+   "topBlog": 0.013513513513513514,
+   "honestMarks": 1,
+   "sample": 74,
+   "sampleAd": 0,
+   "pick": {
+    "title": "양주 나리공원 입장료 주차 중장년 코스 완벽 정리 (2026 가을)",
+    "url": "https://soyoun6164.com/1643",
+    "blog": "유니맘쉼표 여행·생활 가이드",
+    "date": "2026-10-12"
+   },
+   "parking": {
+    "fees": [
+     {
+      "text": "주차요금 무료",
+      "posts": 2,
+      "url": "https://blog.naver.com/ss341811/224438369945",
+      "date": "2026-10-11"
      },
      {
-      "text": "주차 무료",
+      "text": "1일 10,000원",
       "posts": 1,
-      "url": "https://blog.naver.com/mablyson/224430607913",
-      "date": "2026-10-05"
+      "url": "https://honey.wjskind.com/265",
+      "date": "2026-10-12"
      }
     ],
     "post": {
-     "title": "양주 나리공원 10월 꽃구경, 나리농원 개장기간·입장료·주차 구분하기",
-     "url": "https://stoung369.tistory.com/1290",
-     "blog": "\"소소한 일상",
-     "date": "2026-10-10"
+     "title": "양주 나리공원 천일홍축제 🌸 아이랑 가을 나들이, 입장료·주차 정보",
+     "url": "https://blog.naver.com/yully2211/224440212096",
+     "blog": "소율,가득한 날",
+     "date": "2026-10-13"
     }
    }
   },
   "안양예술공원": {
-   "real": 10704,
+   "real": 10448,
    "ad": 69,
-   "recent": 293,
-   "honestMarks": 9,
-   "sample": 156,
+   "recent": 281,
+   "blogs": 152,
+   "topBlog": 0.006578947368421052,
+   "honestMarks": 6,
+   "sample": 152,
    "sampleAd": 1,
    "pick": {
     "title": "[안양예술공원 계곡] 18개월 아기와 9월 가을 물놀이 후기 | 노외 주차장 선불 꿀팁, 유모차, 수온",
@@ -3278,44 +3309,46 @@ window.STATS = {
    "parking": {
     "fees": [
      {
+      "text": "30분 400원",
+      "posts": 3,
+      "url": "https://blog.naver.com/inkspilled/224439974196",
+      "date": "2026-10-13"
+     },
+     {
       "text": "1시간 1,000원",
-      "posts": 4,
+      "posts": 3,
       "url": "https://blog.naver.com/syhouse_/224401267340",
       "date": "2026-09-05"
      },
      {
       "text": "2시간 3,400원",
-      "posts": 4,
-      "url": "https://blog.naver.com/syhouse_/224401267340",
-      "date": "2026-09-05"
-     },
-     {
-      "text": "3시간 7,000원",
       "posts": 3,
       "url": "https://blog.naver.com/syhouse_/224401267340",
       "date": "2026-09-05"
      },
      {
-      "text": "30분 400원",
-      "posts": 3,
-      "url": "https://blog.naver.com/sosoharu1129/224392265336",
-      "date": "2026-08-27"
+      "text": "10분당 1,000원",
+      "posts": 2,
+      "url": "https://blog.naver.com/urim_mmmm/224418077800",
+      "date": "2026-09-20"
      }
     ],
     "post": {
-     "title": "안양예술공원 가을 산책｜삼성천·공공예술작품·가족 나들이·주차 팁",
-     "url": "https://blog.naver.com/turtle0711/224428123298",
-     "blog": "3D기구설계 · 실전정보 노트",
-     "date": "2026-10-02"
+     "title": "2026 안양예술공원 가을 단풍 축제 완벽 정리: 일정부터 야간 미디어아트·주차 꿀팁·추천 코스까지!",
+     "url": "https://blog.naver.com/dkdl1092/224439135819",
+     "blog": "빌라라이프스토리",
+     "date": "2026-10-12"
     }
    }
   },
   "율동공원": {
-   "real": 21799,
+   "real": 22235,
    "ad": 134,
-   "recent": 510,
-   "honestMarks": 1,
-   "sample": 164,
+   "recent": 528,
+   "blogs": 165,
+   "topBlog": 0.011976047904191617,
+   "honestMarks": 2,
+   "sample": 167,
    "sampleAd": 1,
    "pick": {
     "title": "율동공원 주차장 주말 요금 무료? 주차팁 C주차장까지",
@@ -3327,57 +3360,61 @@ window.STATS = {
     "fees": [
      {
       "text": "10분당 100원",
-      "posts": 10,
-      "url": "https://blog.naver.com/soesee/224434711998",
-      "date": "2026-10-08"
+      "posts": 12,
+      "url": "https://blog.naver.com/ownmyth/224439985391",
+      "date": "2026-10-13"
+     },
+     {
+      "text": "30분 300원",
+      "posts": 3,
+      "url": "https://blog.naver.com/vanillary88/224433215491",
+      "date": "2026-10-07"
      },
      {
       "text": "30분당 1,500원",
-      "posts": 2,
-      "url": "https://blog.naver.com/leafsdiary/224423845294",
-      "date": "2026-09-27"
+      "posts": 3,
+      "url": "https://blog.naver.com/amor_mingg/224431531265",
+      "date": "2026-10-05"
      },
      {
-      "text": "90분 1,000원",
+      "text": "최대 6,000원",
       "posts": 2,
-      "url": "https://blog.naver.com/one-pearl/224361651226",
-      "date": "2026-08-06"
-     },
-     {
-      "text": "60분당 1,000원",
-      "posts": 2,
-      "url": "https://blog.naver.com/one-pearl/224361651226",
-      "date": "2026-08-06"
+      "url": "https://isloaded.tistory.com/160",
+      "date": "2026-10-11"
      }
     ],
     "post": {
-     "title": "율동공원 단풍 산책 코스｜분당 주차·호수길·카페 모쓰까지",
-     "url": "https://blog.naver.com/soesee/224434711998",
-     "blog": "소이가 보는 세상",
-     "date": "2026-10-08"
+     "title": "성남 가볼만한곳 분당 율동공원 주차 반려견놀이터 산책로 총정리 (가을 데이트)",
+     "url": "https://blog.naver.com/roynmin/224437823684",
+     "blog": "로민유랑단",
+     "date": "2026-10-11"
     }
    }
   },
   "서울형 키즈카페 시립 1호점": {
-   "real": 914,
+   "real": 334,
    "ad": 0,
-   "recent": 61,
+   "recent": 21,
+   "blogs": 4,
+   "topBlog": 0.25,
    "honestMarks": 0,
-   "sample": 11,
+   "sample": 4,
    "sampleAd": 0,
    "pick": {
-    "title": "[서울형키즈카페 추천] 아이랑 서울형키카 시립1호점",
-    "url": "https://blog.naver.com/thswnehd/224422798457",
-    "blog": "연년생 남매와 떠나는 세계여행",
-    "date": "2026-09-25"
+    "title": "서울형 키즈카페 시립 가족플라자점｜예약·주차·6세 클라이밍 후기",
+    "url": "https://blog.naver.com/heartqq3393/224440813472",
+    "blog": "소노엄마 여행 로그",
+    "date": "2026-10-14"
    }
   },
   "서울형 키즈카페 시립 공예마을점": {
-   "real": 699,
+   "real": 319,
    "ad": 0,
-   "recent": 59,
+   "recent": 23,
+   "blogs": 5,
+   "topBlog": 0.2,
    "honestMarks": 0,
-   "sample": 11,
+   "sample": 5,
    "sampleAd": 0,
    "pick": {
     "title": "서울공예박물관 어린이박물관 체험 및 예약 주차 정보",
@@ -3387,11 +3424,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 시립 노고산점": {
-   "real": 85,
+   "real": 87,
    "ad": 0,
-   "recent": 58,
+   "recent": 59,
+   "blogs": 75,
+   "topBlog": 0.02631578947368421,
    "honestMarks": 0,
-   "sample": 73,
+   "sample": 76,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 시립노고산점｜6세아이랑 방문후기 예약 및 주차팁",
@@ -3401,25 +3440,29 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 시립 뚝섬자벌레점": {
-   "real": 1972,
+   "real": 1810,
    "ad": 0,
-   "recent": 273,
+   "recent": 226,
+   "blogs": 61,
+   "topBlog": 0.03225806451612903,
    "honestMarks": 0,
-   "sample": 68,
+   "sample": 62,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 뚝섬 자벌레점 한강플플 아기랑 지하철 대중교통 방문 후기(유모차, 자양역 연결통로)",
-    "url": "https://blog.naver.com/erynn__/224434996170",
-    "blog": "ERYN 육아, 맛집, 소비 일상",
-    "date": "2026-10-08"
+    "title": "[아이랑 가볼만한 곳] 뚝섬 자벌레 서울형 키즈카페 주말 이용 후기, 예약부터 이용 요금·주차 꿀팁",
+    "url": "https://blog.naver.com/kim_zzangi/224419216887",
+    "blog": "김짱이",
+    "date": "2026-09-21"
    }
   },
   "서울형 키즈카페 시립 목동점": {
-   "real": 1570,
+   "real": 1557,
    "ad": 0,
-   "recent": 185,
-   "honestMarks": 0,
-   "sample": 86,
+   "recent": 168,
+   "blogs": 83,
+   "topBlog": 0.023529411764705882,
+   "honestMarks": 1,
+   "sample": 85,
    "sampleAd": 0,
    "pick": {
     "title": "“예약 힘든 이유 있었네” 삼형제 데리고 직접 다녀온 서울형 키즈카페 시립 목동점",
@@ -3429,11 +3472,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 시립 보라매공원점": {
-   "real": 389,
+   "real": 400,
    "ad": 0,
-   "recent": 59,
+   "recent": 62,
+   "blogs": 86,
+   "topBlog": 0.022988505747126436,
    "honestMarks": 0,
-   "sample": 85,
+   "sample": 87,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 시립 보라매공원점 :: 4세 아이 주말 방문 후기 주차요금",
@@ -3443,25 +3488,29 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 시립 서울가족플라자점": {
-   "real": 569,
+   "real": 589,
    "ad": 0,
-   "recent": 49,
+   "recent": 51,
+   "blogs": 34,
+   "topBlog": 0.029411764705882353,
    "honestMarks": 1,
-   "sample": 33,
+   "sample": 34,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 서울가족플라자점 주차, 예약, 체험후기",
-    "url": "https://blog.naver.com/aaajs2_2/224404813407",
-    "blog": "오늘도 해 나가는중, 워킹맘의 매일 쌓기",
-    "date": "2026-09-08"
+    "title": "서울형 키즈카페 시립 서울가족플라자점 6세 남아 클라이밍 예약 이용 후기 주차정보",
+    "url": "https://blog.naver.com/xnlsl/224437548126",
+    "blog": "지금, 여기서 즐기기",
+    "date": "2026-10-10"
    }
   },
   "서울형 키즈카페 시립 서울상상나라점": {
-   "real": 1285,
+   "real": 1242,
    "ad": 0,
-   "recent": 319,
+   "recent": 251,
+   "blogs": 75,
+   "topBlog": 0.02631578947368421,
    "honestMarks": 0,
-   "sample": 79,
+   "sample": 76,
    "sampleAd": 0,
    "pick": {
     "title": "서울상상나라 예약·입장료·주차 가기 전 정리",
@@ -3471,11 +3520,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 시립 서울숲점": {
-   "real": 60,
+   "real": 62,
    "ad": 0,
-   "recent": 14,
+   "recent": 12,
+   "blogs": 32,
+   "topBlog": 0.03125,
    "honestMarks": 0,
-   "sample": 31,
+   "sample": 32,
    "sampleAd": 0,
    "pick": {
     "title": "2026 서울숲 국제정원박람회 아이랑 다녀온 후기｜주차, 동선, 준비물 이것만 보면 준비 끝",
@@ -3488,6 +3539,8 @@ window.STATS = {
    "real": 99,
    "ad": 0,
    "recent": 28,
+   "blogs": 73,
+   "topBlog": 0.0136986301369863,
    "honestMarks": 1,
    "sample": 73,
    "sampleAd": 0,
@@ -3499,11 +3552,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 시립 아리수나라점": {
-   "real": 395,
+   "real": 363,
    "ad": 0,
-   "recent": 50,
+   "recent": 40,
+   "blogs": 10,
+   "topBlog": 0.18181818181818182,
    "honestMarks": 0,
-   "sample": 12,
+   "sample": 11,
    "sampleAd": 0,
    "pick": {
     "title": "두 돌 아기와 가을 나들이 | 서울 어린이대공원 단풍놀이터 위치 & 후기 (놀이동산 꿀팁)",
@@ -3513,11 +3568,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 시립 화곡점": {
-   "real": 544,
+   "real": 533,
    "ad": 6,
-   "recent": 74,
+   "recent": 69,
+   "blogs": 94,
+   "topBlog": 0.021052631578947368,
    "honestMarks": 0,
-   "sample": 97,
+   "sample": 95,
    "sampleAd": 1,
    "pick": {
     "title": "아이들맛집] 최덕화돈까스 :: 화곡역 아이들 맛집으로도 완벽, 강서서울형키즈카페 근처 돈까스 맛집 후기",
@@ -3529,7 +3586,9 @@ window.STATS = {
   "서울형 키즈카페 강남구 대치1동점": {
    "real": 55,
    "ad": 0,
-   "recent": 21,
+   "recent": 19,
+   "blogs": 45,
+   "topBlog": 0.022222222222222223,
    "honestMarks": 0,
    "sample": 45,
    "sampleAd": 0,
@@ -3541,9 +3600,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강남구 역삼1동점": {
-   "real": 134,
+   "real": 136,
    "ad": 0,
-   "recent": 26,
+   "recent": 28,
+   "blogs": 92,
+   "topBlog": 0.010869565217391304,
    "honestMarks": 1,
    "sample": 92,
    "sampleAd": 0,
@@ -3555,25 +3616,29 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강동구 고덕2동점(아이·맘 강동)": {
-   "real": 449,
+   "real": 452,
    "ad": 0,
-   "recent": 21,
+   "recent": 24,
+   "blogs": 97,
+   "topBlog": 0.010309278350515464,
    "honestMarks": 1,
    "sample": 97,
    "sampleAd": 0,
    "pick": {
-    "title": "가성비 최고 실내 놀이터! 서울형 키즈카페 강동구 고덕2동점 방문 후기 및 예약 가격",
-    "url": "https://blog.naver.com/carpedium0125/224268495429",
-    "blog": "삥꾸대지의 샤방팔방",
-    "date": "2026-04-28"
+    "title": "아기랑 강동 가볼만한 곳 :: 서울형 키즈카페 고덕2동점 (주차꿀팁)",
+    "url": "https://blog.naver.com/mon106/224437768957",
+    "blog": "알갱이의 차곡차곡",
+    "date": "2026-10-11"
    }
   },
   "서울형 키즈카페 강동구 성내2동점(아이·맘 강동)": {
-   "real": 121,
+   "real": 123,
    "ad": 0,
-   "recent": 21,
+   "recent": 23,
+   "blogs": 90,
+   "topBlog": 0.02197802197802198,
    "honestMarks": 1,
-   "sample": 89,
+   "sample": 91,
    "sampleAd": 0,
    "pick": {
     "title": "강동구 서울형 키즈카페 * 성내 2동점 * 예약/주차/이용 후기",
@@ -3583,9 +3648,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강동구 상일2동 2호점(아이·맘 강동)": {
-   "real": 326,
+   "real": 328,
    "ad": 0,
-   "recent": 25,
+   "recent": 26,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 0,
    "sample": 95,
    "sampleAd": 0,
@@ -3597,9 +3664,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강동구 암사1동점(아이·맘 강동)": {
-   "real": 466,
+   "real": 467,
    "ad": 0,
-   "recent": 14,
+   "recent": 13,
+   "blogs": 97,
+   "topBlog": 0.010309278350515464,
    "honestMarks": 0,
    "sample": 97,
    "sampleAd": 0,
@@ -3611,9 +3680,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강동구 상일2동점(아이·맘 강동)": {
-   "real": 326,
+   "real": 328,
    "ad": 0,
-   "recent": 25,
+   "recent": 26,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 0,
    "sample": 95,
    "sampleAd": 0,
@@ -3625,9 +3696,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강동구 성내1동점(아이·맘 강동)": {
-   "real": 316,
+   "real": 318,
    "ad": 0,
-   "recent": 34,
+   "recent": 37,
+   "blogs": 94,
+   "topBlog": 0.010638297872340425,
    "honestMarks": 1,
    "sample": 94,
    "sampleAd": 0,
@@ -3639,9 +3712,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강북구 번3동점(강북구 'PLAY ON')": {
-   "real": 163,
+   "real": 162,
    "ad": 0,
-   "recent": 11,
+   "recent": 9,
+   "blogs": 90,
+   "topBlog": 0.011111111111111112,
    "honestMarks": 1,
    "sample": 90,
    "sampleAd": 0,
@@ -3653,11 +3728,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강북구 송천동점": {
-   "real": 55,
+   "real": 54,
    "ad": 1,
-   "recent": 8,
+   "recent": 7,
+   "blogs": 37,
+   "topBlog": 0.02702702702702703,
    "honestMarks": 0,
-   "sample": 38,
+   "sample": 37,
    "sampleAd": 1,
    "pick": {
     "title": "[강북구 서울형 키즈카페 송천동점] 예약, 주차, 프로그램 꿀팁 정리",
@@ -3667,9 +3744,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강서구 발산1동점": {
-   "real": 193,
+   "real": 195,
    "ad": 2,
-   "recent": 22,
+   "recent": 23,
+   "blogs": 87,
+   "topBlog": 0.011494252873563218,
    "honestMarks": 1,
    "sample": 87,
    "sampleAd": 1,
@@ -3684,8 +3763,10 @@ window.STATS = {
    "real": 208,
    "ad": 2,
    "recent": 29,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 2,
-   "sample": 96,
+   "sample": 95,
    "sampleAd": 1,
    "pick": {
     "title": "이용하기! 강서구 우장산역 실내놀이터 추천 \"서울형키즈카페 강서구 화곡3동점\" 예약방법 이용요금 주차",
@@ -3695,11 +3776,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 강서구 화곡4동점": {
-   "real": 57,
+   "real": 56,
    "ad": 1,
-   "recent": 6,
+   "recent": 5,
+   "blogs": 49,
+   "topBlog": 0.02040816326530612,
    "honestMarks": 0,
-   "sample": 50,
+   "sample": 49,
    "sampleAd": 1,
    "pick": {
     "title": "단돈 3천원의 행복! 3세~6세 취향저격 '서울형키즈카페 강서구화곡4동점' 예약·주차·할인 꿀팁 총정리",
@@ -3709,9 +3792,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 관악구 난곡동점": {
-   "real": 208,
+   "real": 210,
    "ad": 2,
-   "recent": 19,
+   "recent": 20,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 2,
    "sample": 93,
    "sampleAd": 1,
@@ -3725,7 +3810,9 @@ window.STATS = {
   "서울형 키즈카페 관악구 난향동점": {
    "real": 115,
    "ad": 0,
-   "recent": 30,
+   "recent": 26,
+   "blogs": 91,
+   "topBlog": 0.01098901098901099,
    "honestMarks": 1,
    "sample": 91,
    "sampleAd": 0,
@@ -3737,11 +3824,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 관악구 보라매동점": {
-   "real": 99,
+   "real": 100,
    "ad": 0,
-   "recent": 18,
+   "recent": 19,
+   "blogs": 85,
+   "topBlog": 0.011764705882352941,
    "honestMarks": 0,
-   "sample": 84,
+   "sample": 85,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 관악구 보라매동점 8개월 아기랑 방문 후기 (예약 방법, 팁, 주차 정보)",
@@ -3751,11 +3840,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 관악구 행운동점": {
-   "real": 36,
+   "real": 37,
    "ad": 0,
    "recent": 6,
+   "blogs": 32,
+   "topBlog": 0.03125,
    "honestMarks": 1,
-   "sample": 31,
+   "sample": 32,
    "sampleAd": 0,
    "pick": {
     "title": "관악구행운동 서울형키즈카페 38개월 내돈내산 후기(3,000원의 행복)",
@@ -3767,8 +3858,10 @@ window.STATS = {
   "서울형 키즈카페 관악구 은천동점": {
    "real": 221,
    "ad": 0,
-   "recent": 45,
-   "honestMarks": 4,
+   "recent": 43,
+   "blogs": 100,
+   "topBlog": 0.01,
+   "honestMarks": 3,
    "sample": 100,
    "sampleAd": 0,
    "pick": {
@@ -3779,11 +3872,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 관악구 신사동점": {
-   "real": 60,
+   "real": 63,
    "ad": 0,
-   "recent": 11,
+   "recent": 13,
+   "blogs": 44,
+   "topBlog": 0.022727272727272728,
    "honestMarks": 0,
-   "sample": 42,
+   "sample": 44,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 관악구 신사동점 후기 주차 예약 아기랑",
@@ -3796,6 +3891,8 @@ window.STATS = {
    "real": 389,
    "ad": 0,
    "recent": 28,
+   "blogs": 96,
+   "topBlog": 0.010416666666666666,
    "honestMarks": 1,
    "sample": 96,
    "sampleAd": 0,
@@ -3807,9 +3904,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 자양4동점(꾸미팡팡 놀이터)": {
-   "real": 241,
+   "real": 244,
    "ad": 0,
-   "recent": 27,
+   "recent": 29,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 1,
    "sample": 93,
    "sampleAd": 0,
@@ -3824,6 +3923,8 @@ window.STATS = {
    "real": 134,
    "ad": 1,
    "recent": 18,
+   "blogs": 92,
+   "topBlog": 0.010869565217391304,
    "honestMarks": 2,
    "sample": 92,
    "sampleAd": 1,
@@ -3835,11 +3936,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 구로구 구로4동점": {
-   "real": 116,
+   "real": 118,
    "ad": 0,
-   "recent": 22,
+   "recent": 23,
+   "blogs": 92,
+   "topBlog": 0.010869565217391304,
    "honestMarks": 2,
-   "sample": 90,
+   "sample": 92,
    "sampleAd": 0,
    "pick": {
     "title": "구로 아기랑 갈만한곳: 서울형 키즈카페 구로4동점 솔직 후기 (주차, 필수 준비물 팁)",
@@ -3849,11 +3952,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 구로구 신도림동점": {
-   "real": 121,
+   "real": 124,
    "ad": 0,
-   "recent": 25,
+   "recent": 26,
+   "blogs": 87,
+   "topBlog": 0.011494252873563218,
    "honestMarks": 3,
-   "sample": 86,
+   "sample": 87,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 신도림동점 주말 당일예약! 다자녀 중복 할인 2,400원의 행복 (주차/시간표 꿀팁)",
@@ -3866,6 +3971,8 @@ window.STATS = {
    "real": 34,
    "ad": 0,
    "recent": 5,
+   "blogs": 19,
+   "topBlog": 0.05263157894736842,
    "honestMarks": 0,
    "sample": 19,
    "sampleAd": 0,
@@ -3880,6 +3987,8 @@ window.STATS = {
    "real": 0,
    "ad": 0,
    "recent": 0,
+   "blogs": 0,
+   "topBlog": 0,
    "honestMarks": 0,
    "sample": 0,
    "sampleAd": 0,
@@ -3889,6 +3998,8 @@ window.STATS = {
    "real": 28,
    "ad": 0,
    "recent": 13,
+   "blogs": 22,
+   "topBlog": 0.045454545454545456,
    "honestMarks": 0,
    "sample": 22,
    "sampleAd": 0,
@@ -3900,51 +4011,59 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 노원구 중평공원점": {
-   "real": 82,
+   "real": 83,
    "ad": 0,
-   "recent": 10,
+   "recent": 11,
+   "blogs": 1,
+   "topBlog": 1,
    "honestMarks": 0,
    "sample": 1,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 중평공원점 10월 조물조물 만들기 프로그램(1~2주)",
-    "url": "https://blog.naver.com/nwccic1/224432760722",
+    "title": "두근두근! AI 코딩 로봇 블록 만들기 체험",
+    "url": "https://blog.naver.com/nwccic1/224435556017",
     "blog": "노원구육아종합지원센터",
-    "date": "2026-10-06"
+    "date": "2026-10-08"
    }
   },
   "서울형 키즈카페 노원구 상계2동점": {
    "real": 34,
    "ad": 0,
    "recent": 10,
+   "blogs": 29,
+   "topBlog": 0.034482758620689655,
    "honestMarks": 0,
    "sample": 29,
    "sampleAd": 0,
    "pick": {
-    "title": "1세 아기랑 가기 좋은 서울형 키즈카페 노원구 상계2동점 후기",
-    "url": "https://blog.naver.com/tamong_0604/224338569613",
-    "blog": "10년차 간호사 엄마의 육아노트",
-    "date": "2026-07-08"
+    "title": "서울형 키즈카페 노원 상계 2동점 예약 방법 후기",
+    "url": "https://blog.naver.com/177166/224433042350",
+    "blog": "잘먹고 잘살고 싶은 블로거",
+    "date": "2026-10-06"
    }
   },
   "서울형 키즈카페 도봉구 도봉2동1호점(봉봉트레킹)": {
    "real": 311,
    "ad": 0,
    "recent": 24,
+   "blogs": 92,
+   "topBlog": 0.021505376344086023,
    "honestMarks": 0,
    "sample": 93,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 도봉2동 2호점 올라 I 31개월 아기랑 방문후기",
-    "url": "https://blog.naver.com/lj2115/224343756274",
-    "blog": "맛있는 블로그",
-    "date": "2026-07-11"
+    "title": "도봉2동 1호점 서울형 키즈카페 재개관 방문후기",
+    "url": "https://blog.naver.com/hyunsu900/224440592804",
+    "blog": "켠수의 수수하게 채우는 날들",
+    "date": "2026-10-13"
    }
   },
   "서울형 키즈카페 도봉구 둘리쌍문근린공원점(호이호이 비밀의 숲)": {
    "real": 4,
    "ad": 0,
    "recent": 3,
+   "blogs": 3,
+   "topBlog": 0.3333333333333333,
    "honestMarks": 0,
    "sample": 3,
    "sampleAd": 0,
@@ -3956,11 +4075,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 도봉구 쌍문2동점(쌍문별 탐험대)": {
-   "real": 121,
+   "real": 124,
    "ad": 0,
-   "recent": 18,
+   "recent": 20,
+   "blogs": 94,
+   "topBlog": 0.010638297872340425,
    "honestMarks": 1,
-   "sample": 93,
+   "sample": 94,
    "sampleAd": 0,
    "pick": {
     "title": "[도봉구 육아정보] 가성비 최고! 서울형키즈카페 도봉구 쌍문2동점(오르락내리락 우주놀이터) 상세 이용...",
@@ -3970,9 +4091,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 도봉구 창3동점(우당탕탕 숲속대탐험)": {
-   "real": 233,
+   "real": 235,
    "ad": 0,
    "recent": 24,
+   "blogs": 93,
+   "topBlog": 0.02127659574468085,
    "honestMarks": 0,
    "sample": 94,
    "sampleAd": 0,
@@ -3987,20 +4110,24 @@ window.STATS = {
    "real": 311,
    "ad": 0,
    "recent": 24,
+   "blogs": 92,
+   "topBlog": 0.021505376344086023,
    "honestMarks": 0,
    "sample": 93,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 도봉2동 2호점 올라 I 31개월 아기랑 방문후기",
-    "url": "https://blog.naver.com/lj2115/224343756274",
-    "blog": "맛있는 블로그",
-    "date": "2026-07-11"
+    "title": "도봉2동 1호점 서울형 키즈카페 재개관 방문후기",
+    "url": "https://blog.naver.com/hyunsu900/224440592804",
+    "blog": "켠수의 수수하게 채우는 날들",
+    "date": "2026-10-13"
    }
   },
   "서울형 키즈카페 도봉구 방학1동2호점(오밀조밀숲, 놀다람)": {
-   "real": 259,
+   "real": 260,
    "ad": 0,
-   "recent": 26,
+   "recent": 27,
+   "blogs": 92,
+   "topBlog": 0.021505376344086023,
    "honestMarks": 0,
    "sample": 93,
    "sampleAd": 0,
@@ -4012,9 +4139,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 도봉구 방학1동점1호점(오르봉내리봉)": {
-   "real": 262,
+   "real": 263,
    "ad": 0,
-   "recent": 27,
+   "recent": 28,
+   "blogs": 93,
+   "topBlog": 0.02127659574468085,
    "honestMarks": 0,
    "sample": 94,
    "sampleAd": 0,
@@ -4026,11 +4155,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 도봉구 창1동점(숲속유람선 뚜뚜)": {
-   "real": 103,
+   "real": 104,
    "ad": 0,
-   "recent": 11,
+   "recent": 12,
+   "blogs": 85,
+   "topBlog": 0.023255813953488372,
    "honestMarks": 0,
-   "sample": 85,
+   "sample": 86,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 | 도봉구 창1동점 숲속유람선, 야외 놀이터부터 실내놀이까지 알찬 후기",
@@ -4042,9 +4173,11 @@ window.STATS = {
   "서울형 키즈카페 동대문구 회기동점": {
    "real": 115,
    "ad": 1,
-   "recent": 18,
+   "recent": 16,
+   "blogs": 78,
+   "topBlog": 0.01282051282051282,
    "honestMarks": 0,
-   "sample": 79,
+   "sample": 78,
    "sampleAd": 1,
    "pick": {
     "title": "월요일O, 무료주차O 동대문구 서울형키즈카페 회기동점,예약방법",
@@ -4054,11 +4187,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동대문구 답십리1동점": {
-   "real": 81,
+   "real": 82,
    "ad": 0,
-   "recent": 15,
+   "recent": 16,
+   "blogs": 59,
+   "topBlog": 0.01694915254237288,
    "honestMarks": 0,
-   "sample": 58,
+   "sample": 59,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페:>동대문구 답십리1동점 예약방법, 주차, 놀이정보안내",
@@ -4068,25 +4203,29 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동대문구 새샘공원점": {
-   "real": 82,
+   "real": 83,
    "ad": 0,
-   "recent": 10,
+   "recent": 11,
+   "blogs": 1,
+   "topBlog": 1,
    "honestMarks": 0,
    "sample": 1,
    "sampleAd": 0,
    "pick": {
-    "title": "[공지] 서울형키즈카페새샘공원점 10월_동글동글 맛의 정원(가을 맛 여행, 타르트 속으로 가을 열매...",
-    "url": "https://blog.naver.com/kids_saesaem/224429489402",
+    "title": "서울형키즈카페 새샘공원점 9월 정기 소독",
+    "url": "https://blog.naver.com/kids_saesaem/224438154051",
     "blog": "서울형키즈카페 동대문구 새샘공원점",
-    "date": "2026-10-02"
+    "date": "2026-10-11"
    }
   },
   "서울형 키즈카페 동작구 노량진2동점(동작키즈카페)": {
    "real": 29,
    "ad": 0,
-   "recent": 11,
+   "recent": 12,
+   "blogs": 23,
+   "topBlog": 0.043478260869565216,
    "honestMarks": 1,
-   "sample": 22,
+   "sample": 23,
    "sampleAd": 0,
    "pick": {
     "title": "동작구 서울형키즈카페 노량진2동점 주차되는 후기 평일 아이랑",
@@ -4096,9 +4235,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 사당1동점(동작키즈카페)": {
-   "real": 133,
+   "real": 134,
    "ad": 0,
    "recent": 37,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 1,
    "sample": 95,
    "sampleAd": 0,
@@ -4110,11 +4251,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 사당2동점(동작키즈카페)": {
-   "real": 64,
+   "real": 65,
    "ad": 0,
    "recent": 19,
+   "blogs": 52,
+   "topBlog": 0.019230769230769232,
    "honestMarks": 1,
-   "sample": 51,
+   "sample": 52,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 동작구 사당2동점 이용후기 (예약방법,주차)",
@@ -4124,11 +4267,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 사당3동점(동작키즈카페)": {
-   "real": 93,
+   "real": 92,
    "ad": 0,
    "recent": 8,
+   "blogs": 67,
+   "topBlog": 0.014925373134328358,
    "honestMarks": 0,
-   "sample": 70,
+   "sample": 67,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 동작구 사당3동점 후기(주차, 월요일 운영)",
@@ -4138,11 +4283,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 상도1동 1호점(동작키즈카페)": {
-   "real": 148,
+   "real": 150,
    "ad": 0,
-   "recent": 19,
+   "recent": 20,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 0,
-   "sample": 92,
+   "sample": 93,
    "sampleAd": 0,
    "pick": {
     "title": "동작구 아이와 갈만한 곳 김영삼도서관 서울형 키즈카페 동작구상도1동2호점 후기",
@@ -4152,23 +4299,27 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 상도2동점(동작키즈카페)": {
-   "real": 239,
+   "real": 240,
    "ad": 0,
    "recent": 36,
+   "blogs": 98,
+   "topBlog": 0.01020408163265306,
    "honestMarks": 1,
    "sample": 98,
    "sampleAd": 0,
    "pick": {
-    "title": "[동작/상도동] 아기랑 갈만한곳 '서울형 키즈카페 상도2동점' 솔직 후기 (주차, 이용 꿀팁)",
-    "url": "https://blog.naver.com/sosang_e/224326022491",
-    "blog": "소상이",
-    "date": "2026-06-24"
+    "title": "서울형키즈카페 상도2동점 예약 주차 가격 아기랑 다녀온 후기",
+    "url": "https://blog.naver.com/wonew11/224440423867",
+    "blog": "귀차니즘 션맘의 육아·일상 기록",
+    "date": "2026-10-13"
    }
   },
   "서울형 키즈카페 동작구 상도3동점(동작키즈카페)": {
-   "real": 328,
+   "real": 329,
    "ad": 0,
    "recent": 19,
+   "blogs": 88,
+   "topBlog": 0.011363636363636364,
    "honestMarks": 0,
    "sample": 88,
    "sampleAd": 0,
@@ -4183,6 +4334,8 @@ window.STATS = {
    "real": 114,
    "ad": 0,
    "recent": 9,
+   "blogs": 76,
+   "topBlog": 0.013157894736842105,
    "honestMarks": 1,
    "sample": 76,
    "sampleAd": 0,
@@ -4194,11 +4347,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 신대방1동점(동작키즈카페)": {
-   "real": 70,
+   "real": 76,
    "ad": 0,
    "recent": 6,
+   "blogs": 15,
+   "topBlog": 0.06666666666666667,
    "honestMarks": 0,
-   "sample": 14,
+   "sample": 15,
    "sampleAd": 0,
    "pick": {
     "title": "[서울형 키즈카페] 신대방1동점 원어민 영어 프로그램 예약 성공 후기! (자치구별 오픈시간 & 예약 꿀팁)",
@@ -4208,11 +4363,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 신대방2동점(동작키즈카페)": {
-   "real": 94,
+   "real": 95,
    "ad": 1,
-   "recent": 26,
+   "recent": 25,
+   "blogs": 74,
+   "topBlog": 0.013513513513513514,
    "honestMarks": 1,
-   "sample": 73,
+   "sample": 74,
    "sampleAd": 1,
    "pick": {
     "title": "서울형키즈카페 동작구 신대방2동점 후기ㅣ2살·4살 놀이시설·예약·주차·대방어린이도서관 코스",
@@ -4222,9 +4379,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 흑석동점(동작키즈카페)": {
-   "real": 154,
+   "real": 153,
    "ad": 0,
    "recent": 9,
+   "blogs": 78,
+   "topBlog": 0.01282051282051282,
    "honestMarks": 0,
    "sample": 78,
    "sampleAd": 0,
@@ -4236,9 +4395,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 대방동점(동작키즈카페)": {
-   "real": 980,
+   "real": 978,
    "ad": 0,
    "recent": 41,
+   "blogs": 79,
+   "topBlog": 0.012658227848101266,
    "honestMarks": 1,
    "sample": 79,
    "sampleAd": 0,
@@ -4250,11 +4411,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 동작구 상도1동2호점(동작키즈카페)": {
-   "real": 148,
+   "real": 150,
    "ad": 0,
-   "recent": 19,
+   "recent": 20,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 0,
-   "sample": 92,
+   "sample": 93,
    "sampleAd": 0,
    "pick": {
     "title": "동작구 아이와 갈만한 곳 김영삼도서관 서울형 키즈카페 동작구상도1동2호점 후기",
@@ -4267,6 +4430,8 @@ window.STATS = {
    "real": 114,
    "ad": 0,
    "recent": 9,
+   "blogs": 76,
+   "topBlog": 0.013157894736842105,
    "honestMarks": 1,
    "sample": 76,
    "sampleAd": 0,
@@ -4278,11 +4443,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 마포구 상암점": {
-   "real": 371,
+   "real": 356,
    "ad": 0,
-   "recent": 34,
+   "recent": 37,
+   "blogs": 56,
+   "topBlog": 0.017857142857142856,
    "honestMarks": 0,
-   "sample": 59,
+   "sample": 56,
    "sampleAd": 0,
    "pick": {
     "title": "가성비 최고 실내 놀이터! 서울형 키즈카페 마포 상암점 예약 방법과 주차 정보 13개월 아기 후기",
@@ -4292,11 +4459,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 마포구 서강동１호점": {
-   "real": 49,
+   "real": 50,
    "ad": 0,
-   "recent": 19,
+   "recent": 20,
+   "blogs": 38,
+   "topBlog": 0.02631578947368421,
    "honestMarks": 1,
-   "sample": 37,
+   "sample": 38,
    "sampleAd": 0,
    "pick": {
     "title": "아이랑갈만한곳 서울형키즈카페 마포구 서강동1호점 내돈내산후기",
@@ -4306,23 +4475,27 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 마포구 쌍룡산근린공원점(염리동)": {
-   "real": 70,
+   "real": 59,
    "ad": 0,
    "recent": 8,
+   "blogs": 5,
+   "topBlog": 0.2,
    "honestMarks": 0,
-   "sample": 6,
+   "sample": 5,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 쌍룡산근린공원점 후기 | 주차·시설·연령·예약링크 총정리 (연나이 4세 - 9세)",
-    "url": "https://blog.naver.com/nanu4089/224371379287",
-    "blog": "희진.zip | 집·육아·서울라이프",
-    "date": "2026-08-07"
+    "title": "마포 실내놀이터 서울형키즈카페 마포구상암점 주차 아이랑 주말 다둥이 무료입장 후기",
+    "url": "https://blog.naver.com/apple_100/224392782424",
+    "blog": "나도맘의 육아 그림책",
+    "date": "2026-08-27"
    }
   },
   "서울형 키즈카페 서대문구 북가좌1동점(다정다감 키즈카페)": {
-   "real": 139,
+   "real": 138,
    "ad": 0,
-   "recent": 12,
+   "recent": 11,
+   "blogs": 90,
+   "topBlog": 0.02197802197802198,
    "honestMarks": 2,
    "sample": 91,
    "sampleAd": 0,
@@ -4336,7 +4509,9 @@ window.STATS = {
   "서울형 키즈카페 서대문구 남가좌1동점": {
    "real": 76,
    "ad": 0,
-   "recent": 12,
+   "recent": 9,
+   "blogs": 55,
+   "topBlog": 0.03571428571428571,
    "honestMarks": 0,
    "sample": 56,
    "sampleAd": 0,
@@ -4348,11 +4523,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 서대문구 홍제3동점(키즈땅놀이터)": {
-   "real": 91,
+   "real": 89,
    "ad": 0,
-   "recent": 9,
+   "recent": 8,
+   "blogs": 54,
+   "topBlog": 0.03636363636363636,
    "honestMarks": 0,
-   "sample": 57,
+   "sample": 55,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 서대문구 홍제3동점(키즈땅놀이터) - 예약, 주차, 다둥이",
@@ -4364,7 +4541,9 @@ window.STATS = {
   "서울형 키즈카페 서대문구 천연동점": {
    "real": 110,
    "ad": 4,
-   "recent": 9,
+   "recent": 8,
+   "blogs": 64,
+   "topBlog": 0.03076923076923077,
    "honestMarks": 0,
    "sample": 65,
    "sampleAd": 2,
@@ -4376,11 +4555,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 서대문구 홍제1동점": {
-   "real": 71,
+   "real": 73,
    "ad": 0,
    "recent": 15,
+   "blogs": 47,
+   "topBlog": 0.02127659574468085,
    "honestMarks": 1,
-   "sample": 45,
+   "sample": 47,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 추천｜홍제1동점 후기·예약·주차·이용요금·돌 아기",
@@ -4393,15 +4574,19 @@ window.STATS = {
    "real": 0,
    "ad": 0,
    "recent": 0,
+   "blogs": 0,
+   "topBlog": 0,
    "honestMarks": 0,
    "sample": 0,
    "sampleAd": 0,
    "pick": null
   },
   "서울형 키즈카페 서초구 양재1동점(서리풀노리학교 양재1동점)": {
-   "real": 291,
+   "real": 292,
    "ad": 0,
-   "recent": 42,
+   "recent": 40,
+   "blogs": 98,
+   "topBlog": 0.01020408163265306,
    "honestMarks": 1,
    "sample": 98,
    "sampleAd": 0,
@@ -4415,23 +4600,27 @@ window.STATS = {
   "서울형 키즈카페 서초구 방배2동점(서리풀노리학교 방배2동점)": {
    "real": 156,
    "ad": 0,
-   "recent": 32,
+   "recent": 33,
+   "blogs": 94,
+   "topBlog": 0.010638297872340425,
    "honestMarks": 1,
    "sample": 94,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 방배2동점 후기 (예약방법, 가격, 추천연령)",
-    "url": "https://blog.naver.com/yeriel-95/224404027651",
-    "blog": "혼자 여행하다 이제는 아이와 여행중",
-    "date": "2026-09-07"
+    "title": "서울형키즈카페 방배2동2호점(디에이치방배) 예약부터 요금·시간·주차·수유실까지 솔직 후기",
+    "url": "https://blog.naver.com/tgvision/224439179346",
+    "blog": "미래카페",
+    "date": "2026-10-12"
    }
   },
   "서울형 키즈카페 서초구 서초1동점(서리풀노리학교 서초1동점)": {
-   "real": 123,
+   "real": 124,
    "ad": 0,
-   "recent": 21,
+   "recent": 22,
+   "blogs": 96,
+   "topBlog": 0.010416666666666666,
    "honestMarks": 2,
-   "sample": 95,
+   "sample": 96,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 서초1동점 후기(+주차, 미술특화)",
@@ -4441,9 +4630,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 서초구 양재1동2호점(서리풀노리학교 양재1동2호점)": {
-   "real": 291,
+   "real": 292,
    "ad": 0,
-   "recent": 42,
+   "recent": 40,
+   "blogs": 98,
+   "topBlog": 0.01020408163265306,
    "honestMarks": 1,
    "sample": 98,
    "sampleAd": 0,
@@ -4457,23 +4648,27 @@ window.STATS = {
   "서울형 키즈카페 서초구 방배2동2호점(서리풀노리학교 방배2동2호점)": {
    "real": 156,
    "ad": 0,
-   "recent": 32,
+   "recent": 33,
+   "blogs": 94,
+   "topBlog": 0.010638297872340425,
    "honestMarks": 1,
    "sample": 94,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 방배2동점 후기 (예약방법, 가격, 추천연령)",
-    "url": "https://blog.naver.com/yeriel-95/224404027651",
-    "blog": "혼자 여행하다 이제는 아이와 여행중",
-    "date": "2026-09-07"
+    "title": "서울형키즈카페 방배2동2호점(디에이치방배) 예약부터 요금·시간·주차·수유실까지 솔직 후기",
+    "url": "https://blog.naver.com/tgvision/224439179346",
+    "blog": "미래카페",
+    "date": "2026-10-12"
    }
   },
   "서울형 키즈카페 성동구 금호2·3가동점(금호 키즈카페)": {
-   "real": 83,
+   "real": 75,
    "ad": 0,
-   "recent": 9,
+   "recent": 8,
+   "blogs": 10,
+   "topBlog": 0.1,
    "honestMarks": 0,
-   "sample": 11,
+   "sample": 10,
    "sampleAd": 0,
    "pick": {
     "title": "10개월 아기랑 가기 좋은 곳 | 서울형 키즈카페 성동구 금호2·3가동점 후기",
@@ -4483,11 +4678,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 성동구 성수1가1동점(성수 키즈카페)": {
-   "real": 95,
+   "real": 92,
    "ad": 0,
-   "recent": 16,
-   "honestMarks": 2,
-   "sample": 55,
+   "recent": 15,
+   "blogs": 54,
+   "topBlog": 0.018518518518518517,
+   "honestMarks": 1,
+   "sample": 54,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 성수1가1동점(성수키즈카페) 후기ㅣ19개월 아기 방문ㆍ주차ㆍ꿀팁",
@@ -4497,11 +4694,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 성북구 벌집어린이공원점": {
-   "real": 316,
+   "real": 80,
    "ad": 0,
-   "recent": 37,
+   "recent": 10,
+   "blogs": 2,
+   "topBlog": 0.5,
    "honestMarks": 0,
-   "sample": 8,
+   "sample": 2,
    "sampleAd": 0,
    "pick": {
     "title": "[서울형 키즈카페] 성북구 벌집어린이공원점 10월 프로그램 안내",
@@ -4511,11 +4710,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 성북구 보문동점": {
-   "real": 123,
+   "real": 122,
    "ad": 0,
-   "recent": 32,
-   "honestMarks": 0,
-   "sample": 78,
+   "recent": 25,
+   "blogs": 77,
+   "topBlog": 0.012987012987012988,
+   "honestMarks": 1,
+   "sample": 77,
    "sampleAd": 0,
    "pick": {
     "title": "성북구 서울형 키즈카페 보문동점 | 8개월 아기 0세 후기 (예약/주차/소독 팁)",
@@ -4527,7 +4728,9 @@ window.STATS = {
   "서울형 키즈카페 성북구 정릉3동점": {
    "real": 154,
    "ad": 3,
-   "recent": 12,
+   "recent": 10,
+   "blogs": 96,
+   "topBlog": 0.010416666666666666,
    "honestMarks": 1,
    "sample": 96,
    "sampleAd": 2,
@@ -4539,11 +4742,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 성북구 정릉2동점": {
-   "real": 235,
+   "real": 234,
    "ad": 0,
-   "recent": 22,
+   "recent": 23,
+   "blogs": 94,
+   "topBlog": 0.010638297872340425,
    "honestMarks": 0,
-   "sample": 95,
+   "sample": 94,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 정릉2동점 예약 주차 모래놀이 물감놀이 꿀팁",
@@ -4553,11 +4758,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 성북구 종암동점": {
-   "real": 260,
+   "real": 258,
    "ad": 0,
-   "recent": 22,
+   "recent": 21,
+   "blogs": 91,
+   "topBlog": 0.01098901098901099,
    "honestMarks": 1,
-   "sample": 92,
+   "sample": 91,
    "sampleAd": 0,
    "pick": {
     "title": "성북구 서울형키즈카페 종암동점! 0세 아기랑가볼만한곳! 예약방법 및 요금 안내 포함",
@@ -4567,9 +4774,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 성북구 성북동점": {
-   "real": 184,
+   "real": 183,
    "ad": 0,
-   "recent": 13,
+   "recent": 10,
+   "blogs": 87,
+   "topBlog": 0.011494252873563218,
    "honestMarks": 1,
    "sample": 87,
    "sampleAd": 0,
@@ -4581,11 +4790,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 성북구 월곡1동점": {
-   "real": 77,
+   "real": 75,
    "ad": 0,
-   "recent": 28,
+   "recent": 25,
+   "blogs": 49,
+   "topBlog": 0.02040816326530612,
    "honestMarks": 1,
-   "sample": 52,
+   "sample": 49,
    "sampleAd": 0,
    "pick": {
     "title": "모래놀이 가능한 서울형키즈카페 성북구 월곡1동점 주차 예약방법 및 이용후기_성북구 아기랑 가볼만한 곳",
@@ -4595,11 +4806,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 송파구 잠실근린공원점(하하호호놀이터 송파구1호점)": {
-   "real": 1084,
+   "real": 1204,
    "ad": 0,
-   "recent": 76,
+   "recent": 80,
+   "blogs": 30,
+   "topBlog": 0.06451612903225806,
    "honestMarks": 0,
-   "sample": 28,
+   "sample": 31,
    "sampleAd": 0,
    "pick": {
     "title": "어제 오픈! 야외 서울형 키즈카페 여기저기 잠실근린공원점 주차, 이용꿀팁 방출",
@@ -4609,37 +4822,43 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 송파구 여성문화회관점(하하호호놀이터 송파구2호점)": {
-   "real": 401,
+   "real": 402,
    "ad": 0,
    "recent": 26,
+   "blogs": 13,
+   "topBlog": 0.07692307692307693,
    "honestMarks": 0,
    "sample": 13,
    "sampleAd": 0,
    "pick": {
-    "title": "< 하하호호 놀이터 여성문화회관점 > 돌아기와 가기 좋은 송파구 키즈카페 아기와 가기 좋은곳으로 추천!",
-    "url": "https://blog.naver.com/nani-mama/224393332752",
-    "blog": "국제부부 나니마마의 육아 일상",
-    "date": "2026-08-28"
+    "title": "송파어린이문화회관 상상마루 2층 이용후기｜예약 방법부터 2층·3층 차이",
+    "url": "https://blog.naver.com/tjwjsdkdlwm/224423389594",
+    "blog": "자랑맘스에딧 | 육아·여행·생활 꿀팁",
+    "date": "2026-09-29"
    }
   },
   "서울형 키즈카페 송파구 위례동점(하하호호놀이터 송파구3호점)": {
-   "real": 70,
+   "real": 72,
    "ad": 0,
-   "recent": 15,
+   "recent": 17,
+   "blogs": 65,
+   "topBlog": 0.015384615384615385,
    "honestMarks": 1,
-   "sample": 63,
+   "sample": 65,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 송파구 위례동점 이용후기 및 주차",
-    "url": "https://blog.naver.com/jiyeonee33/224309478942",
-    "blog": "소근소근 이야기",
-    "date": "2026-06-08"
+    "title": "서울형 키즈카페 하하호호 위례동 포레나송파점 주차·예약 + 실제 방문후기",
+    "url": "https://blog.naver.com/danae_jj/224427206309",
+    "blog": "맞벌이 쌍둥이 육아; 유치원·장난감·여행 현실 기록",
+    "date": "2026-09-30"
    }
   },
   "서울형 키즈카페 송파구 방이2동점(하하호호놀이터 송파구4호점)": {
    "real": 58,
    "ad": 0,
-   "recent": 11,
+   "recent": 9,
+   "blogs": 46,
+   "topBlog": 0.021739130434782608,
    "honestMarks": 0,
    "sample": 46,
    "sampleAd": 0,
@@ -4651,9 +4870,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 송파구 장지동점(하하호호놀이터 송파구5호점)": {
-   "real": 134,
-   "ad": 1,
-   "recent": 30,
+   "real": 140,
+   "ad": 2,
+   "recent": 35,
+   "blogs": 92,
+   "topBlog": 0.010869565217391304,
    "honestMarks": 2,
    "sample": 92,
    "sampleAd": 1,
@@ -4665,25 +4886,29 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 송파구 어린이문화회관점(하하호호놀이터 송파구6호점)": {
-   "real": 94,
+   "real": 189,
    "ad": 0,
-   "recent": 7,
+   "recent": 12,
+   "blogs": 2,
+   "topBlog": 0.5,
    "honestMarks": 0,
-   "sample": 1,
+   "sample": 2,
    "sampleAd": 0,
    "pick": {
-    "title": "송파 하하호호놀이터 6호점 후기｜8개월 아기랑 가기 좋은 서울형 키즈카페/ 월요일 운영·주차",
-    "url": "https://blog.naver.com/thummer_/224425213148",
-    "blog": "엄마의 기록을 모아서",
-    "date": "2026-09-28"
+    "title": "송파 서울형키즈카페 오금 송파어린이문화회관점 예약 방법, 주차 다자녀 무료 다녀온 후기",
+    "url": "https://blog.naver.com/seven0314/224434055410",
+    "blog": "리미리미의 어제, 오늘",
+    "date": "2026-10-07"
    }
   },
   "서울형 키즈카페 양천구 목3동점": {
-   "real": 107,
+   "real": 108,
    "ad": 0,
    "recent": 32,
+   "blogs": 71,
+   "topBlog": 0.014084507042253521,
    "honestMarks": 1,
-   "sample": 70,
+   "sample": 71,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 목3동점 이용팁! 서울 생활권자 예약 서류 총정리(+주차)",
@@ -4693,11 +4918,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 양천구 신월7동점": {
-   "real": 54,
+   "real": 56,
    "ad": 0,
    "recent": 21,
+   "blogs": 37,
+   "topBlog": 0.02702702702702703,
    "honestMarks": 0,
-   "sample": 36,
+   "sample": 37,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 양천구 신월7동점 주차 및 방문후기",
@@ -4707,11 +4934,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 양천구 신월5동점": {
-   "real": 114,
+   "real": 117,
    "ad": 0,
-   "recent": 35,
+   "recent": 38,
+   "blogs": 79,
+   "topBlog": 0.012658227848101266,
    "honestMarks": 0,
-   "sample": 76,
+   "sample": 79,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 양천구 신월5동점 예약방법 주차정보 이용후기",
@@ -4721,9 +4950,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 양천구 신정7동 2호점": {
-   "real": 386,
+   "real": 388,
    "ad": 0,
-   "recent": 37,
+   "recent": 39,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 1,
    "sample": 93,
    "sampleAd": 0,
@@ -4735,11 +4966,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 양천구 신정4동점": {
-   "real": 86,
+   "real": 85,
    "ad": 2,
-   "recent": 11,
+   "recent": 9,
+   "blogs": 47,
+   "topBlog": 0.02127659574468085,
    "honestMarks": 0,
-   "sample": 48,
+   "sample": 47,
    "sampleAd": 1,
    "pick": {
     "title": "양천구 키즈카페 서울형 키즈카페 신정4동점 예약 할인 준비물 주차",
@@ -4752,6 +4985,8 @@ window.STATS = {
    "real": 123,
    "ad": 0,
    "recent": 14,
+   "blogs": 86,
+   "topBlog": 0.011627906976744186,
    "honestMarks": 2,
    "sample": 86,
    "sampleAd": 0,
@@ -4763,11 +4998,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 양천구 신월3동점": {
-   "real": 97,
+   "real": 96,
    "ad": 0,
-   "recent": 11,
+   "recent": 8,
+   "blogs": 60,
+   "topBlog": 0.016666666666666666,
    "honestMarks": 1,
-   "sample": 61,
+   "sample": 60,
    "sampleAd": 0,
    "pick": {
     "title": "[양천구 키즈카페] 서울형 키즈카페 신월3동점 예약 꿀팁 주차, 시설 완벽 정리!!",
@@ -4777,9 +5014,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 양천구 목4동점": {
-   "real": 183,
+   "real": 185,
    "ad": 0,
-   "recent": 28,
+   "recent": 30,
+   "blogs": 92,
+   "topBlog": 0.010869565217391304,
    "honestMarks": 3,
    "sample": 92,
    "sampleAd": 0,
@@ -4791,23 +5030,27 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 양천구 오목공원점": {
-   "real": 171,
+   "real": 173,
    "ad": 0,
-   "recent": 19,
-   "honestMarks": 0,
+   "recent": 23,
+   "blogs": 2,
+   "topBlog": 0.5,
+   "honestMarks": 1,
    "sample": 2,
    "sampleAd": 0,
    "pick": {
-    "title": "서울형 키즈카페 양천구 오목공원점",
-    "url": "https://blog.naver.com/oksun1/224432301133",
-    "blog": "주니네 시니어라이프",
-    "date": "2026-10-05"
+    "title": "더매직서커스 보고 늘품놀이터즐기고 한국잡월드 어린이체험관 알차게놀기",
+    "url": "https://blog.naver.com/gahyecastle/224436604114",
+    "blog": "내돈내산 솔직리뷰여왕의 책육아 일상기록",
+    "date": "2026-10-09"
    }
   },
   "서울형 키즈카페 양천구 신정7동점": {
-   "real": 386,
+   "real": 388,
    "ad": 0,
-   "recent": 37,
+   "recent": 39,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 1,
    "sample": 93,
    "sampleAd": 0,
@@ -4819,10 +5062,12 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 영등포구 대림2동점": {
-   "real": 209,
+   "real": 210,
    "ad": 0,
-   "recent": 26,
-   "honestMarks": 3,
+   "recent": 27,
+   "blogs": 93,
+   "topBlog": 0.02127659574468085,
+   "honestMarks": 2,
    "sample": 94,
    "sampleAd": 0,
    "pick": {
@@ -4833,9 +5078,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 영등포구 신길4동점": {
-   "real": 131,
+   "real": 132,
    "ad": 0,
-   "recent": 18,
+   "recent": 19,
+   "blogs": 94,
+   "topBlog": 0.021052631578947368,
    "honestMarks": 0,
    "sample": 95,
    "sampleAd": 0,
@@ -4847,9 +5094,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 여의동점(영등포구 영어키즈카페)": {
-   "real": 228,
+   "real": 235,
    "ad": 0,
-   "recent": 83,
+   "recent": 88,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 0,
    "sample": 95,
    "sampleAd": 0,
@@ -4861,11 +5110,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 용산구 후암동점(후암 초록숲 키즈카페)": {
-   "real": 76,
+   "real": 75,
    "ad": 0,
-   "recent": 9,
+   "recent": 5,
+   "blogs": 55,
+   "topBlog": 0.01818181818181818,
    "honestMarks": 0,
-   "sample": 56,
+   "sample": 55,
    "sampleAd": 0,
    "pick": {
     "title": "서울형키즈카페 용산구 후암동점 어린 영유아에게 추천할 키즈존 후기 주차",
@@ -4877,7 +5128,9 @@ window.STATS = {
   "서울형 키즈카페 용산구 청파동점": {
    "real": 36,
    "ad": 0,
-   "recent": 12,
+   "recent": 11,
+   "blogs": 25,
+   "topBlog": 0.04,
    "honestMarks": 1,
    "sample": 25,
    "sampleAd": 0,
@@ -4891,7 +5144,9 @@ window.STATS = {
   "서울형 키즈카페 은평구 역촌동점(은평아이맘놀이터)": {
    "real": 51,
    "ad": 0,
-   "recent": 24,
+   "recent": 20,
+   "blogs": 33,
+   "topBlog": 0.058823529411764705,
    "honestMarks": 0,
    "sample": 34,
    "sampleAd": 0,
@@ -4903,11 +5158,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 은평구 응암1동점(은평아이맘놀이터)": {
-   "real": 67,
+   "real": 65,
    "ad": 0,
-   "recent": 16,
+   "recent": 13,
+   "blogs": 49,
+   "topBlog": 0.04,
    "honestMarks": 1,
-   "sample": 51,
+   "sample": 50,
    "sampleAd": 0,
    "pick": {
     "title": "[은평아이맘놀이터 응암1동점] 깨끗하고 장난감 많은 서울형키즈카페 주말방문후기",
@@ -4917,11 +5174,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 은평구 수색동점(은평아이맘놀이터)": {
-   "real": 80,
+   "real": 81,
    "ad": 0,
-   "recent": 8,
-   "honestMarks": 0,
-   "sample": 53,
+   "recent": 7,
+   "blogs": 54,
+   "topBlog": 0.018518518518518517,
+   "honestMarks": 1,
+   "sample": 54,
    "sampleAd": 0,
    "pick": {
     "title": "[은평구 서울형키즈카페] 아기와 아이랑 시원하게 놀기좋은 넓고 깨끗한 은평아이맘놀이터 수색동점",
@@ -4934,6 +5193,8 @@ window.STATS = {
    "real": 59,
    "ad": 0,
    "recent": 7,
+   "blogs": 44,
+   "topBlog": 0.022727272727272728,
    "honestMarks": 0,
    "sample": 44,
    "sampleAd": 0,
@@ -4948,6 +5209,8 @@ window.STATS = {
    "real": 0,
    "ad": 0,
    "recent": 0,
+   "blogs": 0,
+   "topBlog": 0,
    "honestMarks": 0,
    "sample": 0,
    "sampleAd": 0,
@@ -4956,7 +5219,9 @@ window.STATS = {
   "서울형 키즈카페 종로구 혜화동점(종로 혜명 아이들 상상놀이터)": {
    "real": 477,
    "ad": 0,
-   "recent": 19,
+   "recent": 20,
+   "blogs": 92,
+   "topBlog": 0.010869565217391304,
    "honestMarks": 0,
    "sample": 92,
    "sampleAd": 0,
@@ -4968,11 +5233,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 종로구 숭인1동점(소담누리 놀이터)": {
-   "real": 30,
+   "real": 32,
    "ad": 0,
-   "recent": 20,
+   "recent": 22,
+   "blogs": 25,
+   "topBlog": 0.04,
    "honestMarks": 0,
-   "sample": 23,
+   "sample": 25,
    "sampleAd": 0,
    "pick": {
     "title": "[종로구 아이랑] 서울형키즈카페 숭인1동점 가오픈 솔직 후기! 예약 없이 방문, 청룡유치원의 변신...",
@@ -4985,6 +5252,8 @@ window.STATS = {
    "real": 153,
    "ad": 2,
    "recent": 19,
+   "blogs": 80,
+   "topBlog": 0.0125,
    "honestMarks": 0,
    "sample": 80,
    "sampleAd": 1,
@@ -4996,25 +5265,29 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 중구 중림동점(노리몽땅)": {
-   "real": 187,
+   "real": 189,
    "ad": 0,
-   "recent": 22,
+   "recent": 24,
+   "blogs": 93,
+   "topBlog": 0.010752688172043012,
    "honestMarks": 3,
    "sample": 93,
    "sampleAd": 0,
    "pick": {
-    "title": "서울 장난감 도서관 추천｜중림동 키즈토이 후기 (+대여방법, 이용정보)",
-    "url": "https://blog.naver.com/wishyou410/224257070994",
-    "blog": "휘링링의 일상 기록",
-    "date": "2026-04-18"
+    "title": "[육아로그16] 2천원대 서울형 키즈카페 후기- 중림동 놀이몽땅",
+    "url": "https://blog.naver.com/clarity1836/224439303235",
+    "blog": "Clarity",
+    "date": "2026-10-12"
    }
   },
   "서울형 키즈카페 중구 장충점(노리몽땅)": {
-   "real": 110,
+   "real": 111,
    "ad": 3,
-   "recent": 13,
+   "recent": 14,
+   "blogs": 71,
+   "topBlog": 0.014084507042253521,
    "honestMarks": 0,
-   "sample": 70,
+   "sample": 71,
    "sampleAd": 2,
    "pick": {
     "title": "[서울형 키즈카페] 노리몽땅 장충점(중구), 물감놀이 후기 및 주차팁",
@@ -5024,11 +5297,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 중구 을지로동점(노리몽땅)": {
-   "real": 31,
+   "real": 33,
    "ad": 0,
-   "recent": 10,
+   "recent": 11,
+   "blogs": 26,
+   "topBlog": 0.038461538461538464,
    "honestMarks": 0,
-   "sample": 25,
+   "sample": 26,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 * 중구 을지로동점(노리몽땅) * 예약/주차/이용 후기",
@@ -5038,9 +5313,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 중랑구 망우본동점(중랑실내놀이터 양원)": {
-   "real": 280,
+   "real": 284,
    "ad": 0,
-   "recent": 40,
+   "recent": 43,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 0,
    "sample": 95,
    "sampleAd": 0,
@@ -5052,9 +5329,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 중랑구 면목4동점(중랑실내놀이터 면목4동점)": {
-   "real": 340,
+   "real": 341,
    "ad": 0,
-   "recent": 17,
+   "recent": 18,
+   "blogs": 91,
+   "topBlog": 0.021739130434782608,
    "honestMarks": 0,
    "sample": 92,
    "sampleAd": 0,
@@ -5066,11 +5345,13 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 중랑구 면목5동점 (중랑실내놀이터 늘푸른공원점)": {
-   "real": 43,
+   "real": 44,
    "ad": 0,
-   "recent": 11,
+   "recent": 12,
+   "blogs": 37,
+   "topBlog": 0.02702702702702703,
    "honestMarks": 2,
-   "sample": 36,
+   "sample": 37,
    "sampleAd": 0,
    "pick": {
     "title": "서울형 키즈카페 | 중랑구 면목5동 늘푸른공원점, 블랙라이트 데이와 놀이공간 솔직 후기",
@@ -5080,9 +5361,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 중랑구 망우본동 2호점(중랑실내놀이터 망우역점)": {
-   "real": 280,
+   "real": 284,
    "ad": 0,
-   "recent": 40,
+   "recent": 43,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 0,
    "sample": 95,
    "sampleAd": 0,
@@ -5094,9 +5377,11 @@ window.STATS = {
    }
   },
   "서울형 키즈카페 중랑구 망우본동 3호점(중랑실내놀이터 망우본동 주민센터점)": {
-   "real": 280,
+   "real": 284,
    "ad": 0,
-   "recent": 40,
+   "recent": 43,
+   "blogs": 95,
+   "topBlog": 0.010526315789473684,
    "honestMarks": 0,
    "sample": 95,
    "sampleAd": 0,
@@ -5111,6 +5396,8 @@ window.STATS = {
    "real": 46,
    "ad": 5,
    "recent": 7,
+   "blogs": 40,
+   "topBlog": 0.04878048780487805,
    "honestMarks": 0,
    "sample": 41,
    "sampleAd": 4,
@@ -5124,7 +5411,9 @@ window.STATS = {
   "서울형 키즈카페 중랑구 중화2동점(중랑실내놀이터 중랑역점)": {
    "real": 17,
    "ad": 2,
-   "recent": 6,
+   "recent": 7,
+   "blogs": 12,
+   "topBlog": 0.08333333333333333,
    "honestMarks": 0,
    "sample": 12,
    "sampleAd": 1,
